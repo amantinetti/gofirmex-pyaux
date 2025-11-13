@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+	<SetDTE ID="ID436365b1ebf64f3883909871fc64748e">
+		<Caratula version="1.0">
+			<RutEmisor>77689118-5</RutEmisor>
+			<RutEnvia>10823081-9</RutEnvia>
+			<RutReceptor>77413831-5</RutReceptor>
+			<FchResol>2025-09-08</FchResol>
+			<NroResol>0</NroResol>
+			<TmstFirmaEnv>2025-09-08T13:20:37</TmstFirmaEnv>			
+		<SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+	<DTE version="1.0">
+	<Documento ID="F1402T33">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>1402</Folio>
+				<FchEmis>2025-01-10</FchEmis>
+				<MntBruto>1</MntBruto>
+				<TpoTranVenta>1</TpoTranVenta>
+				<TermPagoGlosa>DEPOSITO O TRANSFERENCIA</TermPagoGlosa>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>77689118-5</RUTEmisor>
+				<RznSoc>ULTRA PC DHC SPA</RznSoc>
+				<GiroEmis>VENTA DE EQUIPOS COMPUTACIONALES Y SUS PERIFERICOS, SERV.TECNICO DE PC</GiroEmis>
+				<CorreoEmisor>contacto@ultrapc.cl</CorreoEmisor>
+				<Acteco>474100</Acteco>
+				<DirOrigen>F NOGUERA 217 DP 41</DirOrigen>
+				<CmnaOrigen>PROVIDENCIA</CmnaOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>77413831-5</RUTRecep>
+				<RznSocRecep>FIRMEX SPA</RznSocRecep>
+				<GiroRecep>Servicios Profesionales Informaticos</GiroRecep>
+				<DirRecep>Av Vitacura 2939 Of 301</DirRecep>
+				<CmnaRecep>ÑUÑOA</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>66420</MntNeto>
+				<MntExe>0</MntExe>
+				<TasaIVA>19</TasaIVA>
+				<IVA>12620</IVA>
+				<MntTotal>79040</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>3228X453195060</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Funda Notebook 14 14.6 Neopreno Negro Con Cierre</NmbItem>
+			<QtyItem>2</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>7000</PrcItem>
+			<MontoItem>14000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>3323X466532585</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Audífono Headset HP DHE-8009 Negro</NmbItem>
+			<QtyItem>2</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>12000</PrcItem>
+			<MontoItem>24000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>3</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>3307X464286265</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Accesorio Para Notebook Opula Kit de Limpieza KCL-1005</NmbItem>
+			<QtyItem>2</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>4000</PrcItem>
+			<MontoItem>8000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>4</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>3342X469200090</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Mochila Para Notebook Negra 15.6" con Salida Carga USB y Auriculares</NmbItem>
+			<QtyItem>3</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>10000</PrcItem>
+			<MontoItem>30000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>5</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>GX3</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Garantía 90 Días por Fallas de Servicio Técnico</NmbItem>
+			<QtyItem>1</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<MontoItem>0</MontoItem>
+		</Detalle>
+		<DscRcgGlobal>
+			<NroLinDR>1</NroLinDR>
+			<TpoMov>R</TpoMov>
+			<TpoValor>%</TpoValor>
+			<ValorDR>4</ValorDR>
+		</DscRcgGlobal>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>PW</TpoDocRef>
+			<FolioRef>56338</FolioRef>
+			<FchRef>2025-01-10</FchRef>
+			<RazonRef>pedidos web</RazonRef>
+		</Referencia>
+	<TED version="1.0"><DD><RE>77689118-5</RE><TD>33</TD><F>1402</F><FE>2025-01-10</FE><RR>77413831-5</RR><RSR>FIRMEX SPA</RSR><MNT>79040</MNT><IT1>Funda Notebook 14 14.6 Neopreno Negro Co</IT1><CAF version="1.0"><DA><RE>77689118-5</RE><RS>ULTRA PC DHC SPA</RS><TD>33</TD><RNG><D>1337</D><H>1436</H></RNG><FA>2024-12-10</FA><RSAPK><M>zGygV3NzLD6WkHmVX5e2LoWeABnh4h/OaEqUsSbN9gYlwdgSPYhta1uP+qZ9i9u13fFzKMfYMFh3lxvGv2oHmw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">j/ycP4+scNamzjsFs00EcTv4Gr7XSshzZLVw78iaZX5Y1eruX62UxmPaTWrAU72Rs+BryaWRxEsaGwpPNu3fUg==</FRMA></CAF><TSTED>2025-01-10T15:49:17</TSTED></DD><FRMT algoritmo="SHA1withRSA">knldPjQkLuDELX4Kgztolk0dNO8W+lcYac77Lzj6Ju84xAg3MQCsylorCsBRzboOUJkr9yhDNzBP8EeMJkM3jg==</FRMT></TED><TmstFirma>2025-01-10T15:49:17</TmstFirma></Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F1402T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>+NeX4OJb3xtpuJJELx5mjgvlajk=</DigestValue></Reference></SignedInfo><SignatureValue>ok2MYqxt0+JqYCosCo7MqkrZUMqZjY5KePkmaN868xcsqKDB8eR7pXr3eV3sug6VCP5m5xcKrla6
+T5SgAMeC5RSoxoWEO7AXj1IRdOFAZUqB7i+J8ZG9FceX+CdWt9+1yrNlVOIsuq6wrOuF5nF29Pv+
+A/yFayOXwk7E8ES7wlYiIPVNL7qOlKr5z5cuQAA+DYxbjRYAs9IrSx74zDFSPYg+Ck04geCZ8oD4
+su26H/ZM5pp34RtYqs5/mvEGspQFDlcSkUIf9niAGqNVWqUOeVLNUgUW4hLldudatZ9bc21ARpM+
+RugBdEqrMVeF941WjAQDOCsRrphTn5aRjHzj2w==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>w0XF1fTYHudWxA3xO8tK0qk7cen90dYuj4EVB8ymTrY6eHtKEDGdGNs/HfuN0MP5nJ0/zydPBPfu
+rPlZ/1M6ndiojCa+8MwyVGUPf2wX2zYemmTRbCd+45ze8ByASUukwubnQwLDlGhCkOU2+kLotFNP
+fqgeajYQxaZK74NRaKVkWRvKLbQZ4I8PTLKckvrTUY9ZnG8cPCGQX0S2QkNv7IHE5f26phBY8LuG
+MRhXDDrUhqpZH9gpIbwb6YW0i2e+4y42fvxzhmdiNLikVMntYe4IKzyqT5Kg4xZAJG0bSFb/S6DY
+D33GhbcdD7x05K4ee0XzVuuOP+EwAxW5B1q8LQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIHzTCCBbWgAwIBAgIKW0S0RAABAANYZzANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTIyMTAyNjEwNTAxMFoXDTI1MTAyNTEwNTAxMFowgckxCzAJBgNVBAYTAkNMMSIw
+IAYDVQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFHTzEoMCYG
+A1UEChMfU0VSVklDSU9TIFkgVEVDTk9MT0dJQSBMSU1JVEFEQTEKMAgGA1UECwwBKjEoMCYGA1UE
+AxMfREFOSUVMIEFORFJFIFZBTEVOWlVFTEEgTkFWQVJSTzEjMCEGCSqGSIb3DQEJARYURkFDVFVS
+QUNJT05AREVTSVMuQ0wwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDRcXV9Nge51bE
+DfE7y0rSqTtx6f3R1i6PgRUHzKZOtjp4e0oQMZ0Y2z8d+43Qw/mcnT/PJ08E9+6s+Vn/Uzqd2KiM
+Jr7wzDJUZQ9/bBfbNh6aZNFsJ37jnN7wHIBJS6TC5udDAsOUaEKQ5Tb6Qui0U09+qB5qNhDFpkrv
+g1FopWRZG8ottBngjw9MspyS+tNRj1mcbxw8IZBfRLZCQ2/sgcTl/bqmEFjwu4YxGFcMOtSGqlkf
+2CkhvBvphbSLZ77jLjZ+/HOGZ2I0uKRUye1h7ggrPKpPkqDjFkAkbRtIVv9LoNgPfcaFtx0PvHTk
+rh57RfNW644/4TADFbkHWrwtAgMBAAGjggK9MIICuTCCAV8GA1UdIASCAVYwggFSMIIBTgYIKwYB
+BAHDUgUwggFAMD0GCCsGAQUFBwIBFjFodHRwczovL3d3dy5lLWNlcnRjaGlsZS5jbC9wb2xpdGlj
+YXMteS1wcmFjdGljYXMvMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUA
+cgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAAcgBlAHEAdQBp
+AHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABhAHIAYQAgAGQAYQByACAA
+aQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBj
+AGEAYwBpAPMAbgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFCDg
+EqELis3h1xq8a11tt99beARtMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwW
+CjE3MjcxOTU1LTQwHwYDVR0jBBgwFoAUdNYhs/Ra6C18u1kGY0PvabQ6kwQwQAYDVR0fBDkwNzA1
+oDOgMYYvaHR0cDovL2NybC5lY2VydGNoaWxlLmNsL0UtQ0VSVENISUxFQ0FGRVMwMi5jcmwwPQYI
+KwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcGZlcy5lY2VydGNoaWxlLmNsL29j
+c3AwPAYJKwYBBAGCNxUHBC8wLQYlKwYBBAGCNxUIgd3STZfUOoaJnQaHiM5vg6/MYEWG0uwIhsfK
+fQIBZAIBBzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEL
+BQADggIBACX9prE0YjdrvVHAVP2aQHJAU/zrDKBSN9PeEWY9260oPyg5mi6gZ/IjAsCY5yi2qZuA
+KbHMk6syNpKm+qxcurixOBZEREiVFrlFEDrYYIVrwtKy1pxkDXsoSXxhO6GxKT9Q64bBXiAtcTzY
+tWL5RBwc9OGOPmP2ZvuC0ZYTxgZt3shOmBYfHwIyDpos91U4OjTsGx3MbZsU7cq6v8GgfFwKohBC
+BYs4VofXebIT2pbY7DyPB7ORdJvL3TmG8X2epSfXE3/1itwQsmzNnYkhHNgTEyVEa8J79++8lEo0
+RzGCn88NCMZ5WcHRcHw4N2Ord7bwS8sOG9kBUM6OCgkGfoMRj267w6zZ87KpwenW9uXMqn/B3xcS
+eNaI7uQK4D1U+8UzsjnVswSZDaPXz722mLi4Xtx4w5X2ck9kEKWxNTjFJexQNsb6F9jUF6ekU2rP
+f5xqFQSFjDdLKm32W5mxdop+A30VPIIgIE8p20KU1i0J0LXeqDWPNbJHwPqjTvOSyCxuDlz0w1Og
+SOs3Y1+ydlFcc7uOOpvTqbxuJyhKczXdBAZGFcegoo5NZAcFXBYCFDpGYKBQIf7u/zNpg6FfWhsu
+W1wwomoSrV/s6ndT/fecoDTPBhlbvYu3ClxEoWWl/HH51uEpUE29vf4I7iqqAry9KEpwM5mbXngF
+8u00cbzJ</X509Certificate></X509Data></KeyInfo></Signature></DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ID436365b1ebf64f3883909871fc64748e"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>nybScRN6r7gbxc8VMerQdRzyQb4=</DigestValue></Reference></SignedInfo><SignatureValue>
+UetNedRfa8A4R2ewVzR0VLyklI5AU2rPGE6IhHBQ6PMl+YKYibh95e4zJtwwxarO
+r46YdClCCJDHzT6wLGI2hOYKsXMWvliZt6ntJE3s0Ksqx+0i61jD+Dj6lQ42Fc2k
+9ZIw8RS679x9w3MchoA513s2pDDtI18coybNTbJ795U=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+sh/HGLFgj7aNerEbhbaEZBtbXZxuKj2tMrgXHeGblGEJKmSvi2vCNLE0/sgfbbU0
+3W8E6Z5dNTmpHIGwiIZ0inJXFNz8XB7JnAjPaRIwqNQkOT73CG5JWSCtXpCv4Rqn
+piLuRxhS43lRE7TWgpHIfKsCwqFhQEErQorWLy2mywc=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGRTCCBS2gAwIBAgIKR7JBXAAAAAyA5TANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xODExMjYxODA4MzlaFw0yMTExMjUxODA4MzlaMIHG
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMRwwGgYDVQQKExNERUZPTlRBTkEgQ0hJTEUg
+U1BBMRcwFQYDVQQLEw5BRE1JTklTVFJBQ0lPTjEgMB4GA1UEAwwXRGllZ28gIEdv
+bnrDoWxleiBHYW1ib2ExJjAkBgkqhkiG9w0BCQEWF2Rnb256YWxlekBkZWZvbnRh
+bmEuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyH8cYsWCPto16sRuF
+toRkG1tdnG4qPa0yuBcd4ZuUYQkqZK+La8I0sTT+yB9ttTTdbwTpnl01OakcgbCI
+hnSKclcU3PxcHsmcCM9pEjCo1CQ5PvcIbklZIK1ekK/hGqemIu5HGFLjeVETtNaC
+kch8qwLCoWFAQStCitYvLabLBwIDAQABo4ICqTCCAqUwggFPBgNVHSAEggFGMIIB
+QjCCAT4GCCsGAQQBw1IFMIIBMDAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNl
+cnRjaGlsZS5jbC9DUFMuaHRtMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUA
+cwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAA
+ZQBzACAAdQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4A
+cwBhAGIAbABlACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwA
+IABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMA
+bgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFOwl
+dFE/aw+9wgP4IElpaoeofERBMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsG
+AQQBwQEBoAwWCjEwODIzMDgxLTkwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOz
+QykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5j
+bC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcw
+AYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQw
+MC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYGa5xWGr+AVAgFkAgEE
+MCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0B
+AQUFAAOCAQEANKI7KbcjS+agDnHW1iu9xaz0EsB2EBVn1qCbZYwezSukrsyzr42j
+0AMCWN0bNAxLzSkjEWA5P3+SwREg+qgucbO4mhNiB73dOQ6ULaVQ4wajtph7yule
+h4RlRf5WGxi5OHrl1MF3Fgp51JB7HgEZByUfaMCvGJ3BQQWR2qLZ90mYJpVgZhxw
+VuWMzB4MiAZhu5I0LTDGi1StZn/0fa2/LvkAT89Gwp40h4zV+DxbkQRh0gePjeAx
+QImVHOe/egB4OogRPu0h7YoJAz7Yc8d88rTUN90KZichrJHvflQSWthoZwt28K1p
+dp8iKqVfCKNgxwRAcVJ/iVq/2NRHX2Id0A==
+</X509Certificate></X509Data></KeyInfo></Signature>
+</EnvioDTE>

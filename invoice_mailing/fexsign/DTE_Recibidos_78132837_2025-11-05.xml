@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SetDTE>
+<DTE version="1.0" >		<Documento ID="EMI76691442KF246533T33">
+			<Encabezado>
+				<IdDoc>
+					<TipoDTE>33</TipoDTE>
+					<Folio>246533</Folio>
+					<FchEmis>2025-10-08</FchEmis>
+					<FmaPago>2</FmaPago>
+					<TermPagoGlosa>30 dias</TermPagoGlosa>
+					<FchVenc>2025-11-07</FchVenc>
+				</IdDoc>
+				<Emisor>
+					<RUTEmisor>76691442-K</RUTEmisor>
+					<RznSoc>BUK SPA</RznSoc>
+					<GiroEmis>Servicios Inform&#225;ticos</GiroEmis>
+					<Telefono>56963107336</Telefono>
+					<Acteco>702000</Acteco>
+					<DirOrigen>Rosario Norte 555, of 1801</DirOrigen>
+					<CmnaOrigen>LAS CONDES</CmnaOrigen>
+					<CdgVendedor>127241</CdgVendedor>
+				</Emisor>
+				<Receptor>
+					<RUTRecep>78132837-5</RUTRecep>
+					<RznSocRecep>FexSign SpA</RznSocRecep>
+					<GiroRecep>639900 - Otras actividades de servicios</GiroRecep>
+					<CorreoRecep>arturo@gofirmex.com</CorreoRecep>
+					<DirRecep>Av. Vitacura 2939 OF 301, Las Condes, Santiago</DirRecep>
+					<CmnaRecep>Las Condes</CmnaRecep>
+					<CiudadRecep>Santiago</CiudadRecep>
+				</Receptor>
+				<Totales>
+					<MntNeto>183214</MntNeto>
+					<TasaIVA>19.00</TasaIVA>
+					<IVA>34811</IVA>
+					<MntTotal>218025</MntTotal>
+				</Totales>
+			</Encabezado>
+			<Detalle>
+				<NroLinDet>1</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Suscripcion - Octubre 2025 / 13 empleados / UF: $39.485,65 / gofirmex</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>138200.000000</PrcItem>
+				<MontoItem>138200</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>2</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Convenio Farmacia - Octubre 2025 / 7 empleados / UF: $39.485,65</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>6357.000000</PrcItem>
+				<MontoItem>6357</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>3</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Telemedicina (Medismart) - Octubre 2025 / 7 empleados / UF: $39.485,65</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>10227.000000</PrcItem>
+				<MontoItem>10227</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>4</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Wellhub (Gympass) Starter - Octubre 2025 / 5 empleados / UF: $39.485,65</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>28430.000000</PrcItem>
+				<MontoItem>28430</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>5</NroLinDet>
+				<IndExe>2</IndExe>
+				<NmbItem>OBSERVACIONES</NmbItem>
+				<DscItem>-Realizar el pago a la cuenta corriente N22001418 del Banco Bice a nombre de Buk SPA Rut 76.691.442-K. Cuando se realice el pago, notificar al correo pagoclientes@buk.cl, indicando el numero de factura correspondiente y la fecha en que se realizo el pago-</DscItem>
+				<MontoItem>0</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>6</NroLinDet>
+				<IndExe>2</IndExe>
+				<NmbItem>OBSERVACIONES</NmbItem>
+				<DscItem>Vendedor:\n</DscItem>
+				<MontoItem>0</MontoItem>
+			</Detalle>
+<TED version="1.0">
+  <DD>
+    <RE>76691442-K</RE>
+    <TD>33</TD>
+    <F>246533</F>
+    <FE>2025-10-08</FE>
+    <RR>78132837-5</RR>
+    <RSR>FexSign SpA</RSR>
+    <MNT>218025</MNT>
+    <IT1>Suscripcion - Octubre 2025 / 13 empleado</IT1>
+    <CAF version="1.0">
+      <DA>
+        <RE>76691442-K</RE>
+        <RS>BUK SPA</RS>
+        <TD>33</TD>
+        <RNG>
+          <D>216321</D>
+          <H>258435</H>
+        </RNG>
+        <FA>2025-07-02</FA>
+        <RSAPK>
+          <M>v++STTO/Tv7KsCdzXwtRd6+WNzgt0g79sbYSHcTXIuBFtLGtJm/IP1TQAT7EB7o7IeDOc2dVqQnua0caPGyNiQ==</M>
+          <E>Aw==</E>
+        </RSAPK>
+        <IDK>300</IDK>
+      </DA>
+      <FRMA algoritmo="SHA1withRSA">UvAPyA+v2u+Kpk2ielaSMnRj+wYk39im75CjUx5j2ZsQadQmZLy0fvoeqC21eeihwMHfCBcfN2KGEMzZkL77iA==</FRMA>
+    </CAF>
+    <TSTED>2025-10-10T16:15:03</TSTED>
+  </DD>
+  <FRMT algoritmo="SHA1withRSA">YLqz8+36zweFdQmPCQbPJIc4LOVkEBE5ZmInbXH5w6y/mML1B/aacNGKFNiZePUyR5p79Y+tgK509ps2mp7mCg==</FRMT>
+</TED>			<TmstFirma>2025-10-10T16:15:03</TmstFirma>
+		</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#EMI76691442KF246533T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>dtrokMva4dyURxb+r9QQw/1HtYY=</DigestValue></Reference></SignedInfo><SignatureValue>d3toJQjQSvGxLfX/YwOTcWOWtBZs8K7F9iDccHsIjIiVMDru+ggeF2FA7gnUqmepvn1RzI5c4lJO
+d6rRa6TJXxUQNRC6m60z96SYin5LCR7iG0MmFB8jhIkILlMBVdyiuzgjp/7Uwp4On2DmB5gdej90
+3quLtSIOFYBArHbS5kQ1Mzus/mUd5Pj8rQUacteCzYwXUgrdidQzWvCRxp5qTsWWqJQdreRZv/eV
+4IBXHE+h3oCZbRc0sGbx/9qmhGzOJkSS/4lHEynFC9AStsh/itQ7OAALBADY1/EtBjHmPFYr4a0N
+Rf60yIPsCCVbPeqkEIGBHDo0KeI906SZAGcxBg==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>p9hQyUmlRN6m0vPq4jaXmyPJHbaSK5Yqv9ykX7JokngVvn6sD0oc8nZ6AsPfmcxxEXDu519a31vw
+NZDculhI5wpvDjTQSvLSleB8oC2QW9x1N2gLq9uRqQo2A+JzCFiBZLGMl5YPFw+sfS2pit9nKAac
+ToIuvNzLAhdOfTV8011aPiq/eGj51g383GQvxa0I6+pU8ni85mQHWwe9iWKcQgTBmSWAbkbUCd+r
+z6N6BEXuu5WawOu0Hoe2IGPtlgHCwM3eeynXRiw8bEXYOPejoBf7hLTZlT8IaF41wUQ+eynczyZN
+CidLc51pwD+gTZMBCaC86DIKjGwB/Rnq+6kqCQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGuzCCBaOgAwIBAgIDBU/vMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0yNTA2MjYxNDEwMDFaFw0yNjA2MjYx
+NDEwMDFaMH8xCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxHjAcBgNVBAMT
+FUpBSU1FIEFSUklFVEEgQk9FVFNDSDEhMB8GCSqGSIb3DQEJARYSRkFDVFVSQUNJT05AQlVLLkNM
+MRMwEQYDVQQFEwoxNjIwOTgyNy02MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp9hQ
+yUmlRN6m0vPq4jaXmyPJHbaSK5Yqv9ykX7JokngVvn6sD0oc8nZ6AsPfmcxxEXDu519a31vwNZDc
+ulhI5wpvDjTQSvLSleB8oC2QW9x1N2gLq9uRqQo2A+JzCFiBZLGMl5YPFw+sfS2pit9nKAacToIu
+vNzLAhdOfTV8011aPiq/eGj51g383GQvxa0I6+pU8ni85mQHWwe9iWKcQgTBmSWAbkbUCd+rz6N6
+BEXuu5WawOu0Hoe2IGPtlgHCwM3eeynXRiw8bEXYOPejoBf7hLTZlT8IaF41wUQ+eynczyZNCidL
+c51pwD+gTZMBCaC86DIKjGwB/Rnq+6kqCQIDAQABo4IDFjCCAxIwCQYDVR0TBAIwADAfBgNVHSME
+GDAWgBSq/b3F6TdN9plNV47BcRr568MG4zAdBgNVHQ4EFgQUWDBkzi7tkZPm+Z3QaKANO+3PLBcw
+CwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCB+gYDVR0gBIHyMIHv
+MIHsBggrBgEEAbVrAjCB3zAxBggrBgEFBQcCARYlaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vQ1BT
+LUFjZXB0YWNvbTCBqQYIKwYBBQUHAgIwgZwwFhYPQWNlcHRhLmNvbSBTLkEuMAMCAQIagYFFbCB0
+aXR1bGFyIGhhIHNpZG8gdmFsaWRhZG8gZW4gZm9ybWEgcHJlc2VuY2lhbCwgcXVlZGFuZG8gaGFi
+aWxpdGFkbyBlbCBDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmlidXRhcmlvLCBwYWdvcywgY29tZXJj
+aW8geSBvdHJvcy4wWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUF
+BwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBdBgNVHREEVjBU
+oBgGCCsGAQQBwQEBoAwWCjE2MjA5ODI3LTagJAYIKwYBBQUHCAOgGDAWDAoxNjIwOTgyNy02Bggr
+BgEEAcEBAoESRkFDVFVSQUNJT05AQlVLLkNMMIGfBggrBgEFBQcBAQSBkjCBjzBUBggrBgEFBQcw
+AoZIaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vZGVzY2FyZ2FzL2FjZXB0YS5jb20uZzQuQ2xhc2Uz
+UGVyc29uYU5hdHVyYWwuY3J0MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNvbS9h
+Y2c0L29jc3AvQ2xhc2UzLUc0MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEu
+Y29tL2FjZzQvY3JsL0NsYXNlMy1HNC5jcmwwDQYJKoZIhvcNAQELBQADggEBAELawwBtPYfmdpd6
+ZW56CyzWY4Kt0lYsDbXoEnoq2bY9vo822J5Rk24s4fpAE8IZfE5teznnowDTUIGCu+3lrkwtAYsJ
+71sW/GQe3KxBrOUfRdaExyXduN6PY+KrnbR2R2gvIMJO4LNSqMhN/e+POvbRlYRNG+zDcArgkiQH
+FmzIGkx2i0Ysx1FqiEqHYNDELZp9Va3gSdOGlXmSyi5ogb8dcse89zMIdqP9vDu+HoQJN1Bm/Fwn
+NhfbqqeQiH4NnG/wlSOkfQhXAYPU0v+jxdXM/fGWFNgALrKVLEuUNTU05ksQYYUKPjmbAwn9QWGD
+Y0qIm/0/lo7NMGIKlxpbAMQ=</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+  <Documento ID="F28758778T33">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>28758778</Folio>
+        <FchEmis>2025-10-07</FchEmis>
+       <FmaPago>1</FmaPago>
+   </IdDoc>
+      <Emisor>
+        <RUTEmisor>97006000-6</RUTEmisor>
+        <RznSoc>BANCO DE CREDITO E INVERSIONES</RznSoc>
+        <GiroEmis>BANCO COMERCIAL</GiroEmis>
+        <Acteco>81011</Acteco>
+        <Sucursal>Oficina Central</Sucursal>
+        <CdgSIISucur>65951389</CdgSIISucur>
+        <DirOrigen>Huerfanos 1134</DirOrigen>
+        <CmnaOrigen>Santiago Centro</CmnaOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>78132837-5</RUTRecep>
+        <RznSocRecep>FEXSIGN SPA</RznSocRecep>
+        <GiroRecep>ACT. CONSULT. INFOR. GEST. INST. INFOR.</GiroRecep>
+        <DirRecep>AV VITACURA 2939 OF 301</DirRecep>
+        <CmnaRecep>LAS CONDES</CmnaRecep>
+        <CiudadRecep>SANTIAGO</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>1741</MntNeto>
+        <TasaIVA>19.0</TasaIVA>
+        <IVA>331</IVA>
+        <MntTotal>2072</MntTotal>
+        <MontoNF>0</MontoNF>
+        <SaldoAnterior>0</SaldoAnterior>
+        <VlrPagar>0</VlrPagar>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Comision mensual tarjeta de credito visa terminada en 2862</NmbItem>
+      <MontoItem>1741</MontoItem>
+    </Detalle>
+    <TED version="1.0">
+      <DD>
+        <RE>97006000-6</RE>
+        <TD>33</TD>
+        <F>28758778</F>
+        <FE>2025-10-07</FE>
+        <RR>78132837-5</RR>
+        <RSR>FEXSIGN SPA</RSR>
+        <MNT>2072</MNT>
+        <IT1>Comision mensual tarjeta de credito visa</IT1>
+        <CAF version="1.0">
+          <DA>
+            <RE>97006000-6</RE>
+            <RS>BANCO DE CREDITO E INVERSIONES</RS>
+            <TD>33</TD>
+            <RNG>
+              <D>28078996</D>
+              <H>28778995</H>
+            </RNG>
+            <FA>2025-05-23</FA>
+            <RSAPK>
+              <M>0y36Y7AuvzwQJWZldtxavqBgYT+Y9GwRyiSkdF+QkXkx0nD1xUwhijmiF8CJWBI7t9dzI9wh/KpZ+I2mhWQVTQ==</M>
+              <E>Aw==</E>
+            </RSAPK>
+            <IDK>300</IDK>
+          </DA>
+          <FRMA algoritmo="SHA1withRSA">ZkVQaxE3Fp/FlZkpxT6cNaZ/nkT/x2IdbRmR0LSZZJWtGZGlLgl466jgE8LiB3qLPKmBwrlvbRdzZEse77XWDA==</FRMA>
+        </CAF>
+        <TSTED>2025-10-07T23:59:00</TSTED>
+      </DD>
+      <FRMT algoritmo="SHA1withRSA">FCkAJVbMYAjylwsdVyyt02t3YTlci1HrQBEBdp6Ky/aklAAElnnMZ5RAEM/KLoXP/jfAjkYHtW0u1uRVEA3Rog==</FRMT>
+    </TED>
+    <TmstFirma>2025-10-07T23:59:00</TmstFirma>
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F28758778T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>NCYGR6SnjSFlVcwWGNzoLnkuib8=</DigestValue></Reference></SignedInfo><SignatureValue>McHSBD73KHBvm3LhCzZYVbKZ9d6nrp6GkQasnsjIBG8k0ixqVyNsgiQxsJQa9OSo8X2lrUhkATihtsOt4ijcyNYll+cVWdObqYIgtRABFpgH0LYiJGMVMXYKSYG0fcV3+1gb62wvwOIXXw2Av94wxhkexeUQKJPoSaSlsuBbEk8rerUALXl8dEPRe4M4fGVLWB0fm8eC84xzFxRyLSQ3deoZS7RM/GtiTyZZMchbVDuHCMw6GLDqWOLIFYcZ2krKoY62nFF0cJbrLbcalpt/v0Vxd0nMJcQs/NKOlDmEq/j+eO+My5LGVR8R1Ii2/0QGGR1E3HB55uqDbQCFaHBCsA==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xQGQ1wJ9hVE2s0r01FvJRUmw6oE6iur4ZiMGqjnE9EsZvTtFObfYibAMq3bPQZrQJYvQCgi9mip+UoqRx8ePsCk+Wwc9TE/uXNPEPkl3AInKSP7BCLZkBLCiRWLietADZHPM62MDZi0Y5V95yimC+4DE/9YGjtdvmBYx7vB9tuM45RkU1MKqTh+eJEvyYJlgO2iHfP4CDNoakFe94vDSnmWyr8BSy+ZwRDksTGVpK3hNCRlQVl8cophKY94MHCnMw8AzZuBF5lFS+w7xRMIySr7kJmIVpzzAka+VsKzqwnG7EpxEpppfhXCcGI7JR2a4TjCabgrmRjPAO1zKjSPd1w==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+  <Documento ID="F28758776T33">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>28758776</Folio>
+        <FchEmis>2025-10-07</FchEmis>
+       <FmaPago>1</FmaPago>
+   </IdDoc>
+      <Emisor>
+        <RUTEmisor>97006000-6</RUTEmisor>
+        <RznSoc>BANCO DE CREDITO E INVERSIONES</RznSoc>
+        <GiroEmis>BANCO COMERCIAL</GiroEmis>
+        <Acteco>81011</Acteco>
+        <Sucursal>Oficina Central</Sucursal>
+        <CdgSIISucur>65951389</CdgSIISucur>
+        <DirOrigen>Huerfanos 1134</DirOrigen>
+        <CmnaOrigen>Santiago Centro</CmnaOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>78132837-5</RUTRecep>
+        <RznSocRecep>FEXSIGN SPA</RznSocRecep>
+        <GiroRecep>ACT. CONSULT. INFOR. GEST. INST. INFOR.</GiroRecep>
+        <DirRecep>AV VITACURA 2939 OF 301</DirRecep>
+        <CmnaRecep>LAS CONDES</CmnaRecep>
+        <CiudadRecep>SANTIAGO</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>3780</MntNeto>
+        <TasaIVA>19.0</TasaIVA>
+        <IVA>718</IVA>
+        <MntTotal>4498</MntTotal>
+        <MontoNF>0</MontoNF>
+        <SaldoAnterior>0</SaldoAnterior>
+        <VlrPagar>0</VlrPagar>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Comision por uso internacional tarjeta de credito visa terminada en 2862</NmbItem>
+      <MontoItem>3780</MontoItem>
+    </Detalle>
+    <TED version="1.0">
+      <DD>
+        <RE>97006000-6</RE>
+        <TD>33</TD>
+        <F>28758776</F>
+        <FE>2025-10-07</FE>
+        <RR>78132837-5</RR>
+        <RSR>FEXSIGN SPA</RSR>
+        <MNT>4498</MNT>
+        <IT1>Comision por uso internacional tarjeta d</IT1>
+        <CAF version="1.0">
+          <DA>
+            <RE>97006000-6</RE>
+            <RS>BANCO DE CREDITO E INVERSIONES</RS>
+            <TD>33</TD>
+            <RNG>
+              <D>28078996</D>
+              <H>28778995</H>
+            </RNG>
+            <FA>2025-05-23</FA>
+            <RSAPK>
+              <M>0y36Y7AuvzwQJWZldtxavqBgYT+Y9GwRyiSkdF+QkXkx0nD1xUwhijmiF8CJWBI7t9dzI9wh/KpZ+I2mhWQVTQ==</M>
+              <E>Aw==</E>
+            </RSAPK>
+            <IDK>300</IDK>
+          </DA>
+          <FRMA algoritmo="SHA1withRSA">ZkVQaxE3Fp/FlZkpxT6cNaZ/nkT/x2IdbRmR0LSZZJWtGZGlLgl466jgE8LiB3qLPKmBwrlvbRdzZEse77XWDA==</FRMA>
+        </CAF>
+        <TSTED>2025-10-07T23:59:00</TSTED>
+      </DD>
+      <FRMT algoritmo="SHA1withRSA">t56zP19/dzsoFhd8NHGGsu/epNw48P0r5n+FrwHn4hqKAVGzreVBbVRIAGM/MrHaY1OaKQ/eusdRkq6YO9zK/w==</FRMT>
+    </TED>
+    <TmstFirma>2025-10-07T23:59:00</TmstFirma>
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F28758776T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>4MHvamEgEjanjRHg5pdmQ0pbNms=</DigestValue></Reference></SignedInfo><SignatureValue>Ofp1rnYdywfFcl1Enct292+isjU1ipNQ7Ogxo/HC9Flvs79AegNA6oFHusIENiiNNtYcgL4DW3ucF8uR6EF8dq51Jn3+IBkqdAlSkuCdQtxxY19woOAeHfvRRHFbdFsxRuXgufGvnr3gGZyzdxffpmTH4zd6mZF0k8AK/JaoQ71TJrcwDVxSWmpfnOl8X67U7ibR8qBqtidPuZ31nKsvdOxOPELpM2JqSUSN4BIxrvsASl5ImYLKx39NNf1nlne0y6abMtozqPy0hQIcgIMLPA+NWpbu8KbyEHPsD/mmfudPfJs6slqlSc5ckqyoCXJHGhxR3RCSgwwO5j1l5Lrltg==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xQGQ1wJ9hVE2s0r01FvJRUmw6oE6iur4ZiMGqjnE9EsZvTtFObfYibAMq3bPQZrQJYvQCgi9mip+UoqRx8ePsCk+Wwc9TE/uXNPEPkl3AInKSP7BCLZkBLCiRWLietADZHPM62MDZi0Y5V95yimC+4DE/9YGjtdvmBYx7vB9tuM45RkU1MKqTh+eJEvyYJlgO2iHfP4CDNoakFe94vDSnmWyr8BSy+ZwRDksTGVpK3hNCRlQVl8cophKY94MHCnMw8AzZuBF5lFS+w7xRMIySr7kJmIVpzzAka+VsKzqwnG7EpxEpppfhXCcGI7JR2a4TjCabgrmRjPAO1zKjSPd1w==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+  <Documento ID="F28758777T33">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>28758777</Folio>
+        <FchEmis>2025-10-07</FchEmis>
+       <FmaPago>1</FmaPago>
+   </IdDoc>
+      <Emisor>
+        <RUTEmisor>97006000-6</RUTEmisor>
+        <RznSoc>BANCO DE CREDITO E INVERSIONES</RznSoc>
+        <GiroEmis>BANCO COMERCIAL</GiroEmis>
+        <Acteco>81011</Acteco>
+        <Sucursal>Oficina Central</Sucursal>
+        <CdgSIISucur>65951389</CdgSIISucur>
+        <DirOrigen>Huerfanos 1134</DirOrigen>
+        <CmnaOrigen>Santiago Centro</CmnaOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>78132837-5</RUTRecep>
+        <RznSocRecep>FEXSIGN SPA</RznSocRecep>
+        <GiroRecep>ACT. CONSULT. INFOR. GEST. INST. INFOR.</GiroRecep>
+        <DirRecep>AV VITACURA 2939 OF 301</DirRecep>
+        <CmnaRecep>LAS CONDES</CmnaRecep>
+        <CiudadRecep>SANTIAGO</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>1577</MntNeto>
+        <TasaIVA>19.0</TasaIVA>
+        <IVA>300</IVA>
+        <MntTotal>1877</MntTotal>
+        <MontoNF>0</MontoNF>
+        <SaldoAnterior>0</SaldoAnterior>
+        <VlrPagar>0</VlrPagar>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Comision mensual tarjeta de credito visa terminada en 2862</NmbItem>
+      <MontoItem>1577</MontoItem>
+    </Detalle>
+    <TED version="1.0">
+      <DD>
+        <RE>97006000-6</RE>
+        <TD>33</TD>
+        <F>28758777</F>
+        <FE>2025-10-07</FE>
+        <RR>78132837-5</RR>
+        <RSR>FEXSIGN SPA</RSR>
+        <MNT>1877</MNT>
+        <IT1>Comision mensual tarjeta de credito visa</IT1>
+        <CAF version="1.0">
+          <DA>
+            <RE>97006000-6</RE>
+            <RS>BANCO DE CREDITO E INVERSIONES</RS>
+            <TD>33</TD>
+            <RNG>
+              <D>28078996</D>
+              <H>28778995</H>
+            </RNG>
+            <FA>2025-05-23</FA>
+            <RSAPK>
+              <M>0y36Y7AuvzwQJWZldtxavqBgYT+Y9GwRyiSkdF+QkXkx0nD1xUwhijmiF8CJWBI7t9dzI9wh/KpZ+I2mhWQVTQ==</M>
+              <E>Aw==</E>
+            </RSAPK>
+            <IDK>300</IDK>
+          </DA>
+          <FRMA algoritmo="SHA1withRSA">ZkVQaxE3Fp/FlZkpxT6cNaZ/nkT/x2IdbRmR0LSZZJWtGZGlLgl466jgE8LiB3qLPKmBwrlvbRdzZEse77XWDA==</FRMA>
+        </CAF>
+        <TSTED>2025-10-07T23:59:00</TSTED>
+      </DD>
+      <FRMT algoritmo="SHA1withRSA">tigrj6VeEfNcuLJhvJijG4zUXli26QJrvJvDnKytCOY+OOFpUDshhneDq5UQbonxKRs/1gBZbm7tJStoNIAi3Q==</FRMT>
+    </TED>
+    <TmstFirma>2025-10-07T23:59:00</TmstFirma>
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F28758777T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Lnyk7cX4nTYPUfcRK6ls3M8/jbU=</DigestValue></Reference></SignedInfo><SignatureValue>qM1sAT9UbU77/UQO8g0ky3kdLfM8mjnOo36dooQpIk9DPmcnE5nUDEc2yzMckEidehBQl36a0imCMQtdO6j5sNcWECF5rCt+7bEExXQ3yiHFq+gWsHNLIYPl0Y7hquy8AYjeBcbG5pwKl8jlxBbxkNcznU9FGN4DzZVZTTdwY0WKxXM22oNw/g1RmpaUb59eu7DAyS84NL1JHGEKD6pir0R03PlXqCcD62YdRLCU4Km0DBDAlaixNiGYIhirpi+0fm6yeBqUmM9gnUC97tRBdash4zIIoEyie6Bag8CxeF/AuOQEVmiOEoYkfUWbW8PrjbFkPmcmhhO+c68Jii7ASw==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xQGQ1wJ9hVE2s0r01FvJRUmw6oE6iur4ZiMGqjnE9EsZvTtFObfYibAMq3bPQZrQJYvQCgi9mip+UoqRx8ePsCk+Wwc9TE/uXNPEPkl3AInKSP7BCLZkBLCiRWLietADZHPM62MDZi0Y5V95yimC+4DE/9YGjtdvmBYx7vB9tuM45RkU1MKqTh+eJEvyYJlgO2iHfP4CDNoakFe94vDSnmWyr8BSy+ZwRDksTGVpK3hNCRlQVl8cophKY94MHCnMw8AzZuBF5lFS+w7xRMIySr7kJmIVpzzAka+VsKzqwnG7EpxEpppfhXCcGI7JR2a4TjCabgrmRjPAO1zKjSPd1w==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Linux aarch64 Chrome 4 central e-factura VERSION: v20190409 -->
+<Documento ID="MiPE77188731-5106">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>785</Folio>
+        <FchEmis>2025-10-06</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>1</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>77188731-7</RUTEmisor>
+        <RznSoc>ZETA TECH SPA</RznSoc>
+        <GiroEmis>COMPRA Y VENTA DE EQUIPOS TECNOL?GICOS NUEVOS O USADOS, SERVICIO TECN</GiroEmis>
+        <CorreoEmisor>jonathan.ancavil.94@hotmail.com</CorreoEmisor>
+        <Acteco>474100</Acteco>
+        <CdgSIISucur>84634246</CdgSIISucur>
+        <DirOrigen>AV EL CANAL 21462 LOS QUELTEHUES</DirOrigen>
+        <CmnaOrigen>PUDAHUEL</CmnaOrigen>
+        <CiudadOrigen>Stgo</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>78132837-5</RUTRecep>
+        <RznSocRecep>FEXSIGN SPA</RznSocRecep>
+        <GiroRecep>ACTIVIDADES DE CONSULTORIA DE INFORMATIC</GiroRecep>
+        <DirRecep>AV VITACURA 2939 LC 301 YOT</DirRecep>
+        <CmnaRecep>LAS CONDES</CmnaRecep>
+        <CiudadRecep>Stgo</CiudadRecep>
+      </Receptor>
+    <Transporte>
+  </Transporte>
+      <Totales>
+        <MntNeto>1274293</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>242116</IVA>
+        <MntTotal>1516409</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>X13 gen 3 core i7 12va</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>433966.00</PrcItem>
+      <MontoItem>433966</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <NmbItem>X1 Yoga Ultra 7</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>840327.00</PrcItem>
+      <MontoItem>840327</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>77188731-7</RE><TD>33</TD><F>785</F><FE>2025-10-06</FE><RR>78132837-5</RR><RSR>FEXSIGN SPA</RSR><MNT>1516409</MNT><IT1>X13 gen 3 core i7 12va</IT1><CAF version="1.0"><DA><RE>77188731-7</RE><RS>ZETA TECH SPA</RS><TD>33</TD><RNG><D>785</D><H>785</H></RNG><FA>2025-10-06</FA><RSAPK><M>v0BD/pwDdhiu3UkvI3ZzL1hcTgYIZd0ckL5MGn/lZrSR5VeF92/5RUIE2EbA/JqzaeoUj4LrPprgupz13yJRqw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">Wa86WbEer5Wt6F8folCSboXSewkn/IDkwhChGbKF4LmF91i5xnWm+UXm3XIoFr+EQM5u247LvE8sFB99Laf2Jg==</FRMA></CAF><TSTED>2025-10-06T14:00:56</TSTED></DD><FRMT algoritmo="SHA1withRSA">IVnKaofph2HLvtUyKawbHfDfmgtaGI/4EsUmy0tWh96y/8jXBL7P2okIu34g9zeGOD08bDUuAVS7+MMFPipZAg==</FRMT></TED>
+    <TmstFirma>2025-10-06T14:00:56</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE77188731-5106">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>gz2vaIELTuIDoaPWQLrFE+kylWo=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+c63HU/lZ2VgtZns+MyV6vWOJlIFDgneiO+wWMqVmK9UI0QYw3mPCKiqTlPL3nIrYwJwO9y6o5oiB
+K71xk+mHpBBqjBS2STs/AO4t72+tw9nucH6SLdlbIJpGWRkAu8/rH3Q6doGBbgsCf4+i/xIJu2k1
+v6O4DbbCbYj0Lh/DhrBavUrz8K8dl7M+35QckTczsphLf3dTkB3AYn2OSq2Pk7oRxJME73s9U2bj
+GCtAa9PWqIsx6MmCqjOK00VQ6w6xuLkiPPl7HH4Q4YtSLkp536DMLM7NE8PLQqXIRKf1w+lFR6dw
+jGbUAZ+BwBveXrVU/RQorlrkkqUQiqbqchWCWA==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+xIPU/q2r9EN1MiDsAm3LLu2AaWsjbbQQSVm2F4dnvMoCPighmejVdSLV+yCzJZtjCrQ+xuGyyJX1
+YpWlNv/JHDRG9VUkbpK5RohKLxgrcW2LTmF0tUUXf1SKKDR/ksLkHaHQkqi+aqwjKbejYYihdjx4
+m+KWgxWh09yB6Y8a3GtvlIaGRu9q8LJbqZal5E8xk072mkQ/MqFLqSES7L7jCIEagZIV2wirsTGe
+nuxZS8xleBvkXYYUC25wyg6Tp6y9G03XYajbhkYEa55buS070fdfjXLLnknneNQRIfB79Gp6Cy6d
+u5tMg12ODTuTPIpo3XdRL3jw+i7VxPczrfULkQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIHujCCBaKgAwIBAgIKc5iX2wABAAbUdDANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTIzMDczMTE0MzIzN1oXDTI2MDczMDE0MzIzN1owgbYxCzAJBgNVBAYTAkNMMSIw
+IAYDVQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFHTzEWMBQG
+A1UEChMNWkVUQSBURUNIIFNQQTEKMAgGA1UECwwBKjEkMCIGA1UEAxMbSk9OQVRIQU4gREFOIFpB
+TU9SQSBBTkNBVklMMSYwJAYJKoZIhvcNAQkBFhdMQ0lTVEVSTkExOTkwQEdNQUlMLkNPTTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMSD1P6tq/RDdTIg7AJtyy7tgGlrI220EElZtheH
+Z7zKAj4oIZno1XUi1fsgsyWbYwq0PsbhssiV9WKVpTb/yRw0RvVVJG6SuUaISi8YK3Fti05hdLVF
+F39Uiig0f5LC5B2h0JKovmqsIym3o2GIoXY8eJviloMVodPcgemPGtxrb5SGhkbvavCyW6mWpeRP
+MZNO9ppEPzKhS6khEuy+4wiBGoGSFdsIq7Exnp7sWUvMZXgb5F2GFAtucMoOk6esvRtN12Go24ZG
+BGueW7ktO9H3X41yy55J53jUESHwe/RqegsunbubTINdjg07kzyKaN13US948Pou1cT3M631C5EC
+AwEAAaOCAr0wggK5MIIBXwYDVR0gBIIBVjCCAVIwggFOBggrBgEEAcNSBTCCAUAwPQYIKwYBBQUH
+AgEWMWh0dHBzOi8vd3d3LmUtY2VydGNoaWxlLmNsL3BvbGl0aWNhcy15LXByYWN0aWNhcy8wgf4G
+CCsGAQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQAZQByACAAZQBzAHQAZQAgAGYAbwBy
+AG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkA
+cwBwAGUAbgBzAGEAYgBsAGUAIABwAGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAg
+AHAAcgBvAGMAZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8A
+cwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQUaTMe8f0Jnef8VVuwqrTlxohJqrYw
+CwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTg3MzgyMTEtNDAfBgNVHSME
+GDAWgBR01iGz9FroLXy7WQZjQ+9ptDqTBDBABgNVHR8EOTA3MDWgM6Axhi9odHRwOi8vY3JsLmVj
+ZXJ0Y2hpbGUuY2wvRS1DRVJUQ0hJTEVDQUZFUzAyLmNybDA9BggrBgEFBQcBAQQxMC8wLQYIKwYB
+BQUHMAGGIWh0dHA6Ly9vY3NwZmVzLmVjZXJ0Y2hpbGUuY2wvb2NzcDA8BgkrBgEEAYI3FQcELzAt
+BiUrBgEEAYI3FQiB3dJNl9Q6homdBoeIzm+Dr8xgRYbS7AiGx8p9AgFkAgEHMCMGA1UdEgQcMBqg
+GAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0BAQsFAAOCAgEAEqz/uwjB2j8ziq6k
+nsxwao0LE7p16actIB30cRG5pY31f54gGoAwQYLg1LFX/EP1Y9ddjxHFrLos39YSTtDn1JW0Mn3H
+q6F9ZhSXTXMbe5n0UWKQGV1hptiD/9gcLV0jqgIwaH8Ndbw99bd/B7gqHGOe8FmQV/zvm9A+YAe7
+kPv8YTxSukbQTFNtf3+nrC2wzFyKvPXSadn7Fd4BcT9Q57/GDBg8G1xiPwJ9rAdlFBnhOPA7wP5E
+7u8X0ahIsw5xPBEL5ywldrXw/QW+tolmORwieuot31MZrrfCJ/Z1dbF9ywT5KmYXipQiQsml7fHz
+N/+mopsekplfElXRGWlD26meVC5mqDwrk/d8gsvd/MDJKr0hBMTE1HvLqKA8UWKFQxIbJr122vvr
+yx+UomCgT9wWzsZm+fR/XkaTwR4315yzhdNJLTpIfB8o1oXroSLUQs4hq1AaLCX+YwM+lqiKdukM
+2copyak+KtOojT0qt6ZbyyFWc41q5jx4Es6LwZ6IxnevoU05dLSYKz1TWWBrNANUEGeItFE+q2Qt
+CCfJI03hdomyJ7IF6D/R7TIXrtbLiaNbrig0/+MOcrr9hjqYE0DzZZs5JEY2qiIkxRL7pXXkkiCi
+/75FoQ3BrdqThfqQ4g73rDMexhMQz60oWMscE4mraf0BY9SNv12X+jKs1fs=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+<Documento ID="F17406T33">
+<Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>17406</Folio>
+        <FchEmis>2025-09-29</FchEmis>
+        <FchVenc>2025-09-29</FchVenc>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76544869-7</RUTEmisor>
+        <RznSoc>COMPANIA DE TELECOMUNICACIONES NETVOISS CHILE LIMITADA</RznSoc>
+        <GiroEmis>SERVICIOS WEB, INFORMATICA Y TELECOMUNICACIONES</GiroEmis>
+        <Telefono>56 2 28403880</Telefono>
+        <CorreoEmisor>comercial@netvoiss.cl</CorreoEmisor>
+        <Acteco>726000 </Acteco>
+        <DirOrigen>El Rosario # 1123</DirOrigen>
+        <CmnaOrigen>Linares</CmnaOrigen>
+        <CiudadOrigen>Maule</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>78132837-5</RUTRecep>
+        <RznSocRecep>FEXSIGN SPA</RznSocRecep>
+        <GiroRecep>ACTIVIDADES DE CONSULTORIA DE INFORMATIC</GiroRecep>
+        <Contacto>ARTURO MANTINETTI</Contacto>
+        <CorreoRecep>compras@fexsign.com</CorreoRecep>
+        <DirRecep>AV. VITACURA 2939 OF 301</DirRecep>
+        <CmnaRecep>Las Condes</CmnaRecep>
+        <CiudadRecep>Metropolitana</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>17210</MntNeto>
+        <MntExe>0</MntExe>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>3270</IVA>
+        <MntTotal>20480</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Cupon de Pago 143131</NmbItem>
+      <DscItem>SIP Trunk IP - 56228405931 (01/10/2025 - 31/10/2025)
+Tipo de Registro: Validacion IP/IP (recomendada)
+(OPCIONAL) Canales de Llamada Adicional: 0 x Canal de Llamada $2.200CLP
+(OPCIONAL) Numeros Nuevos Adicionales: 0 x Numeros Adicionales $2.500CLP
+(OPCIONAL) Numeros en Portabilidad: 0 x Numeros a Portar $600CLP</DscItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>17210.08</PrcItem>
+      <MontoItem>17210</MontoItem>
+    </Detalle>
+<TED version="1.0">
+<DD><RE>76544869-7</RE><TD>33</TD><F>17406</F><FE>2025-09-29</FE><RR>78132837-5</RR><RSR>FEXSIGN SPA</RSR><MNT>20480</MNT><IT1>Cupon de Pago 143131</IT1><CAF version="1.0"><DA><RE>76544869-7</RE><RS>COMPA??A DE TELECOMUNICACIONES NETVOISS</RS><TD>33</TD><RNG><D>17153</D><H>17590</H></RNG><FA>2025-07-26</FA><RSAPK><M>zB/6HDPFhiK2/fDeiqxxaMR47CXr2n5hzrp05k6hJ+m8lE4k7BJsHSN1dNwyNeTf0OAhqS0K2poidrlkVnl1dQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">N8aGpU+ttzScYJ98/PDMYyeW7nEKrRj92uVo5vmVQKdQFGfLzUrKO5YsEU8Ezw05WYamoBwWDfJOkX6D7JP/xA==</FRMA></CAF><TSTED>2025-09-29T13:01:14</TSTED></DD>
+<FRMT algoritmo="SHA1withRSA">EK/ZaAPUWL+DTnppgBe2vcHJa00Ua+1hM/ParkwN0FYucGcb2Zf3bYp5Qa+g3oPFHvosm3TdllYTvIVXk1ZRoA==</FRMT>
+</TED>
+<TmstFirma>2025-09-29T13:01:14</TmstFirma>
+</Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#F17406T33"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>Skabk52HUV3skZZ8TA9FtC4XaQw=</DigestValue></Reference></SignedInfo><SignatureValue>mlujyCTVuOHERQdnEIx68ASxq+cpsen2EID9HdAmjXsSVwOvJ/dP6N/a1gND5XaAXdg6Dw40x5VmrLINoFlxc/kv/H0T1XYLuQSCUrAV+Nc5gFdlARBqgn7FF/z451tuGG8H8P/rDlbgihuPSpWrn7Jax7JDJq9TnEKTFWFUg9ZcMQjaj4AIWQNIX+Kly/qxz1oPs8i2zhPpdZqs9nRoL6VhzTI3u+T7yMPmaCWOBnXdbEUTdL73GxXKKOd8HVcig7WsPklVU+5/vsFZ6CzEcuWj6OlyYwL2HQhJ3yaVPFbnV/cizRwvlh2yMYwZx6anKbbYcvLk9X1SzALBlRklrg==</SignatureValue><KeyInfo><KeyValue>
+<RSAKeyValue><Modulus>uVROGMCylA58pfC8mfj6CTR+r7J/OKtp5nVCBHkrcrvVjGa04aD+vg0/mYsPkpAg
+6CYfrCPoK2n2BJ2CCRe8PnP9QkUd/iqYl4AiKnWLczmdnhukbFsFwraP45CdrD4A
+s24TnMNToWsufhlfD3YXKSt9h/vFB2u2UmYgMLRUBHx1VmN8877SvS0fNPRNciyj
+tR1UqzuS4h6IR3NG6wDV3cld5ZKTXJ5+I6mZoiAePtPWuohAW2LdHDeB6eEcoi8K
+zFHoWVfgCS2kPLqLhpdnWMtDAKfHHw+oOHPGxEZknGnPPwuXL1HhCBEhb7nq7OPp
+9ulo5eIrZWFe5Hcl9JfuTw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIHxTCCBa2gAwIBAgIKU4lZBwABAAOfMzANBgkqhkiG9w0BAQsFADCBvzELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQDExVFLUNFUlRDSElMRSBDQSBGRVMg
+MDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNoaWxlLmNsMB4XDTIy
+MTExODE5MjAxMFoXDTI1MTExNzE5MjAxMFowgcExCzAJBgNVBAYTAkNMMSIwIAYD
+VQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFH
+TzEeMBwGA1UEChMVTUFSSUEgRlJBTkNJU0NBIFJBTU9TMQowCAYDVQQLDAEqMSMw
+IQYDVQQDExpNQVJJQSBGUkFOQ0lTQ0EgUkFNT1MgTUVOQTEqMCgGCSqGSIb3DQEJ
+ARYbQUxFSkFORFJPQFRFTEVGT05JQU1PVklMLkNMMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAuVROGMCylA58pfC8mfj6CTR+r7J/OKtp5nVCBHkrcrvV
+jGa04aD+vg0/mYsPkpAg6CYfrCPoK2n2BJ2CCRe8PnP9QkUd/iqYl4AiKnWLczmd
+nhukbFsFwraP45CdrD4As24TnMNToWsufhlfD3YXKSt9h/vFB2u2UmYgMLRUBHx1
+VmN8877SvS0fNPRNciyjtR1UqzuS4h6IR3NG6wDV3cld5ZKTXJ5+I6mZoiAePtPW
+uohAW2LdHDeB6eEcoi8KzFHoWVfgCS2kPLqLhpdnWMtDAKfHHw+oOHPGxEZknGnP
+PwuXL1HhCBEhb7nq7OPp9ulo5eIrZWFe5Hcl9JfuTwIDAQABo4ICvTCCArkwggFf
+BgNVHSAEggFWMIIBUjCCAU4GCCsGAQQBw1IFMIIBQDA9BggrBgEFBQcCARYxaHR0
+cHM6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvcG9saXRpY2FzLXktcHJhY3RpY2FzLzCB
+/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMA
+dABlACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUA
+aQBzAGkAdABvACAAaQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEA
+IABkAGEAcgAgAGkAbgBpAGMAaQBvACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQA
+ZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4ALgAgAFAAbwBzAHQAZQByAGkA
+bwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBSHk1d0B0kWGGuur59iXaD5XBaprTAL
+BgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgoxNzQ0NzE1MS03
+MB8GA1UdIwQYMBaAFHTWIbP0WugtfLtZBmND72m0OpMEMEAGA1UdHwQ5MDcwNaAz
+oDGGL2h0dHA6Ly9jcmwuZWNlcnRjaGlsZS5jbC9FLUNFUlRDSElMRUNBRkVTMDIu
+Y3JsMD0GCCsGAQUFBwEBBDEwLzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3BmZXMu
+ZWNlcnRjaGlsZS5jbC9vY3NwMDwGCSsGAQQBgjcVBwQvMC0GJSsGAQQBgjcVCIHd
+0k2X1DqGiZ0Gh4jOb4OvzGBFhtLsCIbHyn0CAWQCAQcwIwYDVR0SBBwwGqAYBggr
+BgEEAcEBAqAMFgo5NjkyODE4MC01MA0GCSqGSIb3DQEBCwUAA4ICAQAj4Yk/WMp5
+b2GWkEJ+LXS98pk90d4xl164wVtDf0Q4IryUFc/bQGaqJaVEuqiZ8pRSJGAYuR4i
+0WdUgaJXCXY3nkBPjp4+aNIrXsgz/z8+iT0C+fsFQShFnU2oaMNDrkkQYNLisEHQ
+wmP7rIfTUaCbpTnWdGDjqIXpZc4YYHmykBU41Zb9+mt7O0MttTP2hpKOvqk1uw3G
+KpVh3drBI4EnjF5P0qvQm3wdlr/hCAIH5gieXNoA7WHepmP0GRWMloXudVQ+vLHU
+bkA/LOJKvfRuEdXMYpdOHwVULR2EeYDQu4R3RhvIDCyLScswXHrgmNS3hyVF4fZA
+GgcGyWgndZWU7mtUmEPVzdaWNMMSoJoSGzultyextyt0G30SKqwfSFEFLaYuWFHO
+EiwBh9zmBpwRdVmXriPbFaEWVRO9XGJnPiNGEr7rEH/pckg3v1wE6730PH0f0jgW
+G6+wRorvfucxIFOHmjU+5LCz3AZA224mPatzsxKlnd0FH9VPpYG1nTnyBXO2jREB
+sTZkrHYB6L4iLAMUUcLypObRn8i5WNKOT0mD6KGn/nAWfdPu8Rf0pxHZOeg3aN+t
+OUE47xLctAltoCyOzm975Z91e7p9RxMdOHQ+TN3DMIUlnsqu95V/mVCRG2hip/5u
+1JjxxUwz9mDXTdwm4B0xDcnv3T31vOb8Ow==</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+  <!-- O MacIntel Firefox 143 central VERSION: v20190409 -->
+<Documento ID="MiPE76938289-26242">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>61</Folio>
+        <FchEmis>2025-09-26</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>2</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76938289-5</RUTEmisor>
+        <RznSoc>COMERCIAL WAVEDEV SPA</RznSoc>
+        <GiroEmis>SERVICIOS PROF. INFORM?TICOS, DE DESARROLLO Y DE TELECOMUNICACIONES</GiroEmis>
+        <Telefono>0 0</Telefono>
+        <CorreoEmisor>arturo@wavedev.cl</CorreoEmisor>
+        <Acteco>474100</Acteco>
+        <CdgSIISucur>82603323</CdgSIISucur>
+        <DirOrigen>VITACURA 2939</DirOrigen>
+        <CmnaOrigen>LAS CONDES</CmnaOrigen>
+        <CiudadOrigen>LAS CONDES</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>78132837-5</RUTRecep>
+        <RznSocRecep>FEXSIGN SPA</RznSocRecep>
+        <GiroRecep>PORTALES WEB</GiroRecep>
+        <Contacto>compras@fexsign.com</Contacto>
+        <DirRecep>AV VITACURA 2939 LC 301 YOT</DirRecep>
+        <CmnaRecep>LAS CONDES</CmnaRecep>
+        <CiudadRecep>Santiago</CiudadRecep>
+      </Receptor>
+    <Transporte>
+  </Transporte>
+      <Totales>
+        <MntNeto>1302000</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>247380</IVA>
+        <MntTotal>1549380</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>ACMC</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>4000.00</PrcItem>
+      <MontoItem>12000</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <NmbItem>RCMC</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>4000.00</PrcItem>
+      <MontoItem>12000</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <NmbItem>S-RJ01</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>34000.00</PrcItem>
+      <MontoItem>102000</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <NmbItem>C6AA-20</NmbItem>
+      <QtyItem>5.00</QtyItem>
+      <PrcItem>5000.00</PrcItem>
+      <MontoItem>25000</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>5</NroLinDet>
+      <NmbItem>MSD-128GB</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>12000.00</PrcItem>
+      <MontoItem>36000</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>6</NroLinDet>
+      <NmbItem>XS+DA0003</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>46000.00</PrcItem>
+      <MontoItem>138000</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>7</NroLinDet>
+      <NmbItem>CCR2004-1G-12S+2XS</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>823000.00</PrcItem>
+      <MontoItem>823000</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>8</NroLinDet>
+      <NmbItem>S+RJ10</NmbItem>
+      <QtyItem>2.00</QtyItem>
+      <PrcItem>77000.00</PrcItem>
+      <MontoItem>154000</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>76938289-5</RE><TD>33</TD><F>61</F><FE>2025-09-26</FE><RR>78132837-5</RR><RSR>FEXSIGN SPA</RSR><MNT>1549380</MNT><IT1>ACMC</IT1><CAF version="1.0"><DA><RE>76938289-5</RE><RS>COMERCIAL WAVEDEV SPA</RS><TD>33</TD><RNG><D>61</D><H>61</H></RNG><FA>2025-09-26</FA><RSAPK><M>2R4bUIjJDI9w2t9Ic7nUOKLQfX/QC9gZcpmkgb5YRMKatlNf5ZfKklALtnMkU412z3A1Y3XXQoSTzm4X9KTOZQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">CMtbf8KPvI5bCM7fzLUVqratyojXfyVaVwLmrJ6lYyPsGCuMDOPfNtBR2MHi2pOAW+oRB8cQzp9MFBwbOs4xxg==</FRMA></CAF><TSTED>2025-09-26T01:35:49</TSTED></DD><FRMT algoritmo="SHA1withRSA">TqBZsW6WkW3y8koEpKBail1+UlPkCWXE/rwK5eus88Hom1n3gy5hD/74rqOkS/DZctC63HzgiQSChocUZ1jdeQ==</FRMT></TED>
+    <TmstFirma>2025-09-26T01:35:49</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76938289-26242">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>hXtv1DsXqut/gRDiF1XahljkSbE=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+JxOm8OMvqqpdgB/85xMYCDXZTxPiXnXTQZyq2SdPiOpanEDQkHFvjIchH8wzKO/LLm9OA8RxZyFh
+VtnGKV1N7ok1dUhipPiOumvXcCbgjbvzxEAKPZ4w0D5AytYQrfTdnCjUhUfdd9L75j+9yNe+a12d
+aHKB29udyTa4f2cTw3hui9sXXBTMIRGW8Z8Tr7QpkNfGl4bxKlnToFrEkAb1MZU121K10oljhpGk
+5n4FBys0DJHcB6QQtVqUEXvKpGeGJ9UWfpINInQUsk33GXl2hAx1niKQvTnnAPObdXnmJtHnLunG
+xGHMuuKyYfwTNmCdo/4vOpJYQOoNznJ/y0sX5g==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+ixurgo8t/OSNjaPYORz5mcVUGRyU/NtmFL3b3oJcd5nIcyZptln/qjiBXqN7znOgbMbPx7BOzjru
+jWFEcAtm5tlGqPQ4UrFZwvGs3dq5+61uAcz4ihr4wIioWkUJTZEUEzQMzA6Tk3TWjpAmjMnYUOSy
+FRXMCk7Tou2KlFIFZNdnoINk96O2eYIIIKgq9H8FSmsoL0sAym172ipkeVXsWI5yQMnn9bEeOtX6
+TJ79/PZrpygovN5fh5SmWfKQ9BAiLsq+SaDiI0FIcbjMt9mFXSIL6b3UFVVvfpBEWnvLy17AbCci
+TJEnIlG4umYqP/xVY+LdZselyBLkTIRn/0zY2Q==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGhzCCBW+gAwIBAgIDA068MA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0yMzA0MTQyMzMyMTlaFw0yNjA0MTQy
+MzMyMTlaMIGYMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMTQwMgYDVQQD
+EytBUlRVUk8gR0lPUkdJTyBSRU5BVE8gTUFOVElORVRUSSBNQU5USU5FVFRJMSQwIgYJKoZIhvcN
+AQkBFhVBTUFOVElORVRUSUBHTUFJTC5DT00xEzARBgNVBAUTCjE5Mzc3MTQ5LTEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCLG6uCjy385I2No9g5HPmZxVQZHJT822YUvdveglx3mchz
+Jmm2Wf+qOIFeo3vOc6Bsxs/HsE7OOu6NYURwC2bm2Uao9DhSsVnC8azd2rn7rW4BzPiKGvjAiKha
+RQlNkRQTNAzMDpOTdNaOkCaMydhQ5LIVFcwKTtOi7YqUUgVk12egg2T3o7Z5ggggqCr0fwVKaygv
+SwDKbXvaKmR5VexYjnJAyef1sR461fpMnv389munKCi83l+HlKZZ8pD0ECIuyr5JoOIjQUhxuMy3
+2YVdIgvpvdQVVW9+kERae8vLXsBsJyJMkSciUbi6Zio//FVj4t1mx6XIEuRMhGf/TNjZAgMBAAGj
+ggLIMIICxDAfBgNVHSMEGDAWgBSq/b3F6TdN9plNV47BcRr568MG4zAdBgNVHQ4EFgQUP5xu6Auj
+0M4nZtUfqo8h1tCgNi0wCwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDARBglghkgBhvhCAQEEBAMCBaAwgfoGA1UdIASB8jCB7zCB7AYIKwYBBAG1awIwgd8wMQYIKwYB
+BQUHAgEWJWh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL0NQUy1BY2VwdGFjb20wgakGCCsGAQUFBwIC
+MIGcMBYWD0FjZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0dWxhciBoYSBzaWRvIHZhbGlkYWRv
+IGVuIGZvcm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2VydGlmaWNhZG8g
+cGFyYSB1c28gdHJpYnV0YXJpbywgcGFnb3MsIGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGg
+GAYIKwYBBAHBAQKgDBYKOTY5MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsG
+AQQBwQECgQ9pbmZvQGFjZXB0YS5jb20wYAYDVR0RBFkwV6AYBggrBgEEAcEBAaAMFgoxOTM3NzE0
+OS0xoCQGCCsGAQUFBwgDoBgwFgwKMTkzNzcxNDktMQYIKwYBBAHBAQKBFUFNQU5USU5FVFRJQEdN
+QUlMLkNPTTBHBggrBgEFBQcBAQQ7MDkwNwYIKwYBBQUHMAGGK2h0dHBzOi8vYWNnNC5hY2VwdGEu
+Y29tL2FjZzQvb2NzcC9DbGFzZTMtRzQwPwYDVR0fBDgwNjA0oDKgMIYuaHR0cHM6Ly9hY2c0LmFj
+ZXB0YS5jb20vYWNnNC9jcmwvQ2xhc2UzLUc0LmNybDANBgkqhkiG9w0BAQsFAAOCAQEABr4wLzKA
+4W9/iPhNPxvNURwlDxUWHeMKbsRLf7Efrk2X1YlsKy7kM71bm4jx92pQ8yHV65l1izv74ytDhmlE
+a+VhB0KNsQFSCsTLbF9Ewzqc4FRzDJrIGR149mjz5v+/h7bl9FDiaki2/hIHFSrqQ+39AQF5BGFr
+SkGrrwyz0qLyWg6KtanZ2R3Gsei8z6TSb7cLv/CsCrbaBrW+yUW8EWbURHscXUQlOuHcQX9/HIiE
+DuGJ+H02iJ+wa/LvqVn+yttp6N/56JfPtwFRlgv/Njal29EYYswjFXFIXgdltmxZ2phZLLrUE2lM
+cA3596j+HfeJvr/FKufHCL5jHaA1hQ==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >		<Documento ID="EMI76691442KF239978T33">
+			<Encabezado>
+				<IdDoc>
+					<TipoDTE>33</TipoDTE>
+					<Folio>239978</Folio>
+					<FchEmis>2025-09-17</FchEmis>
+					<FmaPago>2</FmaPago>
+					<TermPagoGlosa>30 dias</TermPagoGlosa>
+					<FchVenc>2025-10-17</FchVenc>
+				</IdDoc>
+				<Emisor>
+					<RUTEmisor>76691442-K</RUTEmisor>
+					<RznSoc>BUK SPA</RznSoc>
+					<GiroEmis>Servicios Inform&#225;ticos</GiroEmis>
+					<Telefono>56963107336</Telefono>
+					<Acteco>702000</Acteco>
+					<DirOrigen>Rosario Norte 555, of 1801</DirOrigen>
+					<CmnaOrigen>LAS CONDES</CmnaOrigen>
+					<CdgVendedor>175616</CdgVendedor>
+				</Emisor>
+				<Receptor>
+					<RUTRecep>78132837-5</RUTRecep>
+					<RznSocRecep>FexSign SpA</RznSocRecep>
+					<GiroRecep>639900 - Otras actividades de servicios</GiroRecep>
+					<CorreoRecep>arturo@gofirmex.com</CorreoRecep>
+					<DirRecep>Av. Vitacura 2939 OF 301, Las Condes, Santiago</DirRecep>
+					<CmnaRecep>Las Condes</CmnaRecep>
+					<CiudadRecep>Santiago</CiudadRecep>
+				</Receptor>
+				<Totales>
+					<MntNeto>155831</MntNeto>
+					<TasaIVA>19.00</TasaIVA>
+					<IVA>29608</IVA>
+					<MntTotal>185439</MntTotal>
+				</Totales>
+			</Encabezado>
+			<Detalle>
+				<NroLinDet>1</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Suscripcion - Agosto 2025 / 11 empleados / UF: $39.153,69 / gofirmex</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>137038.000000</PrcItem>
+				<MontoItem>137038</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>2</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Convenio Farmacia - Agosto 2025 / 8 empleados / UF: $39.153,69</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>7204.000000</PrcItem>
+				<MontoItem>7204</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>3</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Telemedicina (Medismart) - Agosto 2025 / 8 empleados / UF: $39.153,69</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>11589.000000</PrcItem>
+				<MontoItem>11589</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>4</NroLinDet>
+				<IndExe>2</IndExe>
+				<NmbItem>OBSERVACIONES</NmbItem>
+				<DscItem>-Realizar el pago a la cuenta corriente N22001418 del Banco Bice a nombre de Buk SPA Rut 76.691.442-K. Cuando se realice el pago, notificar al correo pagoclientes@buk.cl, indicando el numero de factura correspondiente y la fecha en que se realizo el pago-</DscItem>
+				<MontoItem>0</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>5</NroLinDet>
+				<IndExe>2</IndExe>
+				<NmbItem>OBSERVACIONES</NmbItem>
+				<DscItem>Vendedor:\n</DscItem>
+				<MontoItem>0</MontoItem>
+			</Detalle>
+<TED version="1.0">
+  <DD>
+    <RE>76691442-K</RE>
+    <TD>33</TD>
+    <F>239978</F>
+    <FE>2025-09-17</FE>
+    <RR>78132837-5</RR>
+    <RSR>FexSign SpA</RSR>
+    <MNT>185439</MNT>
+    <IT1>Suscripcion - Agosto 2025 / 11 empleados</IT1>
+    <CAF version="1.0">
+      <DA>
+        <RE>76691442-K</RE>
+        <RS>BUK SPA</RS>
+        <TD>33</TD>
+        <RNG>
+          <D>216321</D>
+          <H>258435</H>
+        </RNG>
+        <FA>2025-07-02</FA>
+        <RSAPK>
+          <M>v++STTO/Tv7KsCdzXwtRd6+WNzgt0g79sbYSHcTXIuBFtLGtJm/IP1TQAT7EB7o7IeDOc2dVqQnua0caPGyNiQ==</M>
+          <E>Aw==</E>
+        </RSAPK>
+        <IDK>300</IDK>
+      </DA>
+      <FRMA algoritmo="SHA1withRSA">UvAPyA+v2u+Kpk2ielaSMnRj+wYk39im75CjUx5j2ZsQadQmZLy0fvoeqC21eeihwMHfCBcfN2KGEMzZkL77iA==</FRMA>
+    </CAF>
+    <TSTED>2025-09-17T12:58:04</TSTED>
+  </DD>
+  <FRMT algoritmo="SHA1withRSA">DrBMIu7/Nm7hyV9pUIHM+PjmBOjN6EdFIYcCLNi9gyq33FG/heE0mgbynzusXe08g4AFenYBwk0lLfuA1Tzw9g==</FRMT>
+</TED>			<TmstFirma>2025-09-17T12:58:04</TmstFirma>
+		</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#EMI76691442KF239978T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>AYOobAbQ4AjYspydn3obBpCmU74=</DigestValue></Reference></SignedInfo><SignatureValue>ZP20uXMwCTOGNURXYsWS2LHEv/+KGSGcet9QQZrkxr6oKruC6C0rUXvcG+U9s03G1j7vNYOKqBz8
+VZmvzYoLOKXX03tAqQfByOhGx0kEeecFMru19HteFxF+/sdwBSbMITfVQvVFzBBSm6aBGgF92KkD
+xP12CiUjoI6djtFL3MKcJ9NGrTpE9Ehk/pZO2Yizq1Tvt07DG/CqjxAA5OtiWJ8QpQKxkyGxWPDs
+g3Fa3R7tqMeel0Lcs8CHdOU3EKys2O3kKGNLiwdbM0/A4ia8lQffjVuLwGcE90uuNl0AZmUjqsVP
+mYoYuZLAwA8lZlttnEu8bNstrumIW/rN15I2HQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>p9hQyUmlRN6m0vPq4jaXmyPJHbaSK5Yqv9ykX7JokngVvn6sD0oc8nZ6AsPfmcxxEXDu519a31vw
+NZDculhI5wpvDjTQSvLSleB8oC2QW9x1N2gLq9uRqQo2A+JzCFiBZLGMl5YPFw+sfS2pit9nKAac
+ToIuvNzLAhdOfTV8011aPiq/eGj51g383GQvxa0I6+pU8ni85mQHWwe9iWKcQgTBmSWAbkbUCd+r
+z6N6BEXuu5WawOu0Hoe2IGPtlgHCwM3eeynXRiw8bEXYOPejoBf7hLTZlT8IaF41wUQ+eynczyZN
+CidLc51pwD+gTZMBCaC86DIKjGwB/Rnq+6kqCQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGuzCCBaOgAwIBAgIDBU/vMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0yNTA2MjYxNDEwMDFaFw0yNjA2MjYx
+NDEwMDFaMH8xCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxHjAcBgNVBAMT
+FUpBSU1FIEFSUklFVEEgQk9FVFNDSDEhMB8GCSqGSIb3DQEJARYSRkFDVFVSQUNJT05AQlVLLkNM
+MRMwEQYDVQQFEwoxNjIwOTgyNy02MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp9hQ
+yUmlRN6m0vPq4jaXmyPJHbaSK5Yqv9ykX7JokngVvn6sD0oc8nZ6AsPfmcxxEXDu519a31vwNZDc
+ulhI5wpvDjTQSvLSleB8oC2QW9x1N2gLq9uRqQo2A+JzCFiBZLGMl5YPFw+sfS2pit9nKAacToIu
+vNzLAhdOfTV8011aPiq/eGj51g383GQvxa0I6+pU8ni85mQHWwe9iWKcQgTBmSWAbkbUCd+rz6N6
+BEXuu5WawOu0Hoe2IGPtlgHCwM3eeynXRiw8bEXYOPejoBf7hLTZlT8IaF41wUQ+eynczyZNCidL
+c51pwD+gTZMBCaC86DIKjGwB/Rnq+6kqCQIDAQABo4IDFjCCAxIwCQYDVR0TBAIwADAfBgNVHSME
+GDAWgBSq/b3F6TdN9plNV47BcRr568MG4zAdBgNVHQ4EFgQUWDBkzi7tkZPm+Z3QaKANO+3PLBcw
+CwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCB+gYDVR0gBIHyMIHv
+MIHsBggrBgEEAbVrAjCB3zAxBggrBgEFBQcCARYlaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vQ1BT
+LUFjZXB0YWNvbTCBqQYIKwYBBQUHAgIwgZwwFhYPQWNlcHRhLmNvbSBTLkEuMAMCAQIagYFFbCB0
+aXR1bGFyIGhhIHNpZG8gdmFsaWRhZG8gZW4gZm9ybWEgcHJlc2VuY2lhbCwgcXVlZGFuZG8gaGFi
+aWxpdGFkbyBlbCBDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmlidXRhcmlvLCBwYWdvcywgY29tZXJj
+aW8geSBvdHJvcy4wWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUF
+BwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBdBgNVHREEVjBU
+oBgGCCsGAQQBwQEBoAwWCjE2MjA5ODI3LTagJAYIKwYBBQUHCAOgGDAWDAoxNjIwOTgyNy02Bggr
+BgEEAcEBAoESRkFDVFVSQUNJT05AQlVLLkNMMIGfBggrBgEFBQcBAQSBkjCBjzBUBggrBgEFBQcw
+AoZIaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vZGVzY2FyZ2FzL2FjZXB0YS5jb20uZzQuQ2xhc2Uz
+UGVyc29uYU5hdHVyYWwuY3J0MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNvbS9h
+Y2c0L29jc3AvQ2xhc2UzLUc0MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEu
+Y29tL2FjZzQvY3JsL0NsYXNlMy1HNC5jcmwwDQYJKoZIhvcNAQELBQADggEBAELawwBtPYfmdpd6
+ZW56CyzWY4Kt0lYsDbXoEnoq2bY9vo822J5Rk24s4fpAE8IZfE5teznnowDTUIGCu+3lrkwtAYsJ
+71sW/GQe3KxBrOUfRdaExyXduN6PY+KrnbR2R2gvIMJO4LNSqMhN/e+POvbRlYRNG+zDcArgkiQH
+FmzIGkx2i0Ysx1FqiEqHYNDELZp9Va3gSdOGlXmSyi5ogb8dcse89zMIdqP9vDu+HoQJN1Bm/Fwn
+NhfbqqeQiH4NnG/wlSOkfQhXAYPU0v+jxdXM/fGWFNgALrKVLEuUNTU05ksQYYUKPjmbAwn9QWGD
+Y0qIm/0/lo7NMGIKlxpbAMQ=</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >		<Documento ID="EMI76691442KF238516T33">
+			<Encabezado>
+				<IdDoc>
+					<TipoDTE>33</TipoDTE>
+					<Folio>238516</Folio>
+					<FchEmis>2025-09-09</FchEmis>
+					<FmaPago>2</FmaPago>
+					<TermPagoGlosa>30 dias</TermPagoGlosa>
+					<FchVenc>2025-10-09</FchVenc>
+				</IdDoc>
+				<Emisor>
+					<RUTEmisor>76691442-K</RUTEmisor>
+					<RznSoc>BUK SPA</RznSoc>
+					<GiroEmis>Servicios Inform&#225;ticos</GiroEmis>
+					<Telefono>56963107336</Telefono>
+					<Acteco>702000</Acteco>
+					<DirOrigen>Rosario Norte 555, of 1801</DirOrigen>
+					<CmnaOrigen>LAS CONDES</CmnaOrigen>
+					<CdgVendedor>175616</CdgVendedor>
+				</Emisor>
+				<Receptor>
+					<RUTRecep>78132837-5</RUTRecep>
+					<RznSocRecep>FexSign SpA</RznSocRecep>
+					<GiroRecep>639900 - Otras actividades de servicios</GiroRecep>
+					<CorreoRecep>arturo@gofirmex.com</CorreoRecep>
+					<DirRecep>Av. Vitacura 2939 OF 301, Las Condes, Santiago</DirRecep>
+					<CmnaRecep>Las Condes</CmnaRecep>
+					<CiudadRecep>Santiago</CiudadRecep>
+				</Receptor>
+				<Totales>
+					<MntNeto>185368</MntNeto>
+					<TasaIVA>19.00</TasaIVA>
+					<IVA>35220</IVA>
+					<MntTotal>220588</MntTotal>
+				</Totales>
+			</Encabezado>
+			<Detalle>
+				<NroLinDet>1</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Suscripcion - Septiembre 2025 / 12 empleados / UF: $39.440,03 / gofirmex</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>138040.000000</PrcItem>
+				<MontoItem>138040</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>2</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Convenio Farmacia - Septiembre 2025 / 8 empleados / UF: $39.440,03</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>7257.000000</PrcItem>
+				<MontoItem>7257</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>3</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Telemedicina (Medismart) - Septiembre 2025 / 8 empleados / UF: $39.440,03</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>11674.000000</PrcItem>
+				<MontoItem>11674</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>4</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>Servicios Recurrentes BUK CL</VlrCodigo>
+				</CdgItem>
+				<NmbItem>Wellhub (Gympass) Starter - Septiembre 2025 / 5 empleados / UF: $39.440,03</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>28397.000000</PrcItem>
+				<MontoItem>28397</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>5</NroLinDet>
+				<IndExe>2</IndExe>
+				<NmbItem>OBSERVACIONES</NmbItem>
+				<DscItem>-Realizar el pago a la cuenta corriente N22001418 del Banco Bice a nombre de Buk SPA Rut 76.691.442-K. Cuando se realice el pago, notificar al correo pagoclientes@buk.cl, indicando el numero de factura correspondiente y la fecha en que se realizo el pago-</DscItem>
+				<MontoItem>0</MontoItem>
+			</Detalle>
+			<Detalle>
+				<NroLinDet>6</NroLinDet>
+				<IndExe>2</IndExe>
+				<NmbItem>OBSERVACIONES</NmbItem>
+				<DscItem>Vendedor:\n</DscItem>
+				<MontoItem>0</MontoItem>
+			</Detalle>
+<TED version="1.0">
+  <DD>
+    <RE>76691442-K</RE>
+    <TD>33</TD>
+    <F>238516</F>
+    <FE>2025-09-09</FE>
+    <RR>78132837-5</RR>
+    <RSR>FexSign SpA</RSR>
+    <MNT>220588</MNT>
+    <IT1>Suscripcion - Septiembre 2025 / 12 emple</IT1>
+    <CAF version="1.0">
+      <DA>
+        <RE>76691442-K</RE>
+        <RS>BUK SPA</RS>
+        <TD>33</TD>
+        <RNG>
+          <D>216321</D>
+          <H>258435</H>
+        </RNG>
+        <FA>2025-07-02</FA>
+        <RSAPK>
+          <M>v++STTO/Tv7KsCdzXwtRd6+WNzgt0g79sbYSHcTXIuBFtLGtJm/IP1TQAT7EB7o7IeDOc2dVqQnua0caPGyNiQ==</M>
+          <E>Aw==</E>
+        </RSAPK>
+        <IDK>300</IDK>
+      </DA>
+      <FRMA algoritmo="SHA1withRSA">UvAPyA+v2u+Kpk2ielaSMnRj+wYk39im75CjUx5j2ZsQadQmZLy0fvoeqC21eeihwMHfCBcfN2KGEMzZkL77iA==</FRMA>
+    </CAF>
+    <TSTED>2025-09-11T23:23:30</TSTED>
+  </DD>
+  <FRMT algoritmo="SHA1withRSA">hMnfaGjbQ502fSWb0vhjnEK1AThiXF/grmfqOT8vOnxTkGNb8QN1OjAATDYj0avYWLuC39Lbwu9q/eSSEQ8H6g==</FRMT>
+</TED>			<TmstFirma>2025-09-11T23:23:30</TmstFirma>
+		</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#EMI76691442KF238516T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>ApnQQOVc0iA4f687eNpMsAP9EDY=</DigestValue></Reference></SignedInfo><SignatureValue>j/CSE9O++M6PmswVNGYKJRVIbnXJ3u1rrfAbKPFuo0ck1hlUyZb6adwBUNvrm/NZ7inLJNQMgVgX
+XC9QjqgjrXIbz8moAUDTRA3XY6tgr/l39w2gUeEp9w1dtFZ3nrmHRvZSvAPns3rK3Zj5doYz9gfL
+T0DyKmQDnu3gMbgz9XGMU2NC970yTCJdiqOL7D7gFzRgWJiMZ4+Do97/8jzRFeuLIra8f1KggdAA
+PJNCUEubhRHYFzQNO51ym8yvoDnTHvegH3bacZ0FAbok0jHG+o1hepAB05hW+Ysx3nZoPYMBHg/c
+xLHt2ic+CyvHHxik/FmfjEc/5HOMViGiMNmqSA==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>p9hQyUmlRN6m0vPq4jaXmyPJHbaSK5Yqv9ykX7JokngVvn6sD0oc8nZ6AsPfmcxxEXDu519a31vw
+NZDculhI5wpvDjTQSvLSleB8oC2QW9x1N2gLq9uRqQo2A+JzCFiBZLGMl5YPFw+sfS2pit9nKAac
+ToIuvNzLAhdOfTV8011aPiq/eGj51g383GQvxa0I6+pU8ni85mQHWwe9iWKcQgTBmSWAbkbUCd+r
+z6N6BEXuu5WawOu0Hoe2IGPtlgHCwM3eeynXRiw8bEXYOPejoBf7hLTZlT8IaF41wUQ+eynczyZN
+CidLc51pwD+gTZMBCaC86DIKjGwB/Rnq+6kqCQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGuzCCBaOgAwIBAgIDBU/vMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0yNTA2MjYxNDEwMDFaFw0yNjA2MjYx
+NDEwMDFaMH8xCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxHjAcBgNVBAMT
+FUpBSU1FIEFSUklFVEEgQk9FVFNDSDEhMB8GCSqGSIb3DQEJARYSRkFDVFVSQUNJT05AQlVLLkNM
+MRMwEQYDVQQFEwoxNjIwOTgyNy02MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp9hQ
+yUmlRN6m0vPq4jaXmyPJHbaSK5Yqv9ykX7JokngVvn6sD0oc8nZ6AsPfmcxxEXDu519a31vwNZDc
+ulhI5wpvDjTQSvLSleB8oC2QW9x1N2gLq9uRqQo2A+JzCFiBZLGMl5YPFw+sfS2pit9nKAacToIu
+vNzLAhdOfTV8011aPiq/eGj51g383GQvxa0I6+pU8ni85mQHWwe9iWKcQgTBmSWAbkbUCd+rz6N6
+BEXuu5WawOu0Hoe2IGPtlgHCwM3eeynXRiw8bEXYOPejoBf7hLTZlT8IaF41wUQ+eynczyZNCidL
+c51pwD+gTZMBCaC86DIKjGwB/Rnq+6kqCQIDAQABo4IDFjCCAxIwCQYDVR0TBAIwADAfBgNVHSME
+GDAWgBSq/b3F6TdN9plNV47BcRr568MG4zAdBgNVHQ4EFgQUWDBkzi7tkZPm+Z3QaKANO+3PLBcw
+CwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCB+gYDVR0gBIHyMIHv
+MIHsBggrBgEEAbVrAjCB3zAxBggrBgEFBQcCARYlaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vQ1BT
+LUFjZXB0YWNvbTCBqQYIKwYBBQUHAgIwgZwwFhYPQWNlcHRhLmNvbSBTLkEuMAMCAQIagYFFbCB0
+aXR1bGFyIGhhIHNpZG8gdmFsaWRhZG8gZW4gZm9ybWEgcHJlc2VuY2lhbCwgcXVlZGFuZG8gaGFi
+aWxpdGFkbyBlbCBDZXJ0aWZpY2FkbyBwYXJhIHVzbyB0cmlidXRhcmlvLCBwYWdvcywgY29tZXJj
+aW8geSBvdHJvcy4wWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUF
+BwgDoBgwFgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBdBgNVHREEVjBU
+oBgGCCsGAQQBwQEBoAwWCjE2MjA5ODI3LTagJAYIKwYBBQUHCAOgGDAWDAoxNjIwOTgyNy02Bggr
+BgEEAcEBAoESRkFDVFVSQUNJT05AQlVLLkNMMIGfBggrBgEFBQcBAQSBkjCBjzBUBggrBgEFBQcw
+AoZIaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vZGVzY2FyZ2FzL2FjZXB0YS5jb20uZzQuQ2xhc2Uz
+UGVyc29uYU5hdHVyYWwuY3J0MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNvbS9h
+Y2c0L29jc3AvQ2xhc2UzLUc0MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEu
+Y29tL2FjZzQvY3JsL0NsYXNlMy1HNC5jcmwwDQYJKoZIhvcNAQELBQADggEBAELawwBtPYfmdpd6
+ZW56CyzWY4Kt0lYsDbXoEnoq2bY9vo822J5Rk24s4fpAE8IZfE5teznnowDTUIGCu+3lrkwtAYsJ
+71sW/GQe3KxBrOUfRdaExyXduN6PY+KrnbR2R2gvIMJO4LNSqMhN/e+POvbRlYRNG+zDcArgkiQH
+FmzIGkx2i0Ysx1FqiEqHYNDELZp9Va3gSdOGlXmSyi5ogb8dcse89zMIdqP9vDu+HoQJN1Bm/Fwn
+NhfbqqeQiH4NnG/wlSOkfQhXAYPU0v+jxdXM/fGWFNgALrKVLEuUNTU05ksQYYUKPjmbAwn9QWGD
+Y0qIm/0/lo7NMGIKlxpbAMQ=</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+<Documento ID="DTE-34-1089628">
+<Encabezado>
+<IdDoc>
+<TipoDTE>34</TipoDTE>
+<Folio>1089628</Folio>
+<FchEmis>2025-08-23</FchEmis>
+<IndServicio>2</IndServicio>
+<FmaPago>1</FmaPago>
+<FchCancel>2025-08-23</FchCancel>
+<MedioPago>OT</MedioPago>
+<FchVenc>2025-08-23</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>60910000-1</RUTEmisor>
+<RznSoc>Universidad de Chile</RznSoc>
+<GiroEmis>Corporaci?n Educacional y Servicios                 Profesionales</GiroEmis>
+<Acteco>803010</Acteco>
+<Sucursal>NIC Chile</Sucursal>
+<CdgSIISucur>67051191</CdgSIISucur>
+<DirOrigen>Miraflores 222, Piso 14</DirOrigen>
+<CmnaOrigen>Santiago</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+</Emisor>
+<Receptor>
+<RUTRecep>78132837-5</RUTRecep>
+<RznSocRecep>FEXSIGN SPA</RznSocRecep>
+<GiroRecep>Servicios Profesionales Informaticos</GiroRecep>
+<Contacto>Arturo Giorgio Renato Mantinetti Mantine</Contacto>
+<DirRecep>Av. Vitacura 2939 OF 301 Tel:+56.972824218</DirRecep>
+<CmnaRecep>Las Condes</CmnaRecep>
+<CiudadRecep>Santiago</CiudadRecep>
+</Receptor>
+<Totales>
+<MntExe>19980</MntExe>
+<MntTotal>19980</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<NmbItem>dominio fexsign/19706394/1</NmbItem>
+<QtyItem>1.0</QtyItem>
+<PrcItem>19980.0</PrcItem>
+<MontoItem>19980</MontoItem>
+</Detalle>
+<TED version="1.0">
+<DD>
+<RE>60910000-1</RE>
+<TD>34</TD>
+<F>1089628</F>
+<FE>2025-08-23</FE>
+<RR>78132837-5</RR>
+<RSR>FEXSIGN SPA</RSR>
+<MNT>19980</MNT>
+<IT1>dominio fexsign/19706394/1</IT1>
+<CAF version="1.0">
+<DA>
+<RE>60910000-1</RE>
+<RS>UNIVERSIDAD DE CHILE</RS>
+<TD>34</TD>
+<RNG>
+<D>1085436</D>
+<H>1095435</H>
+</RNG>
+<FA>2025-08-11</FA>
+<RSAPK>
+<M>1wWl4phmDXkKujbP+lcQ0sbKyXE45QxNG8q6xWmdcrNNg0j0tDrT9oL7XfmP+jrFGsH5Vg3ruHg/Ui8R6PCKiQ==</M>
+<E>Aw==</E>
+</RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">h4S0hwdDF/4I1/vxYCwcw4WnjpAs7klPX0yrg/qwFjGWIjmj2mbXStBaTdiR8d7zpSHTnt2+c+D5W8QkUY4xBA==</FRMA>
+</CAF>
+<TSTED>2025-08-25T08:58:57</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">JywDuQe7PknJAIiXu0JxqagVVhl1ypQpGV3cB9hKnVfu1SLGp76O6VeF4APTahIYEivOPV/rLvE0/7mORknceg==</FRMT>
+</TED>
+<TmstFirma>2025-08-25T08:58:57</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#DTE-34-1089628">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>Yt8ek1+CKqqt3xkJngZ1ST0ledU=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+TnuG3ycr/2w5W1F14QKl6HFavH4YJAP61ZfUhILR6bAlm7Qk95bhkM0/bMv6+5DbPaLypDBgF6BH
+Gcur5WSCkA93oKznHIHi4i37LT9Uaos0h7Sgqk7y7H5gw06KhAiIteOjxYMwCE2W5tzcFvy36tfZ
+wXgMGTjoBg70BR2ZigBMzesKNSC8iCnKoBgNfftJuAwaDeTlY3VVeAT/drfQsrNWWimCEZgddtn1
+wJEYac+5JjzCpDcOxJTg/dhPcYa2bCezzoINL2wtvlkgihDbHUhCiRYmk3l0nfFPdeMYNhpUEAPE
+C4gNHacvDvUuLxIr6n/cbwV0PUOsg9cwtT6Q5w==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+p8uiD051ktCK+FLWZWi4M534Q8RkDRDrHb00w5C8J8pfBvEWNXGXzj0PWmnT1lT/qNS8pWE70dei
+Pedr08AS/RsOeFGoyYrEu/+G/B/ngwGH071sR0xM8I39GifTYwJ2E1ALWvN8JdmYQzPY7ogMJEeC
+gmN09c4J6U6mMKXKUJXoNPZlx1rxB1D+sV4DRRDZ6yTVrWpaQFe3ti+nBS3KlXl+A1O4J03BJEwb
+iK81eOAY59jfIh40EC5nIuoHWJfv7WWXIOS14foDT15LhqehzgO1AZksXv8uG5gvNFPuFJdQQ5UC
+M1sUEi4SrfpLQvPz5KGtpW2PXOHLLOZqLqeaww==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIHwTCCBamgAwIBAgIKGXt1XwABAAc+RTANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTIzMDkwMTE5MzgyMVoXDTI2MDgzMTE5MzgyMVowgb0xCzAJBgNVBAYTAkNMMSIw
+IAYDVQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFHTzEkMCIG
+A1UEChMbSk9SR0UgRU5SSVFVRSBDQUJFTExPIE9SVElaMQowCAYDVQQLDAEqMSUwIwYDVQQDExxK
+T1JHRSBFTlJJUVVFIENBQkVMTE8gIE9SVElaMR4wHAYJKoZIhvcNAQkBFg9KQ0FCRUxMT0BOSUMu
+Q0wwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCny6IPTnWS0Ir4UtZlaLgznfhDxGQN
+EOsdvTTDkLwnyl8G8RY1cZfOPQ9aadPWVP+o1LylYTvR16I952vTwBL9Gw54UajJisS7/4b8H+eD
+AYfTvWxHTEzwjf0aJ9NjAnYTUAta83wl2ZhDM9juiAwkR4KCY3T1zgnpTqYwpcpQleg09mXHWvEH
+UP6xXgNFENnrJNWtalpAV7e2L6cFLcqVeX4DU7gnTcEkTBuIrzV44Bjn2N8iHjQQLmci6gdYl+/t
+ZZcg5LXh+gNPXkuGp6HOA7UBmSxe/y4bmC80U+4Ul1BDlQIzWxQSLhKt+ktC8/Pkoa2lbY9c4css
+5moup5rDAgMBAAGjggK9MIICuTCCAV8GA1UdIASCAVYwggFSMIIBTgYIKwYBBAHDUgUwggFAMD0G
+CCsGAQUFBwIBFjFodHRwczovL3d3dy5lLWNlcnRjaGlsZS5jbC9wb2xpdGljYXMteS1wcmFjdGlj
+YXMvMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUA
+IABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABp
+AG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8A
+IABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAu
+ACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFLqHu/eCoD7yXp8X69Q8
+eYk23OpPMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA4NDgwNDM3LTEw
+HwYDVR0jBBgwFoAUdNYhs/Ra6C18u1kGY0PvabQ6kwQwQAYDVR0fBDkwNzA1oDOgMYYvaHR0cDov
+L2NybC5lY2VydGNoaWxlLmNsL0UtQ0VSVENISUxFQ0FGRVMwMi5jcmwwPQYIKwYBBQUHAQEEMTAv
+MC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcGZlcy5lY2VydGNoaWxlLmNsL29jc3AwPAYJKwYBBAGC
+NxUHBC8wLQYlKwYBBAGCNxUIgd3STZfUOoaJnQaHiM5vg6/MYEWG0uwIhsfKfQIBZAIBBzAjBgNV
+HRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQELBQADggIBABjxmjZm
+921JpNTqmitVNLMcpc+HZxI55Wo+erBayP6yUhQXzcBKg/x8Bk9QZNM8lcHKB2fo3KJN3QKWovXw
+FXPIYvGXl/9oQwyVfdwdAwB1DF40U+PzUHSJ+/7kdQIMxldKgDzDhXezJFAOxJSweCjOZ//F0tqb
+OFYFJ8sWxnF0X+iwp2oTovAM0J0sOSmVV8VBnJ6ukGIE3jWv5MM/UNDUPhS2l0kzpfVGWjybinkH
+bh/pasAOqPbLQO2P6w4XMb01kyQCbEGj/mDf6FtmaKGcxa/Mi869F4Mhe2CgnycsbXyhTP7KADrW
+bat/tidrag/aAEva2KJuvwLN7LBECVnwZOr1msGs1t/4YXSDxD2gK1oHNdsAlcWjHZ8JDfurD/Dx
+/Ei22PG3H4gphK8p+t/Pxcj2LmFShjXLamIxnBr31wpEuMOwtKwrMvWPZ5JefN6YrS7G5vKp07/x
+sm0o5ZlvUU6xPIQ+4ZqdZj081//DGkILFiKjDOd3liMn5LYpJZCjpEzUXBkvXGG+P19bjrR69mFH
+qlccDi6NtpxXFSkd+gxQEFYbOGADCmFQn7/D05iWcyTZ9sQeWCQmCfUjd9Z77Cx5stqR80cpkPpc
+YFiDAts72AHWsjsbqJ8K/EiYWSZR1+jES6j10UaOWpogIFf2E/QD2TXTHY1KU+69VJhp
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</DTE>
+<DTE version="1.0" >
+            <Documento ID="F43595T33">
+            <Encabezado>
+                <IdDoc>
+                    <TipoDTE>33</TipoDTE>
+                    <Folio>43595</Folio>
+                    <FchEmis>2025-08-06</FchEmis>
+                    <FmaPago>1</FmaPago>
+                    <FchVenc>2025-08-06</FchVenc>
+                </IdDoc>
+                <Emisor>
+                    <RUTEmisor>76131929-9</RUTEmisor>
+                    <RznSoc>SOCIEDAD COMERCIAL INFOSTORE LIMITADA</RznSoc>
+                    <GiroEmis>VENTA AL POR MENOR DE COMPUTADORES</GiroEmis>
+                    <Telefono>+56222321191</Telefono>
+                    <CorreoEmisor>dte@infostore.cl</CorreoEmisor>
+                    <Acteco>474100</Acteco>
+                    <Acteco>620200</Acteco>
+                    <Acteco>702000</Acteco>
+                    <DirOrigen>NUEVA DE LYON 72 OF1202 </DirOrigen>
+                    <CmnaOrigen>Providencia</CmnaOrigen>
+                    <CdgVendedor>NOTEBOOK STORE</CdgVendedor>
+                </Emisor>
+                <Receptor>
+                    <RUTRecep>78132837-5</RUTRecep>
+                    <RznSocRecep>FEXSIGN SPA</RznSocRecep>
+                    <GiroRecep>OTRAS ACTIVIDADES DE TECNOLOGIA DE LA IN</GiroRecep>
+                    <Contacto>972824218</Contacto>
+                    <CorreoRecep>FacturacionMIPYME@sii.cl</CorreoRecep>
+                    <DirRecep>Av. Vitacura 2939 Of.301</DirRecep>
+            <CmnaRecep>Las Condes</CmnaRecep>
+                </Receptor>
+                <Totales>
+                    <MntNeto>71063</MntNeto>
+                    <TasaIVA>19.00</TasaIVA>
+            <IVA>13502</IVA>
+                    <MntTotal>84565</MntTotal>
+                </Totales>
+            </Encabezado>
+            <Detalle>
+                <NroLinDet>1</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>R54220301</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Lector de Tarjetas sin Contacto HID OMNIKEY 5422 USB 2.0</NmbItem>
+                <DscItem>[R54220301] Lector de Tarjetas sin Contacto HID OMNIKEY 5422 USB 2.0
+GARANT?A 1 A?O, SN: IM0N7B01B610448002</DscItem>
+                <QtyItem>1.000000</QtyItem>
+                <UnmdItem>U</UnmdItem>
+                <PrcItem>59655.279503</PrcItem>
+                <DescuentoPct>3.40</DescuentoPct>
+                <DescuentoMonto>2028</DescuentoMonto>
+                <MontoItem>57627</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>2</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>TELCNXX1692</VlrCodigo>
+                </CdgItem>
+                <NmbItem>ADAPTADOR GENERICO AMERICANO A NACIONAL (NEGRO)</NmbItem>
+                <DscItem>[TELCNXX1692] ADAPTADOR GENERICO AMERICANO A NACIONAL (NEGRO)</DscItem>
+                <QtyItem>4.000000</QtyItem>
+                <UnmdItem>U</UnmdItem>
+                <PrcItem>2512.681159</PrcItem>
+                <DescuentoPct>3.40</DescuentoPct>
+                <DescuentoMonto>342</DescuentoMonto>
+                <MontoItem>9709</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>3</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>DESPACHO NBS</VlrCodigo>
+                </CdgItem>
+                <NmbItem>DESPACHO NBS</NmbItem>
+                <DscItem>ORDEN 17095
+Arturo Mantinetti
+Hernan Cortes 2829
+Apartamento, casa, puerta, etc.
+1301
+?u?oa
+56 972824218</DscItem>
+                <QtyItem>1.000000</QtyItem>
+                <UnmdItem>U</UnmdItem>
+                <PrcItem>3727.000000</PrcItem>
+                <MontoItem>3727</MontoItem>
+            </Detalle>
+            <TED version="1.0">
+            <DD>
+                <RE>76131929-9</RE>
+                <TD>33</TD>
+                <F>43595</F>
+                <FE>2025-08-06</FE>
+                <RR>78132837-5</RR>
+                <RSR>FEXSIGN SPA</RSR>
+                <MNT>84565</MNT>
+                <IT1>Lector de Tarjetas sin Contacto HID OMNI</IT1>
+                <CAF version="1.0">
+                    <DA>
+                        <RE>76131929-9</RE>
+                        <RS>SOCIEDAD COMERCIAL INFOSTORE LIMITADA</RS>
+                        <TD>33</TD>
+                        <RNG>
+                            <D>43143</D>
+                            <H>44142</H>
+                        </RNG>
+                        <FA>2025-07-07</FA>
+                        <RSAPK>
+                            <M>yYb7HWzN61BoomK1tYvB5bmB4W5SjO/kMupSevN/9U6vVoUTfjoGg+MW21pzcCoTklbHx6CuDOEhEwmBKUo32Q==</M>
+                            <E>Aw==</E>
+                        </RSAPK>
+                        <IDK>300</IDK>
+                    </DA>
+                    <FRMA algoritmo="SHA1withRSA">kvtZsIbwbBNPf2zc4hP9wNqqI6HRYQuYvIwmD2UgmBM48KMj6ePoBbhRkiGsce5kNREj6TPb1B/pSxJ6gEPTyA==</FRMA>
+                </CAF>
+                <TSTED>2025-08-06T13:19:50</TSTED>
+            </DD>
+                <FRMT algoritmo="SHA1withRSA">Zdnw6UDKsTFHimMOfL+pdnWOB7ibKfvQmt9kvPKeeTX6ag42vkmQKlsQZqwJUQmiZIKHBwZaiGjHO2u/HjoHCg==</FRMT>
+            </TED><TmstFirma>2025-08-06T13:19:50</TmstFirma>
+            </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo xmlns="http://www.w3.org/2000/09/xmldsig#"><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod><Reference URI="#F43595T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod><DigestValue>QsXnqpQoHXBVJGfBC4rqVcL3JoU=</DigestValue></Reference></SignedInfo><SignatureValue>Oz5ezqZ29u1J/BQV2lALEdshksUcTK1cNqdBLmVL+qbNAT5iNHWJz94/ZveMehWQyeh6YL93Mp5piMyLvIjxirJayIQ4/2xrhu0yVsUW8kHcOcNFVi9fPHTw1VVoKFlqiQKbmbst/jD/IBQPMJKu/hKyu9lB4ASYczCtO4ChR9ippDbpEA2jQoEHJfRkUltIOy0sfxkXJXyntBaUa1JqHRY6yJcNWHlsVWWFS9/i/9Q6XvRQDBu6KJITR5K26xqLyXqEru64/7VVcNkvWepupxvdFd2SiaRBpW3qxeYDTC5qPjyf27La1y+XsOnP/y4eUKCfA1HZEuTtrpTW+TYJng==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>jjs/ApEO5OiBo0ctuaK1k52E22JL6VCawjqsPqtanqX/H054vaZlAePKCeX+8jj+8ZgWD6Y6n7b5IHyPW5/JDt8FcHq1oKZQ973m9FznXLFR35J0LzorXBa9TdcQOZMhmhmHDlrZYG8uAoyInskKhWwypkaVKX5OREJFUhOp+0F3bwPhjmjzHYi3JVj2fVVG+asEgCJHJIEVk2kCe9bLvcA4KTZ25QB8UTUQDx9gQtsnQ2NsmrFTeF9fLLiUw9tAPfBkJMLWJaSgPlwTQWqx65Wmrjcav1Z5FjE3VrJ4LYC38nbKx8XpHtvBR8omWD7mABNWhkZwNX+VD4kNm031cw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGOzCCBSOgAwIBAgIIFe6GgKrRcYcwDQYJKoZIhvcNAQELBQAwga8xCzAJBgNV
+BAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5BLjE5MDcGA1UECwwwVGVybXMgb2Yg
+dXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJkb3RlcmNlcm9zMSswKQYDVQQD
+DCJFLVNpZ24gQ2xhc3MgMiBGaXJtYSBUcmlidXRhcmlhIENBMSIwIAYJKoZIhvcN
+AQkBFhNlLXNpZ25AZXNpZ24tbGEuY29tMB4XDTIyMTIyOTEzMTgwMFoXDTI1MTIy
+ODEzMTgwMFowgZoxCzAJBgNVBAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5BLjE5
+MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJk
+b3RlcmNlcm9zMRYwFAYDVQQDDA1QaGlsaXAgTWMgS2F5MSIwIAYJKoZIhvcNAQkB
+FhNwbWNrYXlAaW5mb3N0b3JlLmNsMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAjjs/ApEO5OiBo0ctuaK1k52E22JL6VCawjqsPqtanqX/H054vaZlAePK
+CeX+8jj+8ZgWD6Y6n7b5IHyPW5/JDt8FcHq1oKZQ973m9FznXLFR35J0LzorXBa9
+TdcQOZMhmhmHDlrZYG8uAoyInskKhWwypkaVKX5OREJFUhOp+0F3bwPhjmjzHYi3
+JVj2fVVG+asEgCJHJIEVk2kCe9bLvcA4KTZ25QB8UTUQDx9gQtsnQ2NsmrFTeF9f
+LLiUw9tAPfBkJMLWJaSgPlwTQWqx65Wmrjcav1Z5FjE3VrJ4LYC38nbKx8XpHtvB
+R8omWD7mABNWhkZwNX+VD4kNm031cwIDAQABo4ICbDCCAmgwgYAGCCsGAQUFBwEB
+BHQwcjBKBggrBgEFBQcwAoY+aHR0cDovL3BraS5lc2lnbi1sYS5jb20vY2FjZXJ0
+cy9wa2lDbGFzczJGaXJtYVRyaWJ1dGFyaWFDQS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmVzaWduLWxhLmNvbTAdBgNVHQ4EFgQUB8MDMoZ/DfjgEePJwSWH
+V6gZjCcwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBT5SvrCx27C5xKcV0U1hBpt
+KOlKpDCByAYDVR0gBIHAMIG9MIG6BgwrBgEEAYLKagEEAQIwgakwfgYIKwYBBQUH
+AgIwch5wAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAHAAYQByAGEAIAB1AHMAbwAg
+AFQAcgBpAGIAdQB0AGEAcgBpAG8ALAAgAEMAbwBtAGUAcgBjAGkAbwAsACAAUABh
+AGcAbwBzACAAeQAgAE8AdAByAG8AczAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5l
+c2lnbi1sYS5jb20vY3BzMFEGA1UdHwRKMEgwRqBEoEKGQGh0dHA6Ly9wa2kuZXNp
+Z24tbGEuY29tL2NybC9wa2lDbGFzczJGaXJtYVRyaWJ1dGFyaWEvZW5kdXNlci5j
+cmwwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjEyMTI2NDAwLTUwIwYDVR0SBBww
+GqAYBggrBgEEAcEBAqAMFgo5OTU1MTc0MC1LMA0GCSqGSIb3DQEBCwUAA4IBAQAY
+eCIF64snvRQUJqQFMMnTQ5JXlL/JOutth8edOmNbDj0ayHXhI7XRp8F77Rp8Tw4f
+X0CgW7VMlprdOof1oHtl8A57Huf6zgISaW2uIVqryAQv4eQYeRev6See9o4GldJg
+v2G3JlRJ11SEFI1I7orMtn+VhsKmalpRwCocCA/bI+SF1uPsWDDEg2r/H50xRYgh
+NwVQUZ05Fr3mBSyYrsqLaZ+74rzgpo5ndYpmih3iN21fyEILRABVTG6jxUuwz1oE
+GR+qqXPb0Rwsmk61l4BjUktpBZ05nItnkU7IChzJjP8muvdCcs/fLZOdb9yzeFA5
+hQdEdZXvyS6JfMMdFf62</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+</SetDTE>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+	<SetDTE ID="IDa405a2feecd4462fa3f38c9e22a0cf6c">
+		<Caratula version="1.0">
+			<RutEmisor>96689310-9</RutEmisor>
+			<RutEnvia>10823081-9</RutEnvia>
+			<RutReceptor>77413831-5</RutReceptor>
+			<FchResol>2025-09-08</FchResol>
+			<NroResol>0</NroResol>
+			<TmstFirmaEnv>2025-09-08T13:22:05</TmstFirmaEnv>			
+		<SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+	<DTE version="1.0">
+	<Documento ID="S20241127T33F53632273">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>53632273</Folio>
+				<FchEmis>2024-11-27</FchEmis>
+				<IndServicio>3</IndServicio>
+				<FmaPago>1</FmaPago>
+				<FchVenc>2024-11-27</FchVenc>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>96689310-9</RUTEmisor>
+				<RznSoc>TRANSBANK S.A.</RznSoc>
+				<GiroEmis>OPERADORA DE TARJETA DE CREDITO Y DEBITO</GiroEmis>
+				<Acteco>671921</Acteco>
+				<DirOrigen>HUERFANOS 770 PISO 10</DirOrigen>
+				<CmnaOrigen>SANTIAGO</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor><Receptor>
+				<RUTRecep>77413831-5</RUTRecep>
+				<CdgIntRecep>52156949</CdgIntRecep>
+				<RznSocRecep>FIRMEX SPA</RznSocRecep>
+				<GiroRecep>PORTALES WEB</GiroRecep>
+				<DirRecep>AV VITACURA 2939 L-301</DirRecep>
+				<CmnaRecep>LAS CONDES</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<RUTSolicita>77413831-5</RUTSolicita>
+			<Totales>
+				<MntNeto>31364</MntNeto>
+				<TasaIVA>19.00</TasaIVA>
+				<IVA>5959</IVA>
+				<IVAProp>5959</IVAProp>
+				<MntTotal>37323</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<NmbItem>COMISIONES POR VENTAS NACIONALES</NmbItem>
+			<MontoItem>31364</MontoItem>
+		</Detalle>
+<TED version="1.0"><DD><RE>96689310-9</RE><TD>33</TD><F>53632273</F><FE>2024-11-27</FE><RR>77413831-5</RR><RSR>FIRMEX SPA</RSR><MNT>37323</MNT><IT1>COMISIONES POR VENTAS NACIONALES</IT1><CAF version="1.0"><DA><RE>96689310-9</RE><RS>TRANSBANK S A</RS><TD>33</TD><RNG><D>53438233</D><H>53638232</H></RNG><FA>2024-09-30</FA><RSAPK><M>uo1SG8OilnJNsy+BH7VaR6jQKQyUl5TQqMbxULSsTGYk42TUtAIw1/Cwfq9EwUD4+yiCBXpPU4Ncau/66sRBPQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">Ryf7yUK739WdQVxbG9wowG6oB1owEUTsth66dTtuOZgFiHzhcoU7B64t6+J+oByrYbUEqiw8Vr9u6otCrGz/JQ==</FRMA></CAF><TSTED>2024-11-29T00:22:48</TSTED></DD><FRMT algoritmo="SHA1withRSA">t9pZXxytXz3onR0T1DaqtGwAf97GJSLgTtwnGgsHPwnsPfWxmLcuv/Ynk8kqNjilbULNIpEmf0iQ
+0Hax7ohPGw==
+</FRMT></TED>
+<TmstFirma>2024-11-29T00:22:48</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+    <Reference URI="#S20241127T33F53632273">
+      <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <DigestValue>/fts5ytWIpCdrLVrdv5Kw+sROEU=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+    zx8zVZ8rV5LeytrMmpzzFQhOYhGGqkbL0ytuBqcQxyuGPzGzKEaM+/IdsEtDNkEW
+    P/jDUDnXd2VaAvQrl6F8SSd4oaSFvSzHJpDmZlMWYFW061gKDotLAx1vUchKxTEY
+    AD62nPlWD1MuD4VSwByGc+h6ErnAceHi6u54kIBrl9o7iJDpujXZldndcLIyLLRm
+    X8pHNmx4SIB7Ab8A19s5PVbARO+Il6w8Kev3ATt8mESsydAItc+d3RrJvOlgSn6y
+    ai33bDMLnfegEvljeZMAsbuoSBr69iq/qqYsy97WnJ3KuKgn/Se3biyDYk3O2LNs
+    V3N/xBaQIsTAE3kGsIx+Cg==
+  </SignatureValue>
+  <KeyInfo>
+    <KeyValue>
+      <RSAKeyValue>
+        <Modulus>
+          66bDq/YaLpxGY1XyM7UCSmv3EDxsmhpAGovI0J2KG+DzUGz8keB7H4gY+LrWys9V
+          F6h6bEU/1BDaFe+1U0lGd0T7phko2E5VfBLLbMDTp660DCC2SmKUbrTu+gByj8Iv
+          vmsrbpwx+51VG4hgtVtdlevIBVa9O7LDKqeYBUuQNY9qv6/dr2PLMbpLvTM5+m+J
+          k83OD9/lrVAPVlYh/dMFTOpb+MMuauvI0ZWdWUrBLFsEOpq/UFh/6nJvVqPEBWxR
+          B5mmavla/0nExiNjkfWe94JoYsrw+QsJc3dSnpLb1u5Wllu/RdjemFyrZjrgPgO2
+          dNaEjlsx5VnLbUbxIu5+gw==
+        </Modulus>
+        <Exponent>AQAB</Exponent>
+      </RSAKeyValue>
+    </KeyValue>
+    <X509Data>
+      
+      <X509Certificate>
+        MIIGcTCCBVmgAwIBAgIDBkLXMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJD
+        TDEYMBYGA1UEChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29t
+        IEF1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFs
+        IC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9AYWNlcHRhLmNvbTETMBEGA1UEBRMK
+        OTY5MTkwNTAtODAeFw0yMzEyMjExMzU4MTRaFw0yNjEyMjExMzU4MTRaMIGIMQsw
+        CQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSUwIwYDVQQDExxY
+        SU1FTkEgUEFPTEEgVE9MRURPIEdPTlpBTEVaMSMwIQYJKoZIhvcNAQkBFhR4dG9s
+        ZWRvQHRyYW5zYmFuay5jbDETMBEGA1UEBRMKMTM2ODI5MjUtNDCCASIwDQYJKoZI
+        hvcNAQEBBQADggEPADCCAQoCggEBAOumw6v2Gi6cRmNV8jO1Akpr9xA8bJoaQBqL
+        yNCdihvg81Bs/JHgex+IGPi61srPVReoemxFP9QQ2hXvtVNJRndE+6YZKNhOVXwS
+        y2zA06eutAwgtkpilG607voAco/CL75rK26cMfudVRuIYLVbXZXryAVWvTuywyqn
+        mAVLkDWPar+v3a9jyzG6S70zOfpviZPNzg/f5a1QD1ZWIf3TBUzqW/jDLmrryNGV
+        nVlKwSxbBDqav1BYf+pyb1ajxAVsUQeZpmr5Wv9JxMYjY5H1nveCaGLK8PkLCXN3
+        Up6S29buVpZbv0XY3phcq2Y64D4DtnTWhI5bMeVZy21G8SLufoMCAwEAAaOCAsIw
+        ggK+MB8GA1UdIwQYMBaAFGWlqz4/yLZRbRF+X8MKB+ZDoAi2MB0GA1UdDgQWBBRn
+        V/byyIdnVbp//0bmGwiFQc9xWzALBgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYB
+        BQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQEAwIFoDCB9QYDVR0gBIHtMIHq
+        MIHnBggrBgEEAbVrAjCB2jAxBggrBgEFBQcCARYlaHR0cHM6Ly9hY2c0LmFjZXB0
+        YS5jb20vQ1BTLUFjZXB0YWNvbTCBpAYIKwYBBQUHAgIwgZcwFhYPQWNlcHRhLmNv
+        bSBTLkEuMAMCAQkafUVsIHRpdHVsYXIgaGEgc2lkbyB2YWxpZGFkbyBlbiBmb3Jt
+        YSBvbmxpbmUsIHF1ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFy
+        YSB1c28gdHJpYnV0YXJpbywgcGFnb3MsIGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1Ud
+        EgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYM
+        Cjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9pbmZvQGFjZXB0YS5jb20wXwYDVR0RBFgw
+        VqAYBggrBgEEAcEBAaAMFgoxMzY4MjkyNS00oCQGCCsGAQUFBwgDoBgwFgwKMTM2
+        ODI5MjUtNAYIKwYBBAHBAQKBFHh0b2xlZG9AdHJhbnNiYW5rLmNsMEcGCCsGAQUF
+        BwEBBDswOTA3BggrBgEFBQcwAYYraHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNn
+        NC9vY3NwL0NsYXNlMi1HNDA/BgNVHR8EODA2MDSgMqAwhi5odHRwczovL2FjZzQu
+        YWNlcHRhLmNvbS9hY2c0L2NybC9DbGFzZTItRzQuY3JsMA0GCSqGSIb3DQEBCwUA
+        A4IBAQBYT539pRHu8m9MZsH0icW8cZziWzqfZiKQL8iaoWa1Hhz9NthxUXQ6OK+E
+        Vb+mev25DZxoSlWhEmcycLm1MoO2OcTAS3fEx39q3OcnXZBa/2/aQVCsQnN3xDo4
+        R8FSN2a0fYNH3bQvDLs0jGZdnIw8hyVHHKY/KAjhmdmKpfYpWi6YWAySIB6vImYT
+        nHl32n6ipcoTz5kLZlocR8Ebcb5gyspXuI1GAM6zUQmsHRrfFhNbPAUsJkKD7IEw
+        KVH6KT65yTopJJA4uh2tW28J4ZjO+Lnvk20xWQAbWYq6cgov1tfxYFI8aAhD4irn
+        sJa5aHxXdbdkucJeXryxOPErbhYV
+      </X509Certificate>
+    </X509Data>
+  </KeyInfo>
+</Signature>
+</DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#IDa405a2feecd4462fa3f38c9e22a0cf6c"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>FI1XKGF9cxSWxEouSuU0V+nn51s=</DigestValue></Reference></SignedInfo><SignatureValue>
+FVNM381bmqwDl8UIek4joHSN1A6DVsPuX8xEKIQmzyqMJDCYNWQN+vdz4iW2pn56
+/qJ5ugAYV8A2fhdXoQwfP1UUaG12Tg2iv8WYVN98H8xvI+oOQoX6RSXSnhC8hgcu
+N6VNFYQJIAksMS2kq7GqwDVYc+FAKaN0c3R8nH1w8tI=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+sh/HGLFgj7aNerEbhbaEZBtbXZxuKj2tMrgXHeGblGEJKmSvi2vCNLE0/sgfbbU0
+3W8E6Z5dNTmpHIGwiIZ0inJXFNz8XB7JnAjPaRIwqNQkOT73CG5JWSCtXpCv4Rqn
+piLuRxhS43lRE7TWgpHIfKsCwqFhQEErQorWLy2mywc=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGRTCCBS2gAwIBAgIKR7JBXAAAAAyA5TANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xODExMjYxODA4MzlaFw0yMTExMjUxODA4MzlaMIHG
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMRwwGgYDVQQKExNERUZPTlRBTkEgQ0hJTEUg
+U1BBMRcwFQYDVQQLEw5BRE1JTklTVFJBQ0lPTjEgMB4GA1UEAwwXRGllZ28gIEdv
+bnrDoWxleiBHYW1ib2ExJjAkBgkqhkiG9w0BCQEWF2Rnb256YWxlekBkZWZvbnRh
+bmEuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyH8cYsWCPto16sRuF
+toRkG1tdnG4qPa0yuBcd4ZuUYQkqZK+La8I0sTT+yB9ttTTdbwTpnl01OakcgbCI
+hnSKclcU3PxcHsmcCM9pEjCo1CQ5PvcIbklZIK1ekK/hGqemIu5HGFLjeVETtNaC
+kch8qwLCoWFAQStCitYvLabLBwIDAQABo4ICqTCCAqUwggFPBgNVHSAEggFGMIIB
+QjCCAT4GCCsGAQQBw1IFMIIBMDAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNl
+cnRjaGlsZS5jbC9DUFMuaHRtMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUA
+cwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAA
+ZQBzACAAdQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4A
+cwBhAGIAbABlACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwA
+IABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMA
+bgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFOwl
+dFE/aw+9wgP4IElpaoeofERBMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsG
+AQQBwQEBoAwWCjEwODIzMDgxLTkwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOz
+QykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5j
+bC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcw
+AYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQw
+MC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYGa5xWGr+AVAgFkAgEE
+MCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0B
+AQUFAAOCAQEANKI7KbcjS+agDnHW1iu9xaz0EsB2EBVn1qCbZYwezSukrsyzr42j
+0AMCWN0bNAxLzSkjEWA5P3+SwREg+qgucbO4mhNiB73dOQ6ULaVQ4wajtph7yule
+h4RlRf5WGxi5OHrl1MF3Fgp51JB7HgEZByUfaMCvGJ3BQQWR2qLZ90mYJpVgZhxw
+VuWMzB4MiAZhu5I0LTDGi1StZn/0fa2/LvkAT89Gwp40h4zV+DxbkQRh0gePjeAx
+QImVHOe/egB4OogRPu0h7YoJAz7Yc8d88rTUN90KZichrJHvflQSWthoZwt28K1p
+dp8iKqVfCKNgxwRAcVJ/iVq/2NRHX2Id0A==
+</X509Certificate></X509Data></KeyInfo></Signature>
+</EnvioDTE>

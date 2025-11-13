@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+	<SetDTE ID="IDe0fa64235bbf4aa4a97e28ff7ac7b350">
+		<Caratula version="1.0">
+			<RutEmisor>76124863-4</RutEmisor>
+			<RutEnvia>23698293-9</RutEnvia>
+			<RutReceptor>77413831-5</RutReceptor>
+			<FchResol>2014-08-22</FchResol>
+			<NroResol>80</NroResol>
+			<TmstFirmaEnv>2025-09-08T13:18:49</TmstFirmaEnv>			
+		<SubTotDTE><TpoDTE>61</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+	<DTE version="1.0">
+			<Documento ID="T61F16887">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>61</TipoDTE>
+						<Folio>16887</Folio>
+						<FchEmis>2025-03-10</FchEmis>
+						<IndServicio>3</IndServicio>
+						<TpoTranVenta>1</TpoTranVenta>
+
+						<FchVenc>2025-03-01</FchVenc>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>76124863-4</RUTEmisor>
+						<RznSoc>COMERCIALIZADORA Y DISTRIBUIDORA DMASLED SPA</RznSoc>
+						<GiroEmis>COMERC IMPORT DE EQUIPOS ELECTR. E ILUMINACION</GiroEmis>
+						<CorreoEmisor>info@dled.cl</CorreoEmisor>
+						<Acteco>464902</Acteco>
+						<Sucursal>Mercado Libre</Sucursal>
+						<DirOrigen>Mersan</DirOrigen>
+						<CmnaOrigen>13</CmnaOrigen>
+						<CiudadOrigen>SANTIAGO</CiudadOrigen>
+						<CdgVendedor>VENDEDOR</CdgVendedor>
+					</Emisor>
+					<Receptor>
+						<RUTRecep>77413831-5</RUTRecep>
+						<CdgIntRecep>77.413.831-5</CdgIntRecep>
+						<RznSocRecep>COMERCIAL WAVEDEV SPA</RznSocRecep>
+						<GiroRecep>Particular</GiroRecep>
+						<DirRecep>2829</DirRecep>
+						<CmnaRecep>ÑUñOA</CmnaRecep>
+						<CiudadRecep>Ñuñoa</CiudadRecep>
+						<DirPostal>2829</DirPostal>
+						<CmnaPostal>Ñuñoa</CmnaPostal>
+						<CiudadPostal>Ñuñoa</CiudadPostal>
+					</Receptor>
+					<Totales>
+						<MntNeto>18364</MntNeto>
+						<TasaIVA>19.00</TasaIVA>
+						<IVA>3489</IVA>
+						<MntTotal>21853</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>cab-11rgbw-a2</VlrCodigo>
+					</CdgItem>
+					<NmbItem>Cable 5 polos de 0.6mm RGBW - 5x0.6mm (22AWG) - x1m, 48V Máx.</NmbItem>
+					<QtyItem>10.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>591.008400</PrcItem>
+					<MontoItem>5910</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>2</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>domo-60</VlrCodigo>
+					</CdgItem>
+					<NmbItem>Sensor de Temperatura y Humedad Smart WiFi</NmbItem>
+					<QtyItem>1.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>8700.000000</PrcItem>
+					<MontoItem>8700</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>3</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>T590-03cw</VlrCodigo>
+					</CdgItem>
+					<NmbItem>Tubo LED T5 frío 6.500K 1.000lm 165-265V 14W, Conexión 2 lados</NmbItem>
+					<QtyItem>1.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>3753.781500</PrcItem>
+					<MontoItem>3754</MontoItem>
+				</Detalle>
+				<Referencia>
+					<NroLinRef>1</NroLinRef>
+					<TpoDocRef>33</TpoDocRef>
+					<FolioRef>198071</FolioRef>
+					<FchRef>2025-03-01</FchRef>
+					<CodRef>1</CodRef>
+					<RazonRef>1</RazonRef>
+				</Referencia>
+				<TED version="1.0"><DD><RE>76124863-4</RE><TD>61</TD><F>16887</F><FE>2025-03-10</FE><RR>77413831-5</RR><RSR>COMERCIAL WAVEDEV SPA</RSR><MNT>21853</MNT><IT1>Cable 5 polos de 0.6mm RGBW - 5x0.6mm (</IT1><CAF version="1.0">
+<DA>
+<RE>76124863-4</RE>
+<RS>COMERCIALIZADORA Y DISTRIBUIDORA DEMASLE</RS>
+<TD>61</TD>
+<RNG><D>16325</D><H>17084</H></RNG>
+<FA>2024-12-27</FA>
+<RSAPK><M>rtYM3fxMhU3hVjZACEiA0n9gFjNLJcyHJWNxHykiziw8AmkGpEseROuOoWJY154U6de/3zLJH9rIxXUFx9uKJQ==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">Gpg3OAGzJlOp6ctz2ea2U1sB2VnFMwWA9JZLbmQItqf5QgH0FvTx3gSEC5/86iIpffN5yF2xnWo6PvExcyXDMw==</FRMA>
+</CAF><TSTED>2025-03-10T20:41:00</TSTED></DD><FRMT algoritmo="SHA1withRSA">mKe9nbajlDqsHkKAjUcOHucg/kF+MKSVJbKKp4/olYrYMnvoNu88YPdkJnpxxmyNutp+HHkMocm7ExbLQvKlTQ==</FRMT></TED>
+				<TmstFirma>2025-03-10T20:41:00</TmstFirma>
+			</Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#T61F16887"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>GA8ZGYLsuRykPTi6gtO09U37F1I=</DigestValue></Reference></SignedInfo><SignatureValue>
+i82MrgJPNu+A7M4yLTkNWi9HdBdBbENjn28PTJ4WLT60eyrkfnCpLlvKF1+PdEHZ
++903+w3Rr6Wu6xVi23SfqDlyKVgswpFFBlUjuqZkeSoG25tUDHBbw8jO4xqHctHd
+ic9+cNmfbCwSajeTXcdKK+++3MAROtUwvhNOee5MCWcfXTBrz795nYyG9uqzuqhT
+Sb1fFrzH1K2ex1yxzMta9j9ygBMEXJqXU10+u36q5HHC3xOSJYKipm5zKXCJJiMe
+EohW8q1A2xVCNf32WdOUXK4b0ywv7CQy20A0UHICj9k60UWTgZqRsChEjnEisd42
+d347TqIFCQaVvm/hsrTmAQ==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+xmWVEkFboJdjQ+GQs4+zVKE3Nj0nYm8F+o3X6TB4MNRf/yEPcYBXfKTNXRF+s5Sz
+3zOBQsRoJYu9vDbBbLl2V2DKvVye/olu7MZUcEknopMR6u0u9LnAxH9GSJYZ3jem
+rT6o6AwZ19D47IJcSnq+gUXKKAi7XinloIeJpjGKajqo3To/k+JySVo4plNnc5O+
+bhoPtjRTaQroE4cC6uCXcfIgAlqdA98Lu3knHJbNp2EJ8dnYWet8N8p67ytnfGqE
++kd2vY9VJE34TsfUZ9wF7oId8/LsxW3ywSp0YlnlI5GxRR330iUXS2RBNRXCJl7D
+LeuB/HZXP05M+63QU/uMpw==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIHzTCCBbWgAwIBAgIKHsrLfgABAAM5wDANBgkqhkiG9w0BAQsFADCBvzELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQDExVFLUNFUlRDSElMRSBDQSBGRVMg
+MDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNoaWxlLmNsMB4XDTIy
+MTAxNDE2NTg0M1oXDTI1MTAxMzE2NTg0M1owgckxCzAJBgNVBAYTAkNMMSIwIAYD
+VQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFH
+TzE2MDQGA1UEChMtQ09NRVJDSUFMSVpBRE9SQSBZIERJU1RSSUJVSURPUkEgREVN
+QVNMRUQgU1BBMQowCAYDVQQLDAEqMRowGAYDVQQDExFEQU5JRUwgS1VaTklFQ0tJ
+IDEjMCEGCSqGSIb3DQEJARYUQ09OVEFCSUxJREFEQERMRUQuQ0wwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGZZUSQVugl2ND4ZCzj7NUoTc2PSdibwX6
+jdfpMHgw1F//IQ9xgFd8pM1dEX6zlLPfM4FCxGgli728NsFsuXZXYMq9XJ7+iW7s
+xlRwSSeikxHq7S70ucDEf0ZIlhneN6atPqjoDBnX0PjsglxKer6BRcooCLteKeWg
+h4mmMYpqOqjdOj+T4nJJWjimU2dzk75uGg+2NFNpCugThwLq4Jdx8iACWp0D3wu7
+eSccls2nYQnx2dhZ63w3ynrvK2d8aoT6R3a9j1UkTfhOx9Rn3AXugh3z8uzFbfLB
+KnRiWeUjkbFFHffSJRdLZEE1FcImXsMt64H8dlc/Tkz7rdBT+4ynAgMBAAGjggK9
+MIICuTCCAV8GA1UdIASCAVYwggFSMIIBTgYIKwYBBAHDUgUwggFAMD0GCCsGAQUF
+BwIBFjFodHRwczovL3d3dy5lLWNlcnRjaGlsZS5jbC9wb2xpdGljYXMteS1wcmFj
+dGljYXMvMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUA
+cgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAA
+cgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAA
+cABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUA
+cwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMA
+dABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFO3vkh0opZPA8tgbmBbY
+PYP2XuqSMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjIz
+Njk4MjkzLTkwHwYDVR0jBBgwFoAUdNYhs/Ra6C18u1kGY0PvabQ6kwQwQAYDVR0f
+BDkwNzA1oDOgMYYvaHR0cDovL2NybC5lY2VydGNoaWxlLmNsL0UtQ0VSVENISUxF
+Q0FGRVMwMi5jcmwwPQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8v
+b2NzcGZlcy5lY2VydGNoaWxlLmNsL29jc3AwPAYJKwYBBAGCNxUHBC8wLQYlKwYB
+BAGCNxUIgd3STZfUOoaJnQaHiM5vg6/MYEWG0uwIhsfKfQIBZAIBBzAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQELBQADggIB
+AFRyVwBJcelInZd4Xfo9QM5jEgZK3WxwH4o/DdmcTI+xKLANaw3TQ+JVosc4kdUe
+gtfvY3cAmROR32lPyaaPnf2KHohaGQGV64C2gWxY1BtNppBDtnK2Ew3ljiGQB7gb
+QrS/u6iTGBHVZVE/siU3DOqyuswXgMD7HRr0xiBCK6tTREgZEI17dkEDbJqopSC3
+QXDNoVp3BQCpPbfckPLpORN3hWhqALWEPqYZjr4rYC4e1Zrq0LGbUkA6T/urMtW/
+EqOzHmpXgG9GzMgtQpFXsySrzQwkri1LNZmLkIVIU45cQVEvpoNzFsrXCRffFfsk
+RB1UWFdTVVtwG/mn+FqzyvYjscCvdi13wCkOy7PfaXwLPe8pBdKp5r0oXcqhnfHH
+AMe4A5Rln6ZgYfUFdzBIuDELttY41WZEGwIZLYe5ZHmJM8DIfAWeXAOVHzLasmfU
+xk1bw6gMOIKWaW28OqeiHzZpR8N8zd1MoeZRms59ltVe4fd5sY0zizicgrFt6dRn
+oVl6l31vPWSWOBmkM9K5/FlMpNjWvKlf4HIKO89p+usqwSjpkVuYRADW0qx9XQDv
+JAFGSy62sTvoA2EnF0sxDKPclRZoXLISMIXYv3AFhLSISl4FRd+QBFOK5dOV2y0M
++kW7gr5DSPOPEumpH6lkp4Furnq6FNQqpsjeaHibylod
+</X509Certificate></X509Data></KeyInfo></Signature>
+		</DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#IDe0fa64235bbf4aa4a97e28ff7ac7b350"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>tbkCW/9cYu3fAZ6E1jc8i4NXXKw=</DigestValue></Reference></SignedInfo><SignatureValue>
+j3QVZG6PO3aPAEYZJCp83PrCHNfk3cr3Y02HrWFJaWlCTcs6hdykQej4waksU8Y4
+/LtqDSMHWJulFJYUobHvjq2eyBs3bHOZUgmCBkAzS782Bd+YK4iw8Rr+yjmn7iRK
+u96EZKMDvfRyB3oHParmTZJeglAqzWUOnkhIAPIECyP0usPO0nVRmtJIJQwqcCS9
+7K1rEMNQ9wAuN3GOvk2u1TXy/WL87mKB5i4R0z6eYsoauqcwo2lKzxqih82k/cq5
+axkDjG0h7VcLFlpeFesRhXAh9YmN6uwmXVSqdkKfxF6MRRYfVYvrs1zbuWHb1HJg
+9IxewfxhNd9rIfNEaHwJwg==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+xmWVEkFboJdjQ+GQs4+zVKE3Nj0nYm8F+o3X6TB4MNRf/yEPcYBXfKTNXRF+s5Sz
+3zOBQsRoJYu9vDbBbLl2V2DKvVye/olu7MZUcEknopMR6u0u9LnAxH9GSJYZ3jem
+rT6o6AwZ19D47IJcSnq+gUXKKAi7XinloIeJpjGKajqo3To/k+JySVo4plNnc5O+
+bhoPtjRTaQroE4cC6uCXcfIgAlqdA98Lu3knHJbNp2EJ8dnYWet8N8p67ytnfGqE
++kd2vY9VJE34TsfUZ9wF7oId8/LsxW3ywSp0YlnlI5GxRR330iUXS2RBNRXCJl7D
+LeuB/HZXP05M+63QU/uMpw==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIHzTCCBbWgAwIBAgIKHsrLfgABAAM5wDANBgkqhkiG9w0BAQsFADCBvzELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQDExVFLUNFUlRDSElMRSBDQSBGRVMg
+MDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNoaWxlLmNsMB4XDTIy
+MTAxNDE2NTg0M1oXDTI1MTAxMzE2NTg0M1owgckxCzAJBgNVBAYTAkNMMSIwIAYD
+VQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFH
+TzE2MDQGA1UEChMtQ09NRVJDSUFMSVpBRE9SQSBZIERJU1RSSUJVSURPUkEgREVN
+QVNMRUQgU1BBMQowCAYDVQQLDAEqMRowGAYDVQQDExFEQU5JRUwgS1VaTklFQ0tJ
+IDEjMCEGCSqGSIb3DQEJARYUQ09OVEFCSUxJREFEQERMRUQuQ0wwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGZZUSQVugl2ND4ZCzj7NUoTc2PSdibwX6
+jdfpMHgw1F//IQ9xgFd8pM1dEX6zlLPfM4FCxGgli728NsFsuXZXYMq9XJ7+iW7s
+xlRwSSeikxHq7S70ucDEf0ZIlhneN6atPqjoDBnX0PjsglxKer6BRcooCLteKeWg
+h4mmMYpqOqjdOj+T4nJJWjimU2dzk75uGg+2NFNpCugThwLq4Jdx8iACWp0D3wu7
+eSccls2nYQnx2dhZ63w3ynrvK2d8aoT6R3a9j1UkTfhOx9Rn3AXugh3z8uzFbfLB
+KnRiWeUjkbFFHffSJRdLZEE1FcImXsMt64H8dlc/Tkz7rdBT+4ynAgMBAAGjggK9
+MIICuTCCAV8GA1UdIASCAVYwggFSMIIBTgYIKwYBBAHDUgUwggFAMD0GCCsGAQUF
+BwIBFjFodHRwczovL3d3dy5lLWNlcnRjaGlsZS5jbC9wb2xpdGljYXMteS1wcmFj
+dGljYXMvMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUA
+cgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAA
+cgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAA
+cABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUA
+cwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMA
+dABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFO3vkh0opZPA8tgbmBbY
+PYP2XuqSMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjIz
+Njk4MjkzLTkwHwYDVR0jBBgwFoAUdNYhs/Ra6C18u1kGY0PvabQ6kwQwQAYDVR0f
+BDkwNzA1oDOgMYYvaHR0cDovL2NybC5lY2VydGNoaWxlLmNsL0UtQ0VSVENISUxF
+Q0FGRVMwMi5jcmwwPQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8v
+b2NzcGZlcy5lY2VydGNoaWxlLmNsL29jc3AwPAYJKwYBBAGCNxUHBC8wLQYlKwYB
+BAGCNxUIgd3STZfUOoaJnQaHiM5vg6/MYEWG0uwIhsfKfQIBZAIBBzAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQELBQADggIB
+AFRyVwBJcelInZd4Xfo9QM5jEgZK3WxwH4o/DdmcTI+xKLANaw3TQ+JVosc4kdUe
+gtfvY3cAmROR32lPyaaPnf2KHohaGQGV64C2gWxY1BtNppBDtnK2Ew3ljiGQB7gb
+QrS/u6iTGBHVZVE/siU3DOqyuswXgMD7HRr0xiBCK6tTREgZEI17dkEDbJqopSC3
+QXDNoVp3BQCpPbfckPLpORN3hWhqALWEPqYZjr4rYC4e1Zrq0LGbUkA6T/urMtW/
+EqOzHmpXgG9GzMgtQpFXsySrzQwkri1LNZmLkIVIU45cQVEvpoNzFsrXCRffFfsk
+RB1UWFdTVVtwG/mn+FqzyvYjscCvdi13wCkOy7PfaXwLPe8pBdKp5r0oXcqhnfHH
+AMe4A5Rln6ZgYfUFdzBIuDELttY41WZEGwIZLYe5ZHmJM8DIfAWeXAOVHzLasmfU
+xk1bw6gMOIKWaW28OqeiHzZpR8N8zd1MoeZRms59ltVe4fd5sY0zizicgrFt6dRn
+oVl6l31vPWSWOBmkM9K5/FlMpNjWvKlf4HIKO89p+usqwSjpkVuYRADW0qx9XQDv
+JAFGSy62sTvoA2EnF0sxDKPclRZoXLISMIXYv3AFhLSISl4FRd+QBFOK5dOV2y0M
++kW7gr5DSPOPEumpH6lkp4Furnq6FNQqpsjeaHibylod
+</X509Certificate></X509Data></KeyInfo></Signature>
+</EnvioDTE>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SetDTE>
+<DTE version="1.0" >
+  <!-- O MacIntel Firefox 141 central VERSION: v20190409 -->
+<Documento ID="MiPE78132837-15311">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>2</Folio>
+        <FchEmis>2025-08-01</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>2</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>78132837-5</RUTEmisor>
+        <RznSoc>FEXSIGN SPA</RznSoc>
+        <GiroEmis>servicios de tecnologia de la informacion, asesorias y sistemas cloud.</GiroEmis>
+        <CorreoEmisor>contacto@fexsign.com</CorreoEmisor>
+        <Acteco>631200</Acteco>
+        <CdgSIISucur>91864071</CdgSIISucur>
+        <DirOrigen>AV VITACURA 2939 LC 301 YOT</DirOrigen>
+        <CmnaOrigen>LAS CONDES</CmnaOrigen>
+        <CiudadOrigen>Santiago</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>77413831-5</RUTRecep>
+        <RznSocRecep>FIRMEX SPA</RznSocRecep>
+        <GiroRecep>OTRAS ACTIVIDADES DE TECNOLOGIA DE LA IN</GiroRecep>
+        <DirRecep>AV VITACURA 2939 LC 301 YOT   301</DirRecep>
+        <CmnaRecep>LAS CONDES</CmnaRecep>
+        <CiudadRecep>Santiago</CiudadRecep>
+      </Receptor>
+    <Transporte>
+  </Transporte>
+      <Totales>
+        <MntNeto>2000000</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>380000</IVA>
+        <MntTotal>2380000</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Portal Firmas Cloud</NmbItem>
+      <DscItem>Uso Portal Firmas Cloud Julio 2025</DscItem>
+      <QtyItem>1.00</QtyItem>
+      <UnmdItem>serv</UnmdItem>
+      <PrcItem>2000000.00</PrcItem>
+      <MontoItem>2000000</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>78132837-5</RE><TD>33</TD><F>2</F><FE>2025-08-01</FE><RR>77413831-5</RR><RSR>FIRMEX SPA</RSR><MNT>2380000</MNT><IT1>Portal Firmas Cloud</IT1><CAF version="1.0"><DA><RE>78132837-5</RE><RS>FEXSIGN SPA</RS><TD>33</TD><RNG><D>2</D><H>2</H></RNG><FA>2025-08-01</FA><RSAPK><M>zjAZ+kt4onAUv5o5IJQbrEVP5RWEC0UlQwBOe47nGdpgGq8jW4+iL2z7DBIcMgg/XGedlGnY/yMwxaRO2IG37Q==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">fah3yRGm9Ili9C/FdiUKi/MvBKOUHyioi0bRlKKTBZv9kmXxs533Qct2Dul6YWBgQ+TELGeSO5yGalaZhMOdhw==</FRMA></CAF><TSTED>2025-08-01T02:21:09</TSTED></DD><FRMT algoritmo="SHA1withRSA">DqatkbEKtsKlX2JjCdJ4FGgq3W9NQsMo46SCC9j6JRf+2S7f09Li7EVFljhqiS253m1O2sDJM6mXIM7K6qdhlQ==</FRMT></TED>
+    <TmstFirma>2025-08-01T02:21:09</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE78132837-15311">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>b0TNnmgz++22h8lDFpgbC/bskOM=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+NVfuUnuuWSbw1FKFJ0FZFOlhAxpo7DY9gy5Vqp9EJMb6Xt9b7srqygRoFhH37t1hVv4om0yvSiSg
+CWNmOEyN0UCOe3BHDVFHuc1N4oaFCR9rNAoAhBr/S2HeX+86arttpjZPDF5Dx6SG97puJMh6UO11
+g/BNxUciJL+DDtSoR/proeANRehBJm1mwr8LQaOtP2V/p57TzNMYJaFG2vSBd5adOYrBQ0++HYqS
+QzPd8D/Sgew8FxFb8sqp9ftzviZrs8mRofwP4M+4TKYVzgK1sju4VIWk48WiYlTRFEwVUMn5pb1Q
+kIn4LhIcK3XPfNtdqU2NB4P/JvDLGMV3DX0Mlw==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+ixurgo8t/OSNjaPYORz5mcVUGRyU/NtmFL3b3oJcd5nIcyZptln/qjiBXqN7znOgbMbPx7BOzjru
+jWFEcAtm5tlGqPQ4UrFZwvGs3dq5+61uAcz4ihr4wIioWkUJTZEUEzQMzA6Tk3TWjpAmjMnYUOSy
+FRXMCk7Tou2KlFIFZNdnoINk96O2eYIIIKgq9H8FSmsoL0sAym172ipkeVXsWI5yQMnn9bEeOtX6
+TJ79/PZrpygovN5fh5SmWfKQ9BAiLsq+SaDiI0FIcbjMt9mFXSIL6b3UFVVvfpBEWnvLy17AbCci
+TJEnIlG4umYqP/xVY+LdZselyBLkTIRn/0zY2Q==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGhzCCBW+gAwIBAgIDA068MA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDMgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0yMzA0MTQyMzMyMTlaFw0yNjA0MTQy
+MzMyMTlaMIGYMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMTQwMgYDVQQD
+EytBUlRVUk8gR0lPUkdJTyBSRU5BVE8gTUFOVElORVRUSSBNQU5USU5FVFRJMSQwIgYJKoZIhvcN
+AQkBFhVBTUFOVElORVRUSUBHTUFJTC5DT00xEzARBgNVBAUTCjE5Mzc3MTQ5LTEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCLG6uCjy385I2No9g5HPmZxVQZHJT822YUvdveglx3mchz
+Jmm2Wf+qOIFeo3vOc6Bsxs/HsE7OOu6NYURwC2bm2Uao9DhSsVnC8azd2rn7rW4BzPiKGvjAiKha
+RQlNkRQTNAzMDpOTdNaOkCaMydhQ5LIVFcwKTtOi7YqUUgVk12egg2T3o7Z5ggggqCr0fwVKaygv
+SwDKbXvaKmR5VexYjnJAyef1sR461fpMnv389munKCi83l+HlKZZ8pD0ECIuyr5JoOIjQUhxuMy3
+2YVdIgvpvdQVVW9+kERae8vLXsBsJyJMkSciUbi6Zio//FVj4t1mx6XIEuRMhGf/TNjZAgMBAAGj
+ggLIMIICxDAfBgNVHSMEGDAWgBSq/b3F6TdN9plNV47BcRr568MG4zAdBgNVHQ4EFgQUP5xu6Auj
+0M4nZtUfqo8h1tCgNi0wCwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDARBglghkgBhvhCAQEEBAMCBaAwgfoGA1UdIASB8jCB7zCB7AYIKwYBBAG1awIwgd8wMQYIKwYB
+BQUHAgEWJWh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL0NQUy1BY2VwdGFjb20wgakGCCsGAQUFBwIC
+MIGcMBYWD0FjZXB0YS5jb20gUy5BLjADAgECGoGBRWwgdGl0dWxhciBoYSBzaWRvIHZhbGlkYWRv
+IGVuIGZvcm1hIHByZXNlbmNpYWwsIHF1ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2VydGlmaWNhZG8g
+cGFyYSB1c28gdHJpYnV0YXJpbywgcGFnb3MsIGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGg
+GAYIKwYBBAHBAQKgDBYKOTY5MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsG
+AQQBwQECgQ9pbmZvQGFjZXB0YS5jb20wYAYDVR0RBFkwV6AYBggrBgEEAcEBAaAMFgoxOTM3NzE0
+OS0xoCQGCCsGAQUFBwgDoBgwFgwKMTkzNzcxNDktMQYIKwYBBAHBAQKBFUFNQU5USU5FVFRJQEdN
+QUlMLkNPTTBHBggrBgEFBQcBAQQ7MDkwNwYIKwYBBQUHMAGGK2h0dHBzOi8vYWNnNC5hY2VwdGEu
+Y29tL2FjZzQvb2NzcC9DbGFzZTMtRzQwPwYDVR0fBDgwNjA0oDKgMIYuaHR0cHM6Ly9hY2c0LmFj
+ZXB0YS5jb20vYWNnNC9jcmwvQ2xhc2UzLUc0LmNybDANBgkqhkiG9w0BAQsFAAOCAQEABr4wLzKA
+4W9/iPhNPxvNURwlDxUWHeMKbsRLf7Efrk2X1YlsKy7kM71bm4jx92pQ8yHV65l1izv74ytDhmlE
+a+VhB0KNsQFSCsTLbF9Ewzqc4FRzDJrIGR149mjz5v+/h7bl9FDiaki2/hIHFSrqQ+39AQF5BGFr
+SkGrrwyz0qLyWg6KtanZ2R3Gsei8z6TSb7cLv/CsCrbaBrW+yUW8EWbURHscXUQlOuHcQX9/HIiE
+DuGJ+H02iJ+wa/LvqVn+yttp6N/56JfPtwFRlgv/Njal29EYYswjFXFIXgdltmxZ2phZLLrUE2lM
+cA3596j+HfeJvr/FKufHCL5jHaA1hQ==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+</SetDTE>

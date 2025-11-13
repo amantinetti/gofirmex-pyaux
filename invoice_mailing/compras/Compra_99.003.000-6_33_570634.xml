@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+	<SetDTE ID="IDd329f93785714411b518aa7f6e69993e">
+		<Caratula version="1.0">
+			<RutEmisor>99003000-6</RutEmisor>
+			<RutEnvia>10823081-9</RutEnvia>
+			<RutReceptor>77413831-5</RutReceptor>
+			<FchResol>2025-11-05</FchResol>
+			<NroResol>0</NroResol>
+			<TmstFirmaEnv>2025-11-05T19:38:07</TmstFirmaEnv>			
+		<SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+	<DTE version="1.0">
+  <Documento ID="F570634T33">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>570634</Folio>
+        <FchEmis>2025-07-17</FchEmis>
+        <IndServicio>3</IndServicio>
+        <FmaPago>1</FmaPago>
+        <PeriodoDesde>2025-07-01</PeriodoDesde>
+        <PeriodoHasta>2025-07-31</PeriodoHasta>
+        <MedioPago>PE</MedioPago>
+        <FchVenc>2025-07-27</FchVenc>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>99003000-6</RUTEmisor>
+        <RznSoc>COMPAÑÍA DE SEGUROS DE VIDA CAMARA S.A.</RznSoc>
+        <GiroEmis>PLANES DE SEGUROS DE VIDA</GiroEmis>
+        <Acteco>651100</Acteco>
+        <Sucursal>AV. APOQUINDO 6750 P</Sucursal>
+        <CdgSIISucur>5163355</CdgSIISucur>
+        <DirOrigen>AV. APOQUINDO 6750 PISO 10</DirOrigen>
+        <CmnaOrigen>LAS CONDES</CmnaOrigen>
+        <CiudadOrigen>SANTIAGO</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>77413831-5</RUTRecep>
+        <RznSocRecep>FIRMEX SPA</RznSocRecep>
+        <GiroRecep>Servicios Profesionales Informaticos</GiroRecep>
+        <DirRecep>Av. Vitacura 2939 OF 301</DirRecep>
+        <CmnaRecep>LAS CONDES</CmnaRecep>
+      </Receptor>
+      <RUTSolicita>0-0</RUTSolicita>
+      <Transporte />
+      <Totales>
+        <MntNeto>233172</MntNeto>
+        <MntExe>0</MntExe>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>44303</IVA>
+        <CredEC>0</CredEC>
+        <MntTotal>277475</MntTotal>
+        <MontoNF>0</MontoNF>
+        <MontoPeriodo>0</MontoPeriodo>
+        <SaldoAnterior>0</SaldoAnterior>
+        <VlrPagar>0</VlrPagar>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Poliza-18844</NmbItem>
+      <DscItem>Salud</DscItem>
+      <UnmdRef>UNID</UnmdRef>
+      <QtyItem>1.000000</QtyItem>
+      <UnmdItem>UNID</UnmdItem>
+      <PrcItem>233172.000000</PrcItem>
+      <MontoItem>233172</MontoItem>
+    </Detalle>
+    <TED version="1.0">
+      <DD>
+        <RE>99003000-6</RE>
+        <TD>33</TD>
+        <F>570634</F>
+        <FE>2025-07-17</FE>
+        <RR>77413831-5</RR>
+        <RSR>FIRMEX SPA</RSR>
+        <MNT>277475</MNT>
+        <IT1>Poliza-18844</IT1>
+        <CAF version="1.0">
+          <DA>
+            <RE>99003000-6</RE>
+            <RS>COMPANIA DE SEGUROS DE VIDA CAMARA S.A.</RS>
+            <TD>33</TD>
+            <RNG>
+              <D>568053</D>
+              <H>578052</H>
+            </RNG>
+            <FA>2025-06-24</FA>
+            <RSAPK>
+              <M>sYtjV/d+g9mADgwow5EgMKpkSggC3LvRmSbivuINUhbgUNkXBTE7ZB27nKjmpbVCil2B4iqF+U5oLDX7QWrjXw==</M>
+              <E>Aw==</E>
+            </RSAPK>
+            <IDK>300</IDK>
+          </DA>
+          <FRMA algoritmo="SHA1withRSA">GFZ7uWKNzYjezpmLUNG7D/llBRjb/YGszGcx0qTaOpVZn6huFYkY8ASqAPX9oTPG2bCoFoifcSDyR31i7cxflQ==</FRMA>
+        </CAF>
+        <TSTED>2025-07-17T11:32:42</TSTED>
+      </DD>
+      <FRMT algoritmo="SHA1withRSA">mFZmKNsHuITR9J0KNH7uas+JuwyhtRxtF7y58R0DxBVZknlgIY43+o6+MBlKVxmpwnjXi8QgXcro6QEvgvjJOA==</FRMT>
+    </TED>
+    <TmstFirma>2025-07-17T11:32:42</TmstFirma>
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F570634T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3+vgiBACC1PJ4tZn8Jmu6agrVS4=</DigestValue></Reference></SignedInfo><SignatureValue>DoLbcd8G85TvH/mjJ4eLU5LxiV1WFflyGxy5g1X3xQcO2e9NKw1L94SVpymyrEzskCyDLDo96lvN
+TkSum0+JzLxf9Om1IntIWjCtEyJ/4SshniBdMmI8zeTkKh0rJj0S90g9+T2nRxVY+J8WREFt1FNf
+M7aYED+KK1BiPULtSsrND8Gf2yf6NgdlmeLMPPzqT4hot4IVyRWJ8lAkY98u/jXtOM+d653otKfv
+exxw+/MT7/N8Gekf6BYeqcaez2cxZI4VxKesg1WFUG+UF1MDOeAtzB6tTSGppQSMbMgURe4wsbs5
+D3D0HhA8YL3LAfFsBGj9m8p5B0IAd0VoVj6Qow==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qxlhYJvCMLx+SZHr2yf3N6ekN9aPF/g3MosTPz/1U7NinHRtskGGX3Th6O3144VeRFKXjFAaEqSH
+XJ+4R92upAtshcZNpWIaibDyOR3V2X4DAVQDtS4EFJoI5UT7hXDNKBswlUnAMN43mxpu8A95Yv5M
+rE53gTlHJ2RAliw57HIRv2tpskl3E7n9qWJrTHLLHWCELMEORsHhYG5hgf0qM0Tn0Z6HoEgR9CCZ
+0ox/esD7gIES1vzBc3hU6BKRsz2lzRnhRfB+Ht9gRhIYpO+CJJXwM3VbrzMB+w3JO7vuQVtaQDci
+jKZ6KX2+suQ+roEtwnGmkHldXUuVYVD/GHco+Q==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIH0zCCBbugAwIBAgIKHJoAGAABAA5m0zANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTI1MDUyNzE0MjMzMFoXDTI2MDUyNzE0MjMzMFowgc8xCzAJBgNVBAYTAkNMMSIw
+IAYDVQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFHTzEvMC0G
+A1UECgwmQ29tcGHDscOtYSBkZSBTZWd1cm9zIFZpZGEgQ2FtYXJhIFMuQS4xCjAIBgNVBAsMASox
+JDAiBgNVBAMMG01hcmxpZXMgTMOzcGV6IERlIGxhIGZ1ZW50ZTEmMCQGCSqGSIb3DQEJARYXbWFy
+bGllcy5sb3BlekBnbWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCrGWFg
+m8IwvH5JkevbJ/c3p6Q31o8X+DcyixM/P/VTs2KcdG2yQYZfdOHo7fXjhV5EUpeMUBoSpIdcn7hH
+3a6kC2yFxk2lYhqJsPI5HdXZfgMBVAO1LgQUmgjlRPuFcM0oGzCVScAw3jebGm7wD3li/kysTneB
+OUcnZECWLDnschG/a2mySXcTuf2pYmtMcssdYIQswQ5GweFgbmGB/SozROfRnoegSBH0IJnSjH96
+wPuAgRLW/MFzeFToEpGzPaXNGeFF8H4e32BGEhik74IklfAzdVuvMwH7Dck7u+5BW1pANyKMpnop
+fb6y5D6ugS3CcaaQeV1dS5VhUP8Ydyj5AgMBAAGjggK9MIICuTCCAV8GA1UdIASCAVYwggFSMIIB
+TgYIKwYBBAHDUgUwggFAMD0GCCsGAQUFBwIBFjFodHRwczovL3d3dy5lLWNlcnRjaGlsZS5jbC9w
+b2xpdGljYXMteS1wcmFjdGljYXMvMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8A
+bgBkAGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAAcgBl
+AHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABhAHIAYQAgAGQA
+YQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABp
+AGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0O
+BBYEFDF25Bfx+WzzmuKFN6EyT94VlmBwMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQB
+wQEBoAwWCjEyMzc3OTE3LTcwHwYDVR0jBBgwFoAUdNYhs/Ra6C18u1kGY0PvabQ6kwQwQAYDVR0f
+BDkwNzA1oDOgMYYvaHR0cDovL2NybC5lY2VydGNoaWxlLmNsL0UtQ0VSVENISUxFQ0FGRVMwMi5j
+cmwwPQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcGZlcy5lY2VydGNoaWxl
+LmNsL29jc3AwPAYJKwYBBAGCNxUHBC8wLQYlKwYBBAGCNxUIgd3STZfUOoaJnQaHiM5vg6/MYEWF
+pL44gp6fbQIBZAIBAjAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZI
+hvcNAQELBQADggIBAHuXCIJiqKugSjXB2ZjJF7kEua7CmpWULH7NEpLxXHcfXqgZN50bR/0bWRCd
+aVWbUDHhfLWJ1BFolPIGkH0R58RIbWZrIiCkCOPfx/3kq5wBwvaKshN2iWEtJzzBc+KGTMn/UraZ
+/NewYDDUsrjeGAh1m5B062FaagfB2GKPFptk9pJmp0lCRab0sw+9YnV5vkl/aq09nrlRu6WDO3KZ
+fdPOy+sd1WKaBac/5jS3EJE4GrlabSnrTcKhy/p7wjjTBN1xzP6qR742d3EhbED6l1bA2t18oxX7
+7rFJ8Nmm170NI371uRwli6aJ3NMdfqOSFOX3RSOw7WhL8n6Gg+wbVLVZic/rv/jjNsJMo9WwU9xB
+T9sy8x0kTDS4IskEhj835WSI6SGEvra3aLPoHCk3IuT1/eEENfLP4h3NF8wk0dhhEuO9u2VsVE3o
+Z8Kqt/UWb0xNMR+UNgEcb5WVX+n1TfNPVElMXUbB70B6jDYKRwEafNadabPrSfK8kisO9YqjVjIy
+eyUPCfENcyLk+7IoQ9EIcSFRvCG1DFECRpkKVTsfRsA73WIslQUprcrcNFAXH6ddHexgLRV3sfk/
+Bjra9oTjap+araRN9ePHu94s8IK5ee15EsXljfKqhJphHtGDrSxP7wqyJukliqJSrEA1dx8q/s8h
+QgeTcVwUqnx40gU7</X509Certificate></X509Data></KeyInfo></Signature></DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#IDd329f93785714411b518aa7f6e69993e"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>cxsLad9XN1HpDWecz24oDghroJw=</DigestValue></Reference></SignedInfo><SignatureValue>
+cssD17Zzlu+TEcNXMfFTtB3gjJXYsGw5+FUTg2oZUcERuGm4eb1pBvJvf+AIOn9W
+8F7PlP46YNHDyJXs3JycYChrPxzeHulZauFG5ISET4L8Vo8ur90KV3czry14ErGw
+8vuqJv7XKZ2pKkdhqej/XaqMiaZnQJ/7pj0QMmGWZfQ=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+sh/HGLFgj7aNerEbhbaEZBtbXZxuKj2tMrgXHeGblGEJKmSvi2vCNLE0/sgfbbU0
+3W8E6Z5dNTmpHIGwiIZ0inJXFNz8XB7JnAjPaRIwqNQkOT73CG5JWSCtXpCv4Rqn
+piLuRxhS43lRE7TWgpHIfKsCwqFhQEErQorWLy2mywc=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGRTCCBS2gAwIBAgIKR7JBXAAAAAyA5TANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xODExMjYxODA4MzlaFw0yMTExMjUxODA4MzlaMIHG
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMRwwGgYDVQQKExNERUZPTlRBTkEgQ0hJTEUg
+U1BBMRcwFQYDVQQLEw5BRE1JTklTVFJBQ0lPTjEgMB4GA1UEAwwXRGllZ28gIEdv
+bnrDoWxleiBHYW1ib2ExJjAkBgkqhkiG9w0BCQEWF2Rnb256YWxlekBkZWZvbnRh
+bmEuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyH8cYsWCPto16sRuF
+toRkG1tdnG4qPa0yuBcd4ZuUYQkqZK+La8I0sTT+yB9ttTTdbwTpnl01OakcgbCI
+hnSKclcU3PxcHsmcCM9pEjCo1CQ5PvcIbklZIK1ekK/hGqemIu5HGFLjeVETtNaC
+kch8qwLCoWFAQStCitYvLabLBwIDAQABo4ICqTCCAqUwggFPBgNVHSAEggFGMIIB
+QjCCAT4GCCsGAQQBw1IFMIIBMDAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNl
+cnRjaGlsZS5jbC9DUFMuaHRtMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUA
+cwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAA
+ZQBzACAAdQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4A
+cwBhAGIAbABlACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwA
+IABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMA
+bgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFOwl
+dFE/aw+9wgP4IElpaoeofERBMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsG
+AQQBwQEBoAwWCjEwODIzMDgxLTkwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOz
+QykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5j
+bC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcw
+AYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQw
+MC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYGa5xWGr+AVAgFkAgEE
+MCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0B
+AQUFAAOCAQEANKI7KbcjS+agDnHW1iu9xaz0EsB2EBVn1qCbZYwezSukrsyzr42j
+0AMCWN0bNAxLzSkjEWA5P3+SwREg+qgucbO4mhNiB73dOQ6ULaVQ4wajtph7yule
+h4RlRf5WGxi5OHrl1MF3Fgp51JB7HgEZByUfaMCvGJ3BQQWR2qLZ90mYJpVgZhxw
+VuWMzB4MiAZhu5I0LTDGi1StZn/0fa2/LvkAT89Gwp40h4zV+DxbkQRh0gePjeAx
+QImVHOe/egB4OogRPu0h7YoJAz7Yc8d88rTUN90KZichrJHvflQSWthoZwt28K1p
+dp8iKqVfCKNgxwRAcVJ/iVq/2NRHX2Id0A==
+</X509Certificate></X509Data></KeyInfo></Signature>
+</EnvioDTE>

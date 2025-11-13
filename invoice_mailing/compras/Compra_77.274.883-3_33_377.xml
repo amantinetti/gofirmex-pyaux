@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+	<SetDTE ID="IDc50c8401b6964ebdb88c22ad0d49982f">
+		<Caratula version="1.0">
+			<RutEmisor>77274883-3</RutEmisor>
+			<RutEnvia>10823081-9</RutEnvia>
+			<RutReceptor>77413831-5</RutReceptor>
+			<FchResol>2025-11-05</FchResol>
+			<NroResol>0</NroResol>
+			<TmstFirmaEnv>2025-11-05T19:39:34</TmstFirmaEnv>			
+		<SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+	<DTE version="1.0">
+<Documento ID="F377T33">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>377</Folio>
+<FchEmis>2025-06-25</FchEmis>
+<MntBruto>1</MntBruto>
+<FmaPago>2</FmaPago>
+<FchVenc>2025-06-25</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>77274883-3</RUTEmisor>
+<RznSoc>BITOTEC SPA</RznSoc>
+<GiroEmis>IMPORTADORA Y COM DE TECNOLOGIA, COMPUTACION Y CONSULT EN INGENIERIA</GiroEmis>
+<Acteco>474100</Acteco>
+<CdgSIISucur>1</CdgSIISucur>
+<DirOrigen>MONEDA 812, OF 601</DirOrigen>
+<CmnaOrigen>Santiago</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+</Emisor>
+<Receptor>
+<RUTRecep>77413831-5</RUTRecep>
+<RznSocRecep>Firmex SpA</RznSocRecep>
+<GiroRecep>Servicios Profesionales Informaticos</GiroRecep>
+<DirRecep>Hernan Cortes 2829 DP 1301</DirRecep>
+<CmnaRecep>Santiago</CmnaRecep>
+<CiudadRecep>Santiago</CiudadRecep>
+</Receptor>
+<Totales>
+<MntNeto>1936608</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>367956</IVA>
+<MntTotal>2304564</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>0101024A03R</VlrCodigo>
+</CdgItem>
+<NmbItem>MacBook Pro M1 PRO 14" | 16GB | 1TB | Gris Espacial (Reacondicionado)</NmbItem>
+<QtyItem>1.0</QtyItem>
+<PrcItem>1299990.0</PrcItem>
+<MontoItem>1299990</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>0101024A02R</VlrCodigo>
+</CdgItem>
+<NmbItem>MacBook Pro M1 13" | 16GB | 1 TB | Gris Espacial (Reacondicionado)</NmbItem>
+<QtyItem>1.0</QtyItem>
+<PrcItem>999990.0</PrcItem>
+<MontoItem>999990</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>3</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>DES01</VlrCodigo>
+</CdgItem>
+<NmbItem>DESPACHO</NmbItem>
+<QtyItem>1.0</QtyItem>
+<PrcItem>4584.0</PrcItem>
+<MontoItem>4584</MontoItem>
+</Detalle>
+<TED version="1.0">
+<DD>
+<RE>77274883-3</RE>
+<TD>33</TD>
+<F>377</F>
+<FE>2025-06-25</FE>
+<RR>77413831-5</RR>
+<RSR>Firmex SpA</RSR>
+<MNT>2304564</MNT>
+<IT1>DESPACHO</IT1>
+<CAF version="1.0">
+<DA>
+<RE>77274883-3</RE>
+<RS>BITOTEC SPA</RS>
+<TD>33</TD>
+<RNG><D>372</D><H>401</H></RNG>
+<FA>2025-05-14</FA>
+<RSAPK><M>48bcXXIDjJbDedLNNPXu/mGZGbvnL1NKxKXdWo5oxgtzdw87VLT1gA6Zx7DP238xkDHlQgJwhWS3J+D/3TyEqQ==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">NVQtC2q6XOcb7NXiqS3a1zEev+KHnS3JyQIRYJkcBaJiwiSQzTwFmTnWBCUhAfXrTuVmL7wl/6KQIsV1tU497g==</FRMA>
+</CAF>
+<TSTED>2025-06-25T22:15:26</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">4rVWw9jUJ/Gz9zOp1e3aV3+BlhGYyBtxSiNNbfZiCkTqXYsYnqiZydEVZjatzASeAVQNSRcQhjYlgl3jS57R4A==</FRMT>
+</TED>
+<TmstFirma>2025-06-25T22:15:26</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+<Reference URI="#F377T33">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<DigestValue>MiLzJk4MDxvQWOKqvzxfjLH9Yjw=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>krhEnAGyt6ovT9Jwx9gBKjIYJzNv2L2vIGsRJTSuXrB6ZujrMtxtpbWDcC4jaHoz
+119V27o6Yx1cYYWy9VS9WeErQLCYjK2JnRmtjF4ubH6YI87Vqi8l93xwRoH54vEe
+zF05jUlVGP0M39ZNzzPqUx/C7FB6CPhT03rpg4ZVwpg9zkgeU1R0u+/wAWurxTHE
+RfdoObGvQfHeFXED2CzGFxUi46emEU6js2LJU/eocmfPbvjGfbqwV/dMqqsDE3Wo
+ArOeQ2HIsVD5+E5RKAjOBzG0zMJrBJ/m96kLo32XrDiqboj/30v4OXdR3EbgENXQ
+OTu+rU/LQW81PmG8e2xCkQ==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+vEboX7rCdIOhjSix9SG6Vsq9ePvQlga5C7wrVlxJ7deygA81nc5XNyxDBarzbMJT
+8lmN06ooUzRkt9Pil/ZuGdFVR3QqQVLTlygu8iL0os9/XPuXmPYdhoowFgWEsesP
+6+27Dkmi4BLUagVKetwMrJUutO87iH9ZGt+OWdKqtqzh+VVKH/fsDI/ZVPOZMlxw
+MUx0I0oenGTxLmOp3SyzZhYzm5Xt/Ek/fnqb42GV6AGy54CZLKJmpVLFRskdo/0Z
+fZ5EmDblCuEKCDAHULZmJhTT1zX4qNZmtag1RtWf9AYMARAR9S0cVL/rzzNVTAAF
+yh/d1BMWkBYZyl/1dCe5QQ==
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>MIIGQTCCBSmgAwIBAgIIByGbGgIB2ucwDQYJKoZIhvcNAQELBQAwga8xCzAJBgNV
+BAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5BLjE5MDcGA1UECwwwVGVybXMgb2Yg
+dXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJkb3RlcmNlcm9zMSswKQYDVQQD
+DCJFLVNpZ24gQ2xhc3MgMiBGaXJtYSBUcmlidXRhcmlhIENBMSIwIAYJKoZIhvcN
+AQkBFhNlLXNpZ25AZXNpZ24tbGEuY29tMB4XDTI0MDExOTE2MTE0OVoXDTI3MDEx
+ODE2MTEwMFowgaAxCzAJBgNVBAYTAkNMMRQwEgYDVQQKDAtFLVNpZ24gUy5BLjE5
+MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1sYS5jb20vYWN1ZXJk
+b3RlcmNlcm9zMR0wGwYDVQQDDBRBTkRSRVMgQklMQkFPIFpFUEVEQTEhMB8GCSqG
+SIb3DQEJARYSY29udGFjdG9AdGVjdGVjLmNsMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAvEboX7rCdIOhjSix9SG6Vsq9ePvQlga5C7wrVlxJ7deygA81
+nc5XNyxDBarzbMJT8lmN06ooUzRkt9Pil/ZuGdFVR3QqQVLTlygu8iL0os9/XPuX
+mPYdhoowFgWEsesP6+27Dkmi4BLUagVKetwMrJUutO87iH9ZGt+OWdKqtqzh+VVK
+H/fsDI/ZVPOZMlxwMUx0I0oenGTxLmOp3SyzZhYzm5Xt/Ek/fnqb42GV6AGy54CZ
+LKJmpVLFRskdo/0ZfZ5EmDblCuEKCDAHULZmJhTT1zX4qNZmtag1RtWf9AYMARAR
+9S0cVL/rzzNVTAAFyh/d1BMWkBYZyl/1dCe5QQIDAQABo4ICbDCCAmgwgYAGCCsG
+AQUFBwEBBHQwcjBKBggrBgEFBQcwAoY+aHR0cDovL3BraS5lc2lnbi1sYS5jb20v
+Y2FjZXJ0cy9wa2lDbGFzczJGaXJtYVRyaWJ1dGFyaWFDQS5jcnQwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmVzaWduLWxhLmNvbTAdBgNVHQ4EFgQUQOaAMM7KCaFH
+5br3zTbixtor/DAwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBT5SvrCx27C5xKc
+V0U1hBptKOlKpDCByAYDVR0gBIHAMIG9MIG6BgwrBgEEAYLKagEEAQIwgakwfgYI
+KwYBBQUHAgIwch5wAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAHAAYQByAGEAIAB1
+AHMAbwAgAFQAcgBpAGIAdQB0AGEAcgBpAG8ALAAgAEMAbwBtAGUAcgBjAGkAbwAs
+ACAAUABhAGcAbwBzACAAeQAgAE8AdAByAG8AczAnBggrBgEFBQcCARYbaHR0cDov
+L3d3dy5lc2lnbi1sYS5jb20vY3BzMFEGA1UdHwRKMEgwRqBEoEKGQGh0dHA6Ly9w
+a2kuZXNpZ24tbGEuY29tL2NybC9wa2lDbGFzczJGaXJtYVRyaWJ1dGFyaWEvZW5k
+dXNlci5jcmwwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggr
+BgEFBQcDBDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjE1Mzc4NzMyLTgwIwYD
+VR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5OTU1MTc0MC1LMA0GCSqGSIb3DQEBCwUA
+A4IBAQALAAJ0E2IdGLDIGAo+JNUEUi10S6fRnkHiMBKlOIu9ySrf1yE/LojPO7nl
+EteCkkIZr/MDkLcdUX6qMhgtZoniBbUveNnUATVcYRnnxz8ugXulfNtXu0lgkEf1
+obKCI+vxc12vTJ/7aXqZn8z8spzqScfPVjstnauZVMhJIjIGGel+hvICDTTptM7j
+Ue51SMruGsEtr/EF5EfwFSYXBAd5yH9xXx335SAxdV+LZQ0fVrfo+dtMsZFZVhdt
+8YCZ1csT1PJReP15qjXNDJjYV+AhcM2724D3Nmbf8Cx1ggFIdyJf0p75cZqqUYeB
+tce0iYfc4ANFO+3LYWt/mlODVamk</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#IDc50c8401b6964ebdb88c22ad0d49982f"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>a3PVyycd/fGENDzl5M23aWQeVrw=</DigestValue></Reference></SignedInfo><SignatureValue>
+agTlucoTPvaAlI2lyDuDowOZPrhfPt3cbUsfX7wNtprph4YNIKeZPKHr4HCGjaK1
+c7476dZMm778BFKkzg86eQiJQonDrBZXDB3cbYLR5Q9YR5V041EoEf+IvqFo+mdp
+UmSkw3HHIuuXRJT3Jk9m6r40/5CYqDU7CEb9Tf+dn4w=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+sh/HGLFgj7aNerEbhbaEZBtbXZxuKj2tMrgXHeGblGEJKmSvi2vCNLE0/sgfbbU0
+3W8E6Z5dNTmpHIGwiIZ0inJXFNz8XB7JnAjPaRIwqNQkOT73CG5JWSCtXpCv4Rqn
+piLuRxhS43lRE7TWgpHIfKsCwqFhQEErQorWLy2mywc=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGRTCCBS2gAwIBAgIKR7JBXAAAAAyA5TANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xODExMjYxODA4MzlaFw0yMTExMjUxODA4MzlaMIHG
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMRwwGgYDVQQKExNERUZPTlRBTkEgQ0hJTEUg
+U1BBMRcwFQYDVQQLEw5BRE1JTklTVFJBQ0lPTjEgMB4GA1UEAwwXRGllZ28gIEdv
+bnrDoWxleiBHYW1ib2ExJjAkBgkqhkiG9w0BCQEWF2Rnb256YWxlekBkZWZvbnRh
+bmEuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyH8cYsWCPto16sRuF
+toRkG1tdnG4qPa0yuBcd4ZuUYQkqZK+La8I0sTT+yB9ttTTdbwTpnl01OakcgbCI
+hnSKclcU3PxcHsmcCM9pEjCo1CQ5PvcIbklZIK1ekK/hGqemIu5HGFLjeVETtNaC
+kch8qwLCoWFAQStCitYvLabLBwIDAQABo4ICqTCCAqUwggFPBgNVHSAEggFGMIIB
+QjCCAT4GCCsGAQQBw1IFMIIBMDAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNl
+cnRjaGlsZS5jbC9DUFMuaHRtMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUA
+cwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAA
+ZQBzACAAdQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4A
+cwBhAGIAbABlACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwA
+IABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMA
+bgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFOwl
+dFE/aw+9wgP4IElpaoeofERBMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsG
+AQQBwQEBoAwWCjEwODIzMDgxLTkwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOz
+QykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5j
+bC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcw
+AYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQw
+MC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYGa5xWGr+AVAgFkAgEE
+MCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0B
+AQUFAAOCAQEANKI7KbcjS+agDnHW1iu9xaz0EsB2EBVn1qCbZYwezSukrsyzr42j
+0AMCWN0bNAxLzSkjEWA5P3+SwREg+qgucbO4mhNiB73dOQ6ULaVQ4wajtph7yule
+h4RlRf5WGxi5OHrl1MF3Fgp51JB7HgEZByUfaMCvGJ3BQQWR2qLZ90mYJpVgZhxw
+VuWMzB4MiAZhu5I0LTDGi1StZn/0fa2/LvkAT89Gwp40h4zV+DxbkQRh0gePjeAx
+QImVHOe/egB4OogRPu0h7YoJAz7Yc8d88rTUN90KZichrJHvflQSWthoZwt28K1p
+dp8iKqVfCKNgxwRAcVJ/iVq/2NRHX2Id0A==
+</X509Certificate></X509Data></KeyInfo></Signature>
+</EnvioDTE>

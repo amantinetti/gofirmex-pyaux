@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+	<SetDTE ID="IDaacee680dd8448eb94b95990d2b453ef">
+		<Caratula version="1.0">
+			<RutEmisor>76124863-4</RutEmisor>
+			<RutEnvia>23698293-9</RutEnvia>
+			<RutReceptor>77413831-5</RutReceptor>
+			<FchResol>2014-08-22</FchResol>
+			<NroResol>80</NroResol>
+			<TmstFirmaEnv>2025-09-08T13:19:06</TmstFirmaEnv>			
+		<SubTotDTE><TpoDTE>33</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+	<DTE version="1.0">
+			<Documento ID="T33F198070">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>33</TipoDTE>
+						<Folio>198070</Folio>
+						<FchEmis>2025-03-01</FchEmis>
+						<TipoDespacho>1</TipoDespacho>
+						<IndServicio>3</IndServicio>
+						<TpoTranVenta>1</TpoTranVenta>
+						<FmaPago>1</FmaPago>
+
+						<FchVenc>2025-03-01</FchVenc>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>76124863-4</RUTEmisor>
+						<RznSoc>COMERCIALIZADORA Y DISTRIBUIDORA DMASLED SPA</RznSoc>
+						<GiroEmis>COMERC IMPORT DE EQUIPOS ELECTR. E ILUMINACION</GiroEmis>
+						<CorreoEmisor>info@dled.cl</CorreoEmisor>
+						<Acteco>464902</Acteco>
+						<Sucursal>Mercado Libre</Sucursal>
+						<DirOrigen>Mersan</DirOrigen>
+						<CmnaOrigen>13</CmnaOrigen>
+						<CiudadOrigen>SANTIAGO</CiudadOrigen>
+						<CdgVendedor>VENDEDOR</CdgVendedor>
+					</Emisor>
+					<Receptor>
+						<RUTRecep>77413831-5</RUTRecep>
+						<CdgIntRecep>77.413.831-5</CdgIntRecep>
+						<RznSocRecep>COMERCIAL WAVEDEV SPA</RznSocRecep>
+						<GiroRecep>Particular</GiroRecep>
+						<DirRecep>2829</DirRecep>
+						<CmnaRecep>ÑUñOA</CmnaRecep>
+						<CiudadRecep>ÑUñOA</CiudadRecep>
+						<DirPostal>2829</DirPostal>
+						<CmnaPostal>Ñuñoa</CmnaPostal>
+						<CiudadPostal>Ñuñoa</CiudadPostal>
+					</Receptor>
+
+					<Totales>
+						<MntNeto>8384</MntNeto>
+						<TasaIVA>19.00</TasaIVA>
+						<IVA>1593</IVA>
+						<MntTotal>9977</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>apl-04cw-b2</VlrCodigo>
+					</CdgItem>
+					<NmbItem>Panel LED Redondo Blanco 30cm 24W 1920lm Blanco Frío, Sobrepuesto</NmbItem>
+					<QtyItem>1.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>5442.857100</PrcItem>
+					<MontoItem>5443</MontoItem>
+				</Detalle>
+				<Detalle>
+					<NroLinDet>2</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>Transporte</VlrCodigo>
+					</CdgItem>
+					<NmbItem>transporte</NmbItem>
+					<QtyItem>1.000000</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>2941.180000</PrcItem>
+					<MontoItem>2941</MontoItem>
+				</Detalle>
+				<TED version="1.0"><DD><RE>76124863-4</RE><TD>33</TD><F>198070</F><FE>2025-03-01</FE><RR>77413831-5</RR><RSR>COMERCIAL WAVEDEV SPA</RSR><MNT>9977</MNT><IT1>Panel LED Redondo Blanco 30cm 24W 1920l</IT1><CAF version="1.0">
+<DA>
+<RE>76124863-4</RE>
+<RS>COMERCIALIZADORA Y DISTRIBUIDORA DEMASLE</RS>
+<TD>33</TD>
+<RNG><D>191812</D><H>201811</H></RNG>
+<FA>2025-01-14</FA>
+<RSAPK><M>8LZ0dyezAWNOPksEbvskYG36vQukWQ/VM90uUvHIsuCoQf7m7UzCMXNBO24O8xLsEq5kEkoDnIULktU+YnUqAw==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">ls5CqBzT1q28hy8e+1SVQyaAHN1W+gz9H+HEVPV3S4Q0DOBS8CP5RnzEK9mizLFlaCag4cZm/y+Io8938dpwug==</FRMA>
+</CAF><TSTED>2025-03-01T09:04:44</TSTED></DD><FRMT algoritmo="SHA1withRSA">K2nahSEqHbFa+DSUfPiO7J1WaGm70+MngVBejEEfYSePdVpIIzOdb3Af62g9Uj6mPklrOn4kSo9FOgGqh3uIhg==</FRMT></TED>
+				<TmstFirma>2025-03-01T09:04:44</TmstFirma>
+			</Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#T33F198070"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3/uOw4t4AaWssMlyExpN6XE2zIM=</DigestValue></Reference></SignedInfo><SignatureValue>
+WlolvLWY5a0wie4LgyoKPAWkQqjZdtVBwMC+AxRHzHZq0XQvqJ2ZPThsGqeuwhjJ
+zo4dKPFUVJqAQP5tAgkksZrlW5cznp/6NhG8mj+MYk95CS09bouvSY4LhrBcbmrk
+e71gtje2hD1cTBRmxVOucFfvcfckO0lA6f7GfWTfs5bvlYY44KhqWw124NXKIsV6
+BjT64C9yP/yPayX5BYv5Apep/FAt8jtQfZj33yZYo2qxSEmt0FlD8n/WTCVM5wMI
+t3ttmzmLuAm06hsOQ3Cm/7e4/f++2LTrxOC11oPGi/Bj4RQPjuBJauy+NQGDsb4s
+i80z00pC8WNyL+bK15K6UQ==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+xmWVEkFboJdjQ+GQs4+zVKE3Nj0nYm8F+o3X6TB4MNRf/yEPcYBXfKTNXRF+s5Sz
+3zOBQsRoJYu9vDbBbLl2V2DKvVye/olu7MZUcEknopMR6u0u9LnAxH9GSJYZ3jem
+rT6o6AwZ19D47IJcSnq+gUXKKAi7XinloIeJpjGKajqo3To/k+JySVo4plNnc5O+
+bhoPtjRTaQroE4cC6uCXcfIgAlqdA98Lu3knHJbNp2EJ8dnYWet8N8p67ytnfGqE
++kd2vY9VJE34TsfUZ9wF7oId8/LsxW3ywSp0YlnlI5GxRR330iUXS2RBNRXCJl7D
+LeuB/HZXP05M+63QU/uMpw==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIHzTCCBbWgAwIBAgIKHsrLfgABAAM5wDANBgkqhkiG9w0BAQsFADCBvzELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQDExVFLUNFUlRDSElMRSBDQSBGRVMg
+MDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNoaWxlLmNsMB4XDTIy
+MTAxNDE2NTg0M1oXDTI1MTAxMzE2NTg0M1owgckxCzAJBgNVBAYTAkNMMSIwIAYD
+VQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFH
+TzE2MDQGA1UEChMtQ09NRVJDSUFMSVpBRE9SQSBZIERJU1RSSUJVSURPUkEgREVN
+QVNMRUQgU1BBMQowCAYDVQQLDAEqMRowGAYDVQQDExFEQU5JRUwgS1VaTklFQ0tJ
+IDEjMCEGCSqGSIb3DQEJARYUQ09OVEFCSUxJREFEQERMRUQuQ0wwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGZZUSQVugl2ND4ZCzj7NUoTc2PSdibwX6
+jdfpMHgw1F//IQ9xgFd8pM1dEX6zlLPfM4FCxGgli728NsFsuXZXYMq9XJ7+iW7s
+xlRwSSeikxHq7S70ucDEf0ZIlhneN6atPqjoDBnX0PjsglxKer6BRcooCLteKeWg
+h4mmMYpqOqjdOj+T4nJJWjimU2dzk75uGg+2NFNpCugThwLq4Jdx8iACWp0D3wu7
+eSccls2nYQnx2dhZ63w3ynrvK2d8aoT6R3a9j1UkTfhOx9Rn3AXugh3z8uzFbfLB
+KnRiWeUjkbFFHffSJRdLZEE1FcImXsMt64H8dlc/Tkz7rdBT+4ynAgMBAAGjggK9
+MIICuTCCAV8GA1UdIASCAVYwggFSMIIBTgYIKwYBBAHDUgUwggFAMD0GCCsGAQUF
+BwIBFjFodHRwczovL3d3dy5lLWNlcnRjaGlsZS5jbC9wb2xpdGljYXMteS1wcmFj
+dGljYXMvMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUA
+cgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAA
+cgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAA
+cABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUA
+cwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMA
+dABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFO3vkh0opZPA8tgbmBbY
+PYP2XuqSMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjIz
+Njk4MjkzLTkwHwYDVR0jBBgwFoAUdNYhs/Ra6C18u1kGY0PvabQ6kwQwQAYDVR0f
+BDkwNzA1oDOgMYYvaHR0cDovL2NybC5lY2VydGNoaWxlLmNsL0UtQ0VSVENISUxF
+Q0FGRVMwMi5jcmwwPQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8v
+b2NzcGZlcy5lY2VydGNoaWxlLmNsL29jc3AwPAYJKwYBBAGCNxUHBC8wLQYlKwYB
+BAGCNxUIgd3STZfUOoaJnQaHiM5vg6/MYEWG0uwIhsfKfQIBZAIBBzAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQELBQADggIB
+AFRyVwBJcelInZd4Xfo9QM5jEgZK3WxwH4o/DdmcTI+xKLANaw3TQ+JVosc4kdUe
+gtfvY3cAmROR32lPyaaPnf2KHohaGQGV64C2gWxY1BtNppBDtnK2Ew3ljiGQB7gb
+QrS/u6iTGBHVZVE/siU3DOqyuswXgMD7HRr0xiBCK6tTREgZEI17dkEDbJqopSC3
+QXDNoVp3BQCpPbfckPLpORN3hWhqALWEPqYZjr4rYC4e1Zrq0LGbUkA6T/urMtW/
+EqOzHmpXgG9GzMgtQpFXsySrzQwkri1LNZmLkIVIU45cQVEvpoNzFsrXCRffFfsk
+RB1UWFdTVVtwG/mn+FqzyvYjscCvdi13wCkOy7PfaXwLPe8pBdKp5r0oXcqhnfHH
+AMe4A5Rln6ZgYfUFdzBIuDELttY41WZEGwIZLYe5ZHmJM8DIfAWeXAOVHzLasmfU
+xk1bw6gMOIKWaW28OqeiHzZpR8N8zd1MoeZRms59ltVe4fd5sY0zizicgrFt6dRn
+oVl6l31vPWSWOBmkM9K5/FlMpNjWvKlf4HIKO89p+usqwSjpkVuYRADW0qx9XQDv
+JAFGSy62sTvoA2EnF0sxDKPclRZoXLISMIXYv3AFhLSISl4FRd+QBFOK5dOV2y0M
++kW7gr5DSPOPEumpH6lkp4Furnq6FNQqpsjeaHibylod
+</X509Certificate></X509Data></KeyInfo></Signature>
+		</DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#IDaacee680dd8448eb94b95990d2b453ef"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1AM7rGYopsRTJEN9zwGc5/OJTeo=</DigestValue></Reference></SignedInfo><SignatureValue>
+vrIMzjPxBONL+3c9eIdz+7cmtUj/PJkctYSuBprSWnOONbxX7+J4EYAb8wVgNbaD
+jhwqkfXHNVQ6KHlH4HEF/ufmXBlR8NfYY1R6C6nQq7BD5TEeEgh3T5nWXi44fIEy
+64kelelPrTA4p0VNjtiMOFj7EnwedItsuJ0bsY4kUUD4SWEMmepYtF6tLbTDVpuY
+tZ2eik2TmFAxObnnwd5zy+Xpfe6dBzFAmloTLBrqS1U+1S0uMyWFW7lRxznwtmlz
+3ecT0mprCYbfJ+qWbspzBM9M5bTRzmC2tnsjZwZHAGGiIFnoZyajT2OFXYqoB2Kj
+RmlbhLVLww7zcleOx3dlsw==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+xmWVEkFboJdjQ+GQs4+zVKE3Nj0nYm8F+o3X6TB4MNRf/yEPcYBXfKTNXRF+s5Sz
+3zOBQsRoJYu9vDbBbLl2V2DKvVye/olu7MZUcEknopMR6u0u9LnAxH9GSJYZ3jem
+rT6o6AwZ19D47IJcSnq+gUXKKAi7XinloIeJpjGKajqo3To/k+JySVo4plNnc5O+
+bhoPtjRTaQroE4cC6uCXcfIgAlqdA98Lu3knHJbNp2EJ8dnYWet8N8p67ytnfGqE
++kd2vY9VJE34TsfUZ9wF7oId8/LsxW3ywSp0YlnlI5GxRR330iUXS2RBNRXCJl7D
+LeuB/HZXP05M+63QU/uMpw==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIHzTCCBbWgAwIBAgIKHsrLfgABAAM5wDANBgkqhkiG9w0BAQsFADCBvzELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQDExVFLUNFUlRDSElMRSBDQSBGRVMg
+MDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNoaWxlLmNsMB4XDTIy
+MTAxNDE2NTg0M1oXDTI1MTAxMzE2NTg0M1owgckxCzAJBgNVBAYTAkNMMSIwIAYD
+VQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFH
+TzE2MDQGA1UEChMtQ09NRVJDSUFMSVpBRE9SQSBZIERJU1RSSUJVSURPUkEgREVN
+QVNMRUQgU1BBMQowCAYDVQQLDAEqMRowGAYDVQQDExFEQU5JRUwgS1VaTklFQ0tJ
+IDEjMCEGCSqGSIb3DQEJARYUQ09OVEFCSUxJREFEQERMRUQuQ0wwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGZZUSQVugl2ND4ZCzj7NUoTc2PSdibwX6
+jdfpMHgw1F//IQ9xgFd8pM1dEX6zlLPfM4FCxGgli728NsFsuXZXYMq9XJ7+iW7s
+xlRwSSeikxHq7S70ucDEf0ZIlhneN6atPqjoDBnX0PjsglxKer6BRcooCLteKeWg
+h4mmMYpqOqjdOj+T4nJJWjimU2dzk75uGg+2NFNpCugThwLq4Jdx8iACWp0D3wu7
+eSccls2nYQnx2dhZ63w3ynrvK2d8aoT6R3a9j1UkTfhOx9Rn3AXugh3z8uzFbfLB
+KnRiWeUjkbFFHffSJRdLZEE1FcImXsMt64H8dlc/Tkz7rdBT+4ynAgMBAAGjggK9
+MIICuTCCAV8GA1UdIASCAVYwggFSMIIBTgYIKwYBBAHDUgUwggFAMD0GCCsGAQUF
+BwIBFjFodHRwczovL3d3dy5lLWNlcnRjaGlsZS5jbC9wb2xpdGljYXMteS1wcmFj
+dGljYXMvMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUA
+cgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAA
+cgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAA
+cABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUA
+cwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMA
+dABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFO3vkh0opZPA8tgbmBbY
+PYP2XuqSMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjIz
+Njk4MjkzLTkwHwYDVR0jBBgwFoAUdNYhs/Ra6C18u1kGY0PvabQ6kwQwQAYDVR0f
+BDkwNzA1oDOgMYYvaHR0cDovL2NybC5lY2VydGNoaWxlLmNsL0UtQ0VSVENISUxF
+Q0FGRVMwMi5jcmwwPQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8v
+b2NzcGZlcy5lY2VydGNoaWxlLmNsL29jc3AwPAYJKwYBBAGCNxUHBC8wLQYlKwYB
+BAGCNxUIgd3STZfUOoaJnQaHiM5vg6/MYEWG0uwIhsfKfQIBZAIBBzAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQELBQADggIB
+AFRyVwBJcelInZd4Xfo9QM5jEgZK3WxwH4o/DdmcTI+xKLANaw3TQ+JVosc4kdUe
+gtfvY3cAmROR32lPyaaPnf2KHohaGQGV64C2gWxY1BtNppBDtnK2Ew3ljiGQB7gb
+QrS/u6iTGBHVZVE/siU3DOqyuswXgMD7HRr0xiBCK6tTREgZEI17dkEDbJqopSC3
+QXDNoVp3BQCpPbfckPLpORN3hWhqALWEPqYZjr4rYC4e1Zrq0LGbUkA6T/urMtW/
+EqOzHmpXgG9GzMgtQpFXsySrzQwkri1LNZmLkIVIU45cQVEvpoNzFsrXCRffFfsk
+RB1UWFdTVVtwG/mn+FqzyvYjscCvdi13wCkOy7PfaXwLPe8pBdKp5r0oXcqhnfHH
+AMe4A5Rln6ZgYfUFdzBIuDELttY41WZEGwIZLYe5ZHmJM8DIfAWeXAOVHzLasmfU
+xk1bw6gMOIKWaW28OqeiHzZpR8N8zd1MoeZRms59ltVe4fd5sY0zizicgrFt6dRn
+oVl6l31vPWSWOBmkM9K5/FlMpNjWvKlf4HIKO89p+usqwSjpkVuYRADW0qx9XQDv
+JAFGSy62sTvoA2EnF0sxDKPclRZoXLISMIXYv3AFhLSISl4FRd+QBFOK5dOV2y0M
++kW7gr5DSPOPEumpH6lkp4Furnq6FNQqpsjeaHibylod
+</X509Certificate></X509Data></KeyInfo></Signature>
+</EnvioDTE>
