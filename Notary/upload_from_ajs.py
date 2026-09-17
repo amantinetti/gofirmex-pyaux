@@ -28,12 +28,12 @@ class AnalyzeException(Exception):
 
 def get_pending_documents(conn, notary_id):
     sql = """ select sign_documents.id
-        from sign_documents
-                 join portfolios on sign_documents.portfolio_id = portfolios.id
-                 join document_types on sign_documents.type_id = document_types.id
-        where status_id = 7
-          and notary_id = %s
-          and notary_signed_at is null """
+              from sign_documents
+                       join portfolios on sign_documents.portfolio_id = portfolios.id
+              where portfolios.status_id = 7
+                and sign_documents.notary_id = %s
+                and sign_documents.notary_signed_at is null 
+          order by sign_documents.created_at asc """
     cursor = conn.cursor()
     cursor.execute(sql, (notary_id,))
     documents = cursor.fetchall()
@@ -67,7 +67,8 @@ def analyze_pdf(document_id, file_url):
     res_search = re.search(string, text)
 
     if not res_search:
-        raise AnalyzeException('Document ID Not Found')
+        ##raise AnalyzeException('Document ID Not Found')
+        return False
 
 #    if not reader.is_encrypted:
 #        raise AnalyzeException('Document Signs Not Found')
@@ -83,7 +84,8 @@ def upload_to_notary(document_id, file_url):
         "signDocumentId": document_id,
         "fileUrl": file_url,
         # "notaryID": "cca15b0d-2fd5-45a1-929e-229e8aa7024d"
-        "ignoreDocumentValidation": True,
+        # "ignoreDocumentValidation": True,
+        # "force": True,
     })
     headers = {
         'Content-Type': 'application/json'
@@ -104,8 +106,7 @@ if __name__ == '__main__':
                                    password="YsB7cV9LWWDA4LenaGDsCCRz06fevi",
                                    port="5432", application_name="manti-python-script")
 
-    # notary = "80cb094c-f3f5-494a-81e3-677505da48f1" # 42°NOTARIA DE SANTIAGO ALVARO DAVID GONZALEZ SALINAS
-
+    #notary = "0d265acb-e618-408b-aa58-801a2f4a0889" # 2° Notaría de San Miguel Fabián Díaz Contreras
     notary = "0eef8612-a840-4d06-9821-ce49278f8089"  # Notaria 1° NOTARIA DE INDEPENDENCIA
     try_recover = False
 
@@ -118,14 +119,18 @@ if __name__ == '__main__':
             possible_names = [
                 "039-FD-{}".format(shorten_uuid(document_id.upper())),
                 "039-FD-{}".format(shorten_uuid(document_id.lower())),
+                #"039-FD-{}1".format(shorten_uuid(document_id.lower())),
                 #"039-FDI-{}".format(document_id),
                 #"039-FND-{}".format(document_id),
+                #"120-FD-{}".format(shorten_uuid(document_id.upper())),
+                #"120-FD-{}".format(shorten_uuid(document_id.lower())),
 
             ]
             for item in possible_names:
                 file_url = download_file(item)
                 if file_url != '':
                     same_document = analyze_pdf(document_id, file_url)
+                    #same_document = True
                     if same_document:
                         upload_result = upload_to_notary(document[0], file_url)
                         print("Document ID -> {} Upload Status -> {}".format(document[0], upload_result))

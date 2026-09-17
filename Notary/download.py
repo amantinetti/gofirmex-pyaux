@@ -22,16 +22,17 @@ def shorten_uuid(original_uuid):
     return hash_base64[:22]  # Configurar longitud para uso específico
 
 
-def get_pending_documents(conn, notary_id):
+def get_pending_documents(conn, notary_id, sign_types):
     sql = """ select sign_documents.id
               from sign_documents
                        join portfolios on sign_documents.portfolio_id = portfolios.id
                        join document_types on sign_documents.type_id = document_types.id
               where status_id = 7
                 and (portfolios.notary_id = %s or sign_documents.notary_id = %s)
-                and notary_signed_at is null """
+                and notary_signed_at is null
+                and sign_documents.notary_signing_type_id in %s"""
     cursor = conn.cursor()
-    cursor.execute(sql, (notary_id, notary_id,))
+    cursor.execute(sql, (notary_id, notary_id, sign_types,))
     documents = cursor.fetchall()
     cursor.close()
 
@@ -72,10 +73,13 @@ if __name__ == '__main__':
     notary = "0d265acb-e618-408b-aa58-801a2f4a0889"  # Notaria 2° Notaría de San Miguel Fabián Díaz Contreras
     short_name = True
 
+    sign_types = (1,5,) ## Certificaciones
+    #sign_types = (2,3,4,) ## Autorizaciones
+
     jump_exists = True
     jump_in_downloaded = True
 
-    documents = get_pending_documents(notary_conn, notary)
+    documents = get_pending_documents(notary_conn, notary, sign_types)
 
     already_downloaded = []
     already_downloaded_file = open('downloaded_docs', 'r')
