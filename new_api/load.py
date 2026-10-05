@@ -4,7 +4,7 @@ signers = [{
     "nin": "19377149-1",
     "names": "Arturo",
     "lastnames": "Mantinetti",
-    "email": "validate+a6wW7xW8ex@verify.unspam.email",
+    "email": "arturo@gofirmex.com",
     "phone": "+56972824218",
     "notification": "email",
     "country": "CL",
@@ -414,11 +414,11 @@ documents_validated = [
 ]
 
 # customerID = "148ebf61-7383-400a-acae-cd824048434c" ## WaveDev
-# customerID = "ceece6a8-698e-47fa-916f-b60c3ed71626"  ## Firmex
+customerID = "ceece6a8-698e-47fa-916f-b60c3ed71626"  ## Firmex
 # customerID = "664f988f-a425-49a7-8611-d64b954de5a8"  ## Firmex Internal
 # customerID = "0bf64ec7-9df5-44ba-b8c6-683e33e1010c"  ## Pruff
 # customerID = "1ef952d0-0a0f-4b6c-b76f-1b75b7b90f3b"  ## Assetplan Asesores SpA
-customerID = "7c9b9397-929f-4b17-b9db-09d5d27a247c"  ## Romo Propiedades SpA
+# customerID = "7c9b9397-929f-4b17-b9db-09d5d27a247c"  ## Romo Propiedades SpA
 
 if __name__ == '__main__':
-    portfolio_id = new_api.service.create_full_portfolio(documents_romo2, [], signers_romop2, customerID, True)
+    portfolio_id = new_api.service.create_full_portfolio(documents_validated, [], signers, customerID, False)
