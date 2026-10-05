@@ -1,0 +1,25 @@
+# Ignore everything:
+#*
+
+FEA/docs/
+FEA/out/
+
+
+# Except for the themes directories:
+
+#!FEA/*
+!FEA/docs/.none
+!FEA/out/.none
+
+
+.DS_Store
+.idea/
+
+invoice_mailing/compras/*.xml
+invoice_mailing/compras/*.pdf
+invoice_mailing/facturas/*.xml
+invoice_mailing/facturas/*.pdf
+invoice_mailing/compras/**/*.xml
+invoice_mailing/compras/**/*.pdf
+invoice_mailing/facturas/**/*.xml
+invoice_mailing/facturas/**/*.pdf
